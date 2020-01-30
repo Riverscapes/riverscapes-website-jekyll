@@ -63,4 +63,4 @@ Create and a plain text file in the root of your repository simply called `LICEN
 
 ## Documentation Web Site
 
-Each tool should have its own documentation web site that explains how the tool works as well as how to obtain, install and run the tool itself. See the separate section on [Riverscapes Tool Web Sites]({{ site.baseurl}}/Technical_Reference/Documentation_Standards/WebSites/) for more information.
+Each tool should have its own documentation web site that explains how the tool works as well as how to obtain, install and run the tool itself. See the separate section on [Riverscapes Tool Web Sites]({{ site.baseurl}}/Technical_Reference/Documentation_Standards/WebSites/) for more information. Any peer-reviewed publications that vet the methods implemented in the tool or code should be cited.
