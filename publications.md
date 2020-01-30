@@ -1,6 +1,13 @@
 ---
 title: Publications
+index: 5
 ---
+
+Each [tool]({{ site.baseurl }}/Tools) has its own list of specific, supporting publications on its website.  
+
+<a href="https://www.zotero.org/"><img class="float-left" src="{{ site.baseurl }}/assets/images/orgs/Zotero.png"></a>  We maintain a [Riverscapes Consortium library](https://www.zotero.org/groups/2438806/riverscapesconsortium?)  hosted on Zotero and available for download. 
+
+## Riverscape Consortium Publications:
 
 Macfarlane, William W., Wheaton, Joseph M., Bouwes, Nicolaas, Jensen, Martha L., Gilbert, Jordan T., Hough-Snee, Nate, Shivik, John A. 2017. [Modeling the capacity of riverscapes to support beaver dams](http://www.sciencedirect.com/science/article/pii/S0169555X15302166). Geomorphology. DOI: [10.1016/j.geomorph.2015.11.019](10.1016/j.geomorph.2015.11.019)
 
