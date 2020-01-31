@@ -1,4 +1,4 @@
-# NARDocs Wiki
+This repo contains the main Riverscapes web site.
 
 
 ## Working locally
@@ -9,7 +9,7 @@ To get the latest theme:
 bundle update
 ```
 
-To autobuild the site locally
+To autobuild and serve the site locally
 
 ```
 bundle exec jekyll serve
@@ -21,7 +21,7 @@ Some special folders:
 
 * `_site`: You may or may not see this. It is the compiled site on your local and should be ".gitignored".
 * `assets`: this is where images, fonts, javascript and compiled CSS lives. Don't ever change CSS code here since it gets overwritten.
-* `src`: This is where the page layouts, uncompiled CSS and everything "code-y" lives. If you're writing content just ignore this completely.
+* `src`: helper scripts to generate or manipulate content within the site.
 
 Some special files:
 

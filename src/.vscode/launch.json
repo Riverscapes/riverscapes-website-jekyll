@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "envFile": "${workspaceFolder}/.env",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "Citations",
+            "type": "python",
+            "envFile": "${workspaceFolder}/.env",
+            "request": "launch",
+            "program": "${workspaceFolder}/citations.py",
+            "console": "integratedTerminal",
+            "args": [
+                "/Users/philip/code/riverscapes/riverscapes-website/publications.md",
+                "--boiler_plate",
+                ""
+            ]
+        }
+    ]
+}
