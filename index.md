@@ -42,5 +42,5 @@ Our consortium has been prolific in developing and vetting the [science]({{ site
 
 
 ## References
-- Vörösmarty CJ et al. 2010. Global threats to human water security and river biodiversity. Nature 467 : 555–561. DOI: [10.1038/nature09440](http://dx.doi.org/10.1038/nature09440) [online] Available from: https://www.nature.com/articles/nature09440 
+- Vörösmarty CJ et al. 2010. Global threats to human water security and river biodiversity. Nature 467 : 555–561. DOI: [10.1038/nature09440](http://dx.doi.org/10.1038/nature09440)  
 - <a href="http://dx.doi.org/10.13140/RG.2.2.19590.63049/2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Wheaton J.M., Bennett S.N., Bouwes, N., Maestas J.D. and Shahverdian S.M. (Editors). 2019. [Low-Tech Process-Based Restoration of Riverscapes: Design Manual. Version 1.0](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2). Utah State University Restoration Consortium. Logan, UT. 286 pp. DOI: [10.13140/RG.2.2.19590.63049/2](http://dx.doi.org/10.13140/RG.2.2.19590.63049/2).
