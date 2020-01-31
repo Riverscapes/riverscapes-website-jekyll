@@ -1,5 +1,5 @@
 ---
-title: Support
+title: Getting Support
 ---
 
 While all the riverscapes [tools](), [data]() and [science]() are freely available and documented, that doesn't necessarily mean you'll find everything you need to make it work for you or that what we have meets your needs. The consortium is not available for hire per se, but the [individuals behind the consortium]() can be contacted and/or contracted for help with specific problems, projects and inquiries. In general, despite most of these individuals being very busy and in high-demand, we are an altruistic bunch and are largely very generous with our time. That said, very few of these individuals have endless time or resources (i.e. staff) to get work done, and most of us work on soft-money (i.e. grants and contracts). As such, we try to provide as many resources as possible for free to help you 'do it yourself', as well as affordable workshops & courses to get you trained up economically. However, if you need more help, it is availble by contacting the right organizations and individuals listed below.
