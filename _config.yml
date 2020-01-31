@@ -38,6 +38,9 @@ exclude:
   - TEMPLATE
   - Gemfile*
   - publications_boilerplate.md
+  - supporters.md
+  - people.md
+  - vision_and_mission.md
 
 
 # These are theme settings that will be used to turn features on and off
