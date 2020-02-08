@@ -38,9 +38,11 @@ exclude:
   - TEMPLATE
   - Gemfile*
   - publications_boilerplate.md
-  - supporters.md
-  - people.md
+  - About/supporters.md
+  - About/people.md
   - vision_and_mission.md
+  - Science/pubications.md
+  - Science/science.md
 
 
 # These are theme settings that will be used to turn features on and off
