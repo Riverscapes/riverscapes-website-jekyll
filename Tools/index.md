@@ -22,18 +22,18 @@ Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/
 | |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/#interface)|[Status]({{ site.baseurl }}/Tools/#tool-status)|
 |---|---|---|---|---|---|
 |**Reach Scale Tools**||||||
-|[GCD - Geomorphic Change Detection](http://gcd.riverscapes.xyz/)|Cell|Reach|C#|GUI, ArcGIS AddIn, CLI|Production|
-|[GUT - Geomorphic Unit Toolkit](http://gut.riverscapes.xyz/)|Cell|Reach|Python|CLI, ArcGIS Toolbox|Research Grade|
-|[FHM - Fish Habitat Model](http://habitat.northarrowresearch.com/)|Cell|Reach|C#/C++|GUI|Operational|
+|[GCD - Geomorphic Change Detection](http://gcd.riverscapes.xyz/)|Cell|Reach|C#|<i class="fa fa-desktop" aria-hidden="true"></i> , <img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">, <i class="fa fa-terminal" aria-hidden="true"></i>|Production|
+|[GUT - Geomorphic Unit Toolkit](http://gut.riverscapes.xyz/)|Cell|Reach|Python|<i class="fa fa-terminal" aria-hidden="true"></i>, <img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research Grade|
+|[FHM - Fish Habitat Model](http://habitat.northarrowresearch.com/)|Cell|Reach|C#/C++|<i class="fa fa-desktop" aria-hidden="true"></i> |Operational|
 |**Network Scale Tools**||||||
-|[BRAT - Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz/)|Reach|Network|Python|ArcGIS Toolbox|Research-Grade|
-|[RCAT - Riparian Condition Assessment Tool](http://rcat.riverscapes.xyz/)|Reach|Network|Python|ArcGIS Toolbox|Research-Grade|
-|[GNAT - Geomorphic Network Assessment Tool](http://gnat.riverscapes.xyz/)|Reach|Network|Python|ArcGIS Toolbox|Research-Grade|
+|[BRAT - Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
+|[RCAT - Riparian Condition Assessment Tool](http://rcat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
+|[GNAT - Geomorphic Network Assessment Tool](http://gnat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |**Utilities**||||||
-|[RAVE - Riverscapes Analysis Visualization Explorer](http://rave.riverscapes.xyz)|Any|Any|C#|ArcGIS AddIn|Production|
+|[RAVE - Riverscapes Analysis Visualization Explorer](http://rave.riverscapes.xyz)|Any|Any|C#|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Production|
 |**Legacy CHaMP Tools**||||||
-|[CHaMP Topo Processing Tools](http://champtools.northarrowresearch.com/)|Reach|Reach|Python|ArcGIS AddIn|Production|
-|[CHaMP Topo Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki)|Reach|Network|Python|Toolbox|Operational|
+|[CHaMP Topo Processing Tools](http://champtools.northarrowresearch.com/)|Reach|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Production|
+|[CHaMP Topo Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Operational|
 
 
 ### Popular Reach-Scale Tools
@@ -52,34 +52,37 @@ Tools are designated as "*pending riverscapes-compliance*" <img  src="{{ site.ba
 | |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/#interface)|[Status]({{ site.baseurl }}/Tools/#tool-status)|
 |---|---|---|---|---|---|
 |**Reach Scale Tools**||||||
-|[Fluvial Coridor Toolbox](https://github.com/EVS-GIS/Fluvial-Corridor-Toolbox-ArcGIS)|Cell|Reach|Python|ArcGIS Toolbox; QGIS Plugin|Operational|
-|[MoRPHED - Model of Riverine Physical Habitat & Ecogeomorphic Dynamics](http://morphed.joewheaton.org/)|Cell|Reach|C++|GUI|Research Grade|
-|[NREI - Net Rate of Energy Intake](https://github.com/Riverscapes/NREI)|Cell|Reach|R|CLI|Research Grade|
-|[TAT - Topographic Analyis Toolkit](https://github.com/Riverscapes/NREI)|Cell|Reach|R|ArcGIS AddIn|Operational|
-|[ToPCAT - Topographic Point Cloud Analysis Toolkit](https://github.com/Riverscapes/NREI)|Cell|Reach|R|ArcGIS AddIn|Opeartional|
-|[ToPCAT - Topographic Point Cloud Analysis Toolkit](https://github.com/Riverscapes/NREI)|Cell|Reach|R|ArcGIS AddIn|Research|
+|[Fluvial Coridor Toolbox](https://github.com/EVS-GIS/Fluvial-Corridor-Toolbox-ArcGIS)|Cell|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png"> , <img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png">|Operational|
+|[MoRPHED - Model of Riverine Physical Habitat & Ecogeomorphic Dynamics](http://morphed.joewheaton.org/)|Cell|Reach|C++|<i class="fa fa-desktop" aria-hidden="true"></i> |Research Grade|
+|[NREI - Net Rate of Energy Intake](https://github.com/Riverscapes/NREI)|Cell|Reach|R|<i class="fa fa-terminal" aria-hidden="true"></i>|Research Grade|
+|[TAT - Topographic Analyis Toolkit](https://github.com/Riverscapes/NREI)|Cell|Reach|R|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Operational|
+|[ToPCAT - Topographic Point Cloud Analysis Toolkit](https://github.com/Riverscapes/NREI)|Cell|Reach|R|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Opeartional|
+|[ToPCAT - Topographic Point Cloud Analysis Toolkit](https://github.com/Riverscapes/NREI)|Cell|Reach|R|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Research|
 |**Network Scale Tools**||||||
-|[CASCADE Toolbox](http://cascade.deib.polimi.it/)|Reach|Network|Matlab|Matlab GUI|Opperational|
-|[Catchment Tool](https://riverscapes.github.io/CatchmentTool/)|Reach|Network|Python|ArcGIS Toolbox|Prototype|
-|[Conductivity Tools](https://riverscapes.github.io/Conductivity/)|Reach|Network|Python|ArcGIS Toolbox|Prototype|
-|[GNAT - Geomorphic Network Assessment Tool](http://gnat.riverscapes.xyz/)|Reach|Network|Python|Arc GIS Toolbox|Research Grade|
-|[Grain Size Tool](https://github.com/Riverscapes/grain-size-tool)|Reach|Network|Python|Arc GISToolbox|Prototype|
-|[Network Profiler Tool](https://riverscapes.github.io/NetworkProfiler/)|Reach|Network|Python|QGIS Plugin|Prototype|
-|[Solar Stream Tools](https://riverscapes.github.io/SolarStream/)|Reach|Network|Python|ArcGIS Toolbox|Prototype|
-|[Tributary Impact](http://tributaryimpact.riverscapes.xyz/)|Reach|Network|Python|ArcGIS Toolbox|Prototype|
-|[WRAT - Wood Restoration Assessment Tool](https://github.com/Riverscapes/WRAT)|Reach|Network|Python|ArcGIS Toolbox|Prototype|
+|[CASCADE Toolbox](http://cascade.deib.polimi.it/)|Reach|Network|Matlab| <i class="fa fa-desktop" aria-hidden="true"></i> |Opperational|
+|[Catchment Tool](https://riverscapes.github.io/CatchmentTool/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Prototype|
+|[Conductivity Tools](https://riverscapes.github.io/Conductivity/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Prototype|
+|[GNAT - Geomorphic Network Assessment Tool](http://gnat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research Grade|
+|[Grain Size Tool](https://github.com/Riverscapes/grain-size-tool)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Prototype|
+|[Network Profiler Tool](https://riverscapes.github.io/NetworkProfiler/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png">|Prototype|
+|[Solar Stream Tools](https://riverscapes.github.io/SolarStream/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Prototype|
+|[Tributary Impact](http://tributaryimpact.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Prototype|
+|[WRAT - Wood Restoration Assessment Tool](https://github.com/Riverscapes/WRAT)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Prototype|
 |**Catchment Scale Tools**||||||
-|[Connectivity Index](https://github.com/HydrogeomorphologyTools/Connectivity-Index-ArcGIS-toolbox)|Cell|Catchment|Python|ArcGIS Toolbox|Research Grade|
-|[SedInConnect](https://github.com/HydrogeomorphologyTools/SedInConnect_2.3)|Cell|Catchment|Python|GUI|Operational|
+|[Connectivity Index](https://github.com/HydrogeomorphologyTools/Connectivity-Index-ArcGIS-toolbox)|Cell|Catchment|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research Grade|
+|[SedInConnect](https://github.com/HydrogeomorphologyTools/SedInConnect_2.3)|Cell|Catchment|Python|<i class="fa fa-desktop" aria-hidden="true"></i> |Operational|
 |**Utilities**||||||
-|[PointCloud2Raster](https://github.com/NorthArrowResearch/pointcloud2raster)|Point|Reach|C++|CLI|Prototype|
-|[PySESA - Spatially Explicit Spectral Analysis](https://github.com/dbuscombe-usgs/pysesa)|Point|Reach|Python|CLI|Research Grade|
-|[RasterMan](https://github.com/NorthArrowResearch/rasterman)|Cell|Catchment|C++|CLI|Research Grade|
+|[PointCloud2Raster](https://github.com/NorthArrowResearch/pointcloud2raster)|Point|Reach|C++|<i class="fa fa-terminal" aria-hidden="true"></i>|Prototype|
+|[PySESA - Spatially Explicit Spectral Analysis](https://github.com/dbuscombe-usgs/pysesa)|Point|Reach|Python|<i class="fa fa-terminal" aria-hidden="true"></i>|Research Grade|
+|[RasterMan](https://github.com/NorthArrowResearch/rasterman)|Cell|Catchment|C++|<i class="fa fa-terminal" aria-hidden="true"></i>|Research Grade|
 |**Legacy CHaMP Tools**||||||
-|[CTT - CHaMP Transformation Tool](http://ctt.riverscapes.xyz/index.html)|Cell|Reach|C#|ArcGIS AddIn|Production|
-|[CHaMP Topo Processing Tools](http://champtools.northarrowresearch.com/)|Reach|Reach|Python|GUI|Production|
-|[CHaMP Workbench](http://workbench.northarrowresearch.com/)|Any|Any|C#|GUI|Operational|
-|[CHaMP Hydraylic-Modelling Delft3D Automation](https://github.com/SouthForkResearch/Hydraulic-Modeling/wiki)|cell|Reach|R/C|CLI|Operational|
+|[CTT - CHaMP Transformation Tool](http://ctt.riverscapes.xyz/index.html)|Cell|Reach|C#|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Production|
+|[CHaMP Topo Processing Tools](http://champtools.northarrowresearch.com/)|Reach|Reach|Python|<i class="fa fa-desktop" aria-hidden="true"></i> |Production|
+|[CHaMP Workbench](http://workbench.northarrowresearch.com/)|Any|Any|C#|<i class="fa fa-desktop" aria-hidden="true"></i> |Operational|
+|[CHaMP Hydraylic-Modelling Delft3D Automation](https://github.com/SouthForkResearch/Hydraulic-Modeling/wiki)|cell|Reach|R/C|<i class="fa fa-terminal" aria-hidden="true"></i>|Operational|
+
+<i class="fab fa-creative-commons-zero"></i>
+
 
 # Model Discrimination
 The following concpets are helpful for discriminating model types.
@@ -87,14 +90,16 @@ The following concpets are helpful for discriminating model types.
 ## Interface
 
 RC tools are deployed to users thorugh a variety of interfaces:
-* [ArcGIS AddIn](https://desktop.arcgis.com/en/arcmap/10.3/guide-books/python-addins/sharing-and-installing-add-ins.htm) = Toolbar in ArcGIS
-* [ArcGIS Toolbox](https://desktop.arcgis.com/en/arcmap/10.3/analyze/creating-tools/a-quick-tour-of-python-toolboxes.htm) = Toolbox
-* [QGIS Plugin](https://plugins.qgis.org/) = Toolbar in QGIS
-* CLI = [command line interface](https://en.wikipedia.org/wiki/Command-line_interface)
-* GUI = [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
-* Web = interactive web site
-* API = [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)
-* PWA = [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_application)
+* <img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png"> :  [ArcGIS AddIn](https://desktop.arcgis.com/en/arcmap/10.7/guide-books/python-addins/sharing-and-installing-add-ins.htm)  ArcGIS [AddIn Toolbar](https://desktop.arcgis.com/en/arcmap/10.7/analyze/python-addins/sharing-and-installing-add-ins.htm) in ArcGIS
+* <img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">:  [ArcPy Toolbox in ArcGIS](https://desktop.arcgis.com/en/arcmap/10.7/analyze/creating-tools/a-quick-tour-of-python-toolboxes.htm)
+* <img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png"> [QGIS Plugin](https://plugins.qgis.org/) = Toolbar in [QGIS](https://qgis.org)
+* <i class="fa fa-terminal" aria-hidden="true"></i> : CLI = [Command Line Interface](https://en.wikipedia.org/wiki/Command-line_interface)
+* <i class="fa fa-desktop" aria-hidden="true"></i> : GUI = [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
+* <i class="fa fa-chrome" aria-hidden="true"></i>: Web = interactive web site
+* <i class="fa fa-code" aria-hidden="true"></i> : API = [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)
+* <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">:  PWA = [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_application)
+
+Most tools have just one deployment interface, some have multiple. 
 
 ## Tool Status
 We classify the status of our tools according to their growth from innovative research ideas, through operational tools that (with a little love) can be run more broadly to professional tools that are robust and usable by any user in very diffferent settings.
