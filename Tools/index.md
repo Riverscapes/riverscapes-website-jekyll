@@ -108,10 +108,28 @@ Our RC Techncial Committee ranks the status of tools using the following criteri
 
 The status of tools. The same adjectives for ‘tools’ can be applied to the overall model or family of commands within in a tool or specific commands within a toolbar. 
 
+| Tool Status | Technological<br>Readiness Level | Source Code <br>Documentation | Open Source | User <br>Documentation | Easy User <br>Interface |  |
+|--------------------|:--------------------------------:|:-------------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|-------------------------|---|
+| Concept | TR1 | <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> |  |  |  |  |
+| Proof of Concept | TR2 | <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> |  |  |  |  |
+| Research-Grade | TR3 | <i class="fa fa-check-square-o" aria-hidden="true"></i> |  |  |  |  |
+| Operational | TR4 | <i class="fa fa-check-square-o" aria-hidden="true"></i> | <i class="fa fa-check-square-o" aria-hidden="true"></i> | <i class="fa fa-check-square-o" aria-hidden="true"></i> |  |  |
+| Professional-Grade | TR5 | <i class="fa fa-check-square-o" aria-hidden="true"></i> | <i class="fa fa-check-square-o" aria-hidden="true"></i> | <i class="fa fa-check-square-o" aria-hidden="true"></i> |  |  |
+| Production-Grade | TR6 | <i class="fa fa-check-square-o" aria-hidden="true"></i> | <i class="fa fa-check-square-o" aria-hidden="true"></i> | <i class="fa fa-check-square-o" aria-hidden="true"></i> |  |  |
+| Commercial-Grade | TR7 | <i class="fa fa-check-square-o" aria-hidden="true"></i> | <i class="fa fa-check-square-o" aria-hidden="true"></i> | <i class="fa fa-check-square-o" aria-hidden="true"></i> |  |  |
+
+<i class="fa fa-exclamation-triangle" aria-hidden="true"></i> - No  
+<i class="fa fa-check-square-o" aria-hidden="true"></i> - Yes
+
 1. **Concept** - A tool in which the algorithm has been developed, the method proposed, and perhaps it has been manually implemented, but it has not been packaged into a ‘tool’, which others can apply.
 2. **Proof of Concept** - A tool in which the algorithm has been developed, but it has not been fully documented and may only work with particular data types.
-3. **Prototype** - A tool that has been developed into a reusable piece of code, that the analysts or developers can apply, but has not been well documented, is not yet distributable, and generally lacks a wrapper, toolbox, or GUI to make it easy for others to apply. Such prototype tools also are generally simple scripts (e.g. in Python or R), which have not yet been written a manner that facilitates easy batch processing nor has it been optimized for computational efficiency.
+3. **Research Grade** - A tool that has been developed into a reusable piece of code, that the analysts or developers can apply, but has not been well documented, is not yet distributable, and generally lacks a wrapper, toolbox, or GUI to make it easy for others to apply. Such prototype tools also are generally simple scripts (e.g. in Python or R), which have not yet been written a manner that facilitates easy batch processing nor has it been optimized for computational efficiency.
 4. **Operational** - A tool that can be applied by other analysts and is ready for limited distribution, but does not necessarily have a polished, easy-to-use user interface. Such tools are good for one-off analyses (e.g. network analysis), and generally acceptable to be used by the team of CHaMP/ISEMP analysts and partners. Operational tools all have the source code in an open-source GIT repository with code documentation, and have at least a basic help website available with basic background and tutorials.
 5. **Professional**
 6. **Production** - A tool that has both been optimized for batch processing and running over entire CHaMP domain (typically on AWS). These tools produce outputs that can be viewed, manipulated and re-run in the operational tools. 
 7. **Commercialized** - A tool that has at least ‘operational’ , but potentially also ‘production’ status that also has a well developed user interface (GUI) that allows non-expert consumers of the products to view the outputs either in the tool or in the Analyst Toolbar. Production-level tools also generally are backed up by methods that have been vetted in the literature and may even have a publication specifically on this tool. 
+
+These ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels)
+
+<div class="responsive-embed">
+<img src="https://www.twi-global.com/image-library/FAQs/Technology-Readiness-Level-TRL-Infographic.jpg"></div>
