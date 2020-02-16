@@ -19,7 +19,9 @@ The Riverscapes Consoritum organizes and serves data via  *data warehouses* <img
 ## Advantages
 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/data/Riverscapes Warehouse Loggin.png">The advantages of  [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)  being hosted in a data warehouse can include:
-- Searable and querable Warehouse Explorer Catalog <i class="fa fa-filter" aria-hidden="true"></i>
+- Searable and querable [Warehouse Explorer]({{ site.baseurl }}/Data_Warehouses#warehouse-explorer-concept) Catalog <i class="fa fa-filter" aria-hidden="true"></i>
+- Custom [Web-Maps]({{ site.baseurl }}/Data_Warehouses#web-maps) <i class="fa fa-map-o" aria-hidden="true"></i>
+- Custom field and desktop [Apps]({{ site.baseurl }}/Data_Warehouses#apps---pwas) <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">
 - Secure cloud hosting  (typically in <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/AWS_24.png"></a> [S3](https://aws.amazon.com/s3/faqs/)) <i class="fa fa-cloud" aria-hidden="true"></i> with:
   - Easy public sharing <i class="fa fa-share-alt" aria-hidden="true"></i>
   - Full user <i class="fa fa-user-circle-o" aria-hidden="true"></i> access permission control <i class="fa fa-key" aria-hidden="true"></i>
@@ -31,7 +33,7 @@ The Riverscapes Consoritum organizes and serves data via  *data warehouses* <img
 - Searchable and discoverable in [RAVE](http://rave.riverscapes.xyz) GIS Toolbars
 
 
-**NOTE** - As of January 2020, we have not made any of the *data warehouses* fully public facing as they are still in Beta Testing. 
+**NOTE** - As of January 2020, we have not made any of the *riverscapes warehouses* fully public facing as they are still in Beta Testing. 
 
 -----
 # Riverscape Warehouse Concepts
@@ -55,39 +57,59 @@ When the [Columbia Habitat Monitoring Program](http://champmonitoring.org) (CHaM
 
 
 -----
-## Web-Map and PWA Enabled
+## Web-Maps
 <img class="float-right" src="{{ site.baseurl }}/assets/images/data/BRAT_Risk.png">
-One of the real values in hosting your [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> in a Riverscapes Warehouse  <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">, is that web-maps can be produced that allow non-GIS users and non-modelers to interact with  riverscape project outputs and explore them.
 
+One of the real values in hosting your [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> in a Riverscapes Warehouse  <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">, is that web-maps can be produced that allow non-GIS users and non-modelers to interact with  riverscape project outputs and explore them. This is an excellent platform to make the outputs of [Riverscapes Tools]({{ site.baseurl }}/Tools) accessible to managers and practitioners to inform [riverscape management]({{ site.baseurl }}/Management/).
 
- and progressive web-apps
 
 ### Example of BRAT
-<img class="float-left" src="{{ site.baseurl }}/assets/images/data/BratMapTab.png">
+<a href="https://brat.riverscapes.xyz"><img class="float-left" src="{{ site.baseurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a>
+The [Beaver Restoration Assessment Tool](https://brat.riverscapes.xyz) is one of the RC's most mature network model tools. Thanks to BRAT being refactored to produce [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">, and being hosted in a Riverscapes Warehouse  <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">, we can produce interactive web maps like the BETA example below. While many platforms exist to publish GIS data and share it (e.g [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)), they lack the ablity to do so while maintaing the integrity and context of a [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/). For example, in one of the BRAT 
 
-[BRAT](https://riverscapes.github.io/BratMap/#/idaho)
 
 <div align="center">
-<img src="{{ site.baseurl }}/assets/images/data/IdahoBRATMap.png">
+<a href=""><img src="{{ site.baseurl }}/assets/images/data/IdahoBRATMap.png"></a>
 </div>
 
+-----
+## Apps - PWAs
+<img class="float-right" src="{{ site.baseurl }}/assets/images/data/PWA_LTPBR_Design3.png">
+The future of App develpoment to work across platforms (i.e. iOS, Android, Windows, Linux, etc.) is in progressive web-apps (PWAs) <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">. Another advantage of hosting  your [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> in a Riverscapes Warehouse  <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">, is that PWA(s) can be developed and deployed to make field or desktop interactive apps to allow users to collect data, do analysis and have it direclty interact with and even update a Riverscapes Project. 
 
+
+### Example of Low-Tech Process-Based Restoration PWA
+<img class="float-right" src="{{ site.baseurl }}/assets/images/data/PWA_LTPBR_Design2.png">
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t95xxkhYOcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 -----
-## Product Status
-We refer to ‘products’ as specific geospatial products or outputs within the family of products produced by our various analyses, tools and workflows within the CHaMP/ISEMP realm.
-![FamilyOfProducts.png](https://lh5.googleusercontent.com/MrlolkkwfO0OC1pZNKDKkCcoebKTYbGKbVpO5H2vpd7ItVFi-6lVvmUNY9o4TMK1UxQizAGkZwaoBuLntsZvO8mfE4gsh9ohNmfxxhZBG0owahyAr_Tv_eUdt31REXy-MPKEeSMR)
+## Dataset Discrimination
+We refer to ‘datasets’ as any inputs, outputs or intermediates used or produced by our various analyses, [tools]({{ site.baseurl }}/Tools/) and workflows within the Riverscapes Consortium.  Within the warehouse , and adhered to each "dataset" node or instance within a Riverscapes Project we use a couple of concepts to differentiate and contextualize that data:
+- **Dataset Grade** - Describes the grade of dataset
+- **Data Product Status Tags** -
 
-We produce a plethora of products, some of which go no further than an exploratory analysis and some which are carefully documented, vetted, and validated before being made for external consumption. Not all products will proceed sequentially through all stages of product status below and some stages are reiterated (e.g. after expert calibration, an output may be requeued for QA/QC assurance. 
+As scientists and analysts, we produce a plethora of datasets, some of which go no further than an exploratory analysis and some which are carefully documented, vetted, and validated before being made for external consumption. Not all datasets will proceed sequentially through all stages of dataset status below and some stages are reiterated (e.g. after expert calibration, an output may be requeued for QA/QC assurance. The idea behind dataset discrimination is to keep track of how far, and for what purpose a dataset was 
 
-## Data Product Status
+### Dataset Grade 
+Not all datasets are created equal, nor have all recieved the same amount of attention, curation, validating, curation and or story telling. Drawing from [Bloom's Taxonomy](), we dif
+We pose the following 
 
-We have three status tags: 
+#### Idea of from CHaMP
+In the [CHaMP](http://champmonitoring.org) project we came up with the following concepts 
+<a href="https://lh5.googleusercontent.com/MrlolkkwfO0OC1pZNKDKkCcoebKTYbGKbVpO5H2vpd7ItVFi-6lVvmUNY9o4TMK1UxQizAGkZwaoBuLntsZvO8mfE4gsh9ohNmfxxhZBG0owahyAr_Tv_eUdt31REXy-MPKEeSMR"><img src="https://lh5.googleusercontent.com/MrlolkkwfO0OC1pZNKDKkCcoebKTYbGKbVpO5H2vpd7ItVFi-6lVvmUNY9o4TMK1UxQizAGkZwaoBuLntsZvO8mfE4gsh9ohNmfxxhZBG0owahyAr_Tv_eUdt31REXy-MPKEeSMR"></a>
+
+
+
+### Dataset  Status Tags
+
+We use three optional status tags: 
 1) Overall Status, 
 2)  QA/QC Review, and 
 3_Data Generation 
 
-to track the development of a product. However, it is the Overall Status of a product that is most important for tracking its progression within the ISEMP/CHaMP Warehouse.
+to track the development of a dataset. However, it is the Overall Status of a dataset that is most important for tracking its progression within a Riverscape Warehouse.
 
 | Status Tags | Overall Status | QA/QC Review | Data Generation |
 |-------------|----------------|-------------------|-----------------|
@@ -97,17 +119,23 @@ to track the development of a product. However, it is the Overall Status of a pr
 |  | Final | Expert Calibrated | Automated-Local |
 |  | Extenral | Validated | Automated-Cloud |
 
-- **Overall Status** - Where in the life cycle of a product the product exists. The four status choices represent a progression.
-  - **Exploratory** - Preliminary products produced by an analyst to explore how well a particular analysis works, or to what extent a product gives insights into specific questions (e.g., an individual model run used for a talk). 
-  - **Provisional** - A product that has undergone some degree of automated or manual QA/QC testing. 
-  - **Final** - A product that has been validated and is trusted for inclusion in the ISEMP/CHaMP warehouse. Upon elevation to a finalized status a product is available for use by ISEMP/CHaMP team members and authorized partners. At this point the product has a DOI assigned so a static version is available for later reference.
-  - **External** - A product promoted from a finalized warehouse output to ready for external consumption. The degree of documentation and vetting is generally higher than finalized outputs. Examples may include any products used in the preparation of a basin or restoration plan or peer-reviewed paper. For the Bi-Op, these will be the capacity estimates we hand off to other life-cycle modeling groups. 
-- **QA/QC Review** - The degree of quality assurance and quality control checks that a product has been subjected to. The choices are not a progression per se, and a product may undergo just one or all four of these states. 
-  - **Automated Testing -** All tool-generated outputs undergo some degree of quality assurance and quality control checking to flag outliers and mistakes. When a product has received QA/QC evaluation in an automated, centralized, production mode (e.g., GCD results checked for outliers) it is automatically queued for manual editing, checking and fixing.
-  - **Manual Testing** - A manual, expert evaluation of a product and its reporting. 
+#### Overall Status
+Where in the dataset life cycle the dataset  exists. The four status choices represent a progression.
+  - **Exploratory** - Preliminary datasets produced by an analyst to explore how well a particular analysis works, or to what extent a dataset gives insights into specific questions (e.g., an individual model run used for a talk). 
+  - **Provisional** - A dataset that has undergone some degree of automated or manual QA/QC testing. 
+  - **Final** - A dataset that has been validated and is trusted for inclusion in the riverscape warehouse. Upon elevation to a finalized status a dataset is available for use by  team members and authorized partners. At this point the dataset has a DOI assigned so a static version is available for later reference.
+  - **External** - A dataset promoted from a finalized warehouse output to ready for external consumption. The degree of documentation and vetting is generally higher than finalized outputs. Examples may include any datasets used in the preparation of a basin or restoration plan or peer-reviewed paper.
+
+#### QA/QC Review
+
+The degree of quality assurance and quality control checks that a dataset has been subjected to. The choices are not a progression per se, and a dataset may undergo just one or all four of these states. 
+  - **Automated Testing ** - All tool-generated outputs undergo some degree of quality assurance and quality control checking to flag outliers and mistakes. When a dataset has received QA/QC evaluation in an automated, centralized, production mode (e.g., GCD results checked for outliers) it is automatically queued for manual editing, checking and fixing.
+  - **Manual Testing** - A manual, expert evaluation of a dataset and its reporting. 
   - **Expert Calibrated** - An optional step of modifying model outputs by model iteration or analysis to produce new output based on expert modification of inputs and/or parameters to more realistic values. 
-  - **Validated**- A product can be considered validated after it has undergone some form of testing and the relative quality of that product has been assessed and reported. If the inputs and/or parameters have been calibrated or modified with expert insights and the product generation has been iterative, the reporting includes how product quality has changed with that calibration process. 
-- **Data Generation** - How the data products were generated
-  - .**Automated Local**- Generated via batch processing using local tools and workbench.
-  - **Automated Cloud -** Generated via cloud processing engines (e.g., EC2 or Lambda AWS)
+  - **Validated**- A dataset can be considered validated after it has undergone some form of testing and the relative quality of that dataset has been assessed and reported. If the inputs and/or parameters have been calibrated or modified with expert insights and the dataset generation has been iterative, the reporting includes how dataset quality has changed with that calibration process. 
+
+#### Data Generation
+How the data datasets were generated
+  - .**Automated Local**- Generated via batch processing using local tools and/or [workbench](http://workbench.northarrowresearch.com/).
+  - **Automated Cloud -** Generated via cloud processing engines (e.g., <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/AWS_24.png"></a> EC2 or Lambda)
   -  **Manual** - Generated via local tools on an individual basis.
