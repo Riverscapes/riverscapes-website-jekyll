@@ -11,7 +11,7 @@ All of our tools are based on [peer-reviewed]({{ site.baseurl }}/Science/publica
 <img class="float-right" src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_128.png">
 Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png"> when they meet the following criteria:
 - [Tool Status]({{ site.baseurl }}/Tools/status) of Research-Grade or Higher
-- Code produces [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) as output of all analyses
+- Code produces [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> as output of all analyses
 - Project Type is registered with [`program.xml`]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/Program/) in [Program Repo](https://github.com/Riverscapes/Program)  
 - Has been vetted by the RS Science Committee
 
