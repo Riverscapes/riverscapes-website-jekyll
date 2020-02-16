@@ -96,7 +96,7 @@ RC tools are deployed to users thorugh a variety of interfaces:
 * <i class="fa fa-terminal" aria-hidden="true"></i> : CLI = [Command Line Interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * <i class="fa fa-desktop" aria-hidden="true"></i> : GUI = [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
 * <i class="fa fa-chrome" aria-hidden="true"></i>: Web = interactive web site
-* <i class="fa fa-code" aria-hidden="true"></i> : API = [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)
+* <img  src="{{ site.baseurl }}/assets/images/data/api_24.png"> : API = [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)
 * <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">:  PWA = [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_application)
 
 Most tools have just one deployment interface, some have multiple. 
