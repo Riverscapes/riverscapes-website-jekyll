@@ -146,13 +146,13 @@ Where in the dataset life cycle the dataset  exists. The four status choices rep
 #### QA/QC Review
 
 The degree of quality assurance and quality control checks that a dataset has been subjected to. The choices are not a progression per se, and a dataset may undergo just one or all four of these states. 
-  - **Automated Testing ** - All tool-generated outputs undergo some degree of quality assurance and quality control checking to flag outliers and mistakes. When a dataset has received QA/QC evaluation in an automated, centralized, production mode (e.g., GCD results checked for outliers) it is automatically queued for manual editing, checking and fixing.
+  - **Automated Testing** - All tool-generated outputs undergo some degree of quality assurance and quality control checking to flag outliers and mistakes. When a dataset has received QA/QC evaluation in an automated, centralized, production mode (e.g., GCD results checked for outliers) it is automatically queued for manual editing, checking and fixing.
   - **Manual Testing** - A manual, expert evaluation of a dataset and its reporting. 
   - **Expert Calibrated** - An optional step of modifying model outputs by model iteration or analysis to produce new output based on expert modification of inputs and/or parameters to more realistic values. 
   - **Validated**- A dataset can be considered validated after it has undergone some form of testing and the relative quality of that dataset has been assessed and reported. If the inputs and/or parameters have been calibrated or modified with expert insights and the dataset generation has been iterative, the reporting includes how dataset quality has changed with that calibration process. 
 
 #### Data Generation
 How the data datasets were generated
-  - .**Automated Local**- Generated via batch processing using local tools and/or [workbench](http://workbench.northarrowresearch.com/).
-  - **Automated Cloud -** Generated via cloud processing engines (e.g., <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/aws_24.png"></a> EC2 or Lambda)
+  - **Automated Local**- Generated via batch processing using local tools and/or [workbench](http://workbench.northarrowresearch.com/).
+  -  **Automated Cloud -** Generated via cloud processing engines (e.g., <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/aws_24.png"></a> EC2 or Lambda)
   -  **Manual** - Generated via local tools on an individual basis.
