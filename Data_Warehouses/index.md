@@ -2,7 +2,7 @@
 title: Data Warehouses
 ---
 
-The Riverscapes Consoritum organizes and serves data via  *data warehouses* <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">. These data warehouses provide access to both the underlying data (packaged in [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)) as well as serving these data as interactive web maps. We only serve and host data packaged in fully  [Riverscapes-Compliant]({{ site.baseurl }}/Tools) <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png">  [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">.
+The Riverscapes Consortium organizes and serves data via  *data warehouses* <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">. These data warehouses provide access to both the underlying data (packaged in [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)) as well as making these data explorable via [warehouse explorers]({{ site.baseurl }}/Data_Warehouses/#warehouse-explorer-concept) or [interactive web maps]({{ site.baseurl }}/Data_Warehouses/#web-maps). We only serve and host data packaged in fully  [Riverscapes-Compliant]({{ site.baseurl }}/Tools) <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png">  [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">.
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
@@ -19,7 +19,7 @@ The Riverscapes Consoritum organizes and serves data via  *data warehouses* <img
 ## Advantages
 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/data/Riverscapes Warehouse Loggin.png">The advantages of  [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)  being hosted in a data warehouse can include:
-- Searable and querable [Warehouse Explorer]({{ site.baseurl }}/Data_Warehouses#warehouse-explorer-concept) Catalog <i class="fa fa-filter" aria-hidden="true"></i>
+- Searchable and queryable [Warehouse Explorer]({{ site.baseurl }}/Data_Warehouses#warehouse-explorer-concept) Catalog <i class="fa fa-filter" aria-hidden="true"></i>
 - Custom [Web-Maps]({{ site.baseurl }}/Data_Warehouses#web-maps) <i class="fa fa-map-o" aria-hidden="true"></i>
 - Custom field and desktop [Apps]({{ site.baseurl }}/Data_Warehouses#apps---pwas) <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">
 - Secure cloud hosting  (typically in <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/AWS_24.png"></a> [S3](https://aws.amazon.com/s3/faqs/)) <i class="fa fa-cloud" aria-hidden="true"></i> with:
@@ -27,7 +27,7 @@ The Riverscapes Consoritum organizes and serves data via  *data warehouses* <img
   - Full user <i class="fa fa-user-circle-o" aria-hidden="true"></i> access permission control <i class="fa fa-key" aria-hidden="true"></i>
 - Full <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/AWS_24.png"></a>  integration with [EC2](https://aws.amazon.com/ec2/?nc2=type_a) and [Lambda](https://aws.amazon.com/lambda/?nc2=type_a) for cloud-computing of [Production-Grade](https://riverscapes.github.io/riverscapes-website/Tools/#tool-status) Riverscapes Models.
 -  [Creative Commons licensing](https://creativecommons.org/licenses/) of datasets <i class="fa fa-creative-commons" aria-hidden="true"></i>
-- Ability to mint [DOIs](https://www.doi.org/faq.html) <a href="https://www.doi.org/faq.html"><img  src="{{ site.baseurl }}/assets/images/data/DOI_24.png"></a> to make datasets citeable
+- Ability to mint [DOIs](https://www.doi.org/faq.html) <a href="https://www.doi.org/faq.html"><img  src="{{ site.baseurl }}/assets/images/data/DOI_24.png"></a> to make datasets citable
 - [OGC API](http://www.ogcapi.org/) access to riverscapes projects and warehouse for programmers <img  src="{{ site.baseurl }}/assets/images/data/api_24.png"> 
 -  [OGC Web Map Tile Services](https://www.opengeospatial.org/standards/wmts) access to your datasets <i class="fa fa-map-o" aria-hidden="true"></i>
 - Searchable and discoverable in [RAVE](http://rave.riverscapes.xyz) GIS Toolbars
@@ -47,7 +47,7 @@ Part of the advantage of serving and hosting data in a Riverscapes Warehouse  <i
 </div>
 
 ### CHaMP Example
-When the [Columbia Habitat Monitoring Program](http://champmonitoring.org) (CHaMP) was operational, the program produced an immense amount of raw monitoring data, derivative products, model analysis products, and various outputs. For example, from 2011 to 2017, over 958 sites were monitored for fish habitat producing (ISEMP/CHAMP, 2018)., CHaMP crews conducted over 5000 visits to over 950 sites producing a mountain of monitoring data. All of the visit and topographic data was made available in [cm.org](http://champmonitoring.org). However, the program produced a much richer range of reach scale, network scale and population scale analysis and synthesis products, which cm.org was not designed to accomodate. To test the utility of the Riverscapes Warehouse context, we created a warehouse explorer for the [CHaMP Riverscapes Warehouse](https://northarrowresearchlabs.github.io/riverscapes/#/CHaMP). Some of its utlity is illustrated in the video below.
+When the [Columbia Habitat Monitoring Program](http://champmonitoring.org) (CHaMP) was operational, the program produced an immense amount of raw monitoring data, derivative products, model analysis products, and various outputs. For example, from 2011 to 2017, over 958 sites were monitored for fish habitat producing (ISEMP/CHAMP, 2018)., CHaMP crews conducted over 5000 visits to over 950 sites producing a mountain of monitoring data. All of the visit and topographic data was made available in [cm.org](http://champmonitoring.org). However, the program produced a much richer range of reach scale, network scale and population scale analysis and synthesis products, which cm.org was not designed to accommodate. To test the utility of the Riverscapes Warehouse context, we created a warehouse explorer for the [CHaMP Riverscapes Warehouse](https://northarrowresearchlabs.github.io/riverscapes/#/CHaMP). Some of its utility is illustrated in the video below.
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/llGthTDUjfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,6 +55,8 @@ When the [Columbia Habitat Monitoring Program](http://champmonitoring.org) (CHaM
 </div>
 - ISEMP/CHAMP. (2018) [Integrated Status and Effectiveness Monitoring Program (BPA Project 2003-017-00) and Columbia Habitat Monitoring Program (BPA Project 2011-006-00) . Final Technical Report for Bonneville Power Administration](https://www.researchgate.net/publication/329514287_Integrated_Status_and_Effectiveness_Monitoring_Program_BPA_Project_2003-017-00_and_Columbia_Habitat_Monitoring_Program_BPA_Project_2011-006-00_Final_Technical_Report_for_Bonneville_Power_Administration). 1280 pages.
 
+### Fully-Customizable
+Any group or organization can develop their own custom Riverscapes Data Warehouse, and control how and where it is hosted, who can access it, who has what permissions, etc. 
 
 -----
 ## Web-Maps
@@ -65,12 +67,13 @@ One of the real values in hosting your [Riverscapes Projects]({{ site.baseurl }}
 
 ### Example of BRAT
 <a href="https://brat.riverscapes.xyz"><img class="float-left" src="{{ site.baseurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a>
-The [Beaver Restoration Assessment Tool](https://brat.riverscapes.xyz) is one of the RC's most mature network model tools. Thanks to BRAT being refactored to produce [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">, and being hosted in a Riverscapes Warehouse  <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">, we can produce interactive web maps like the BETA example below. While many platforms exist to publish GIS data and share it (e.g [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)), they lack the ablity to do so while maintaing the integrity and context of a [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/). For example, in one of the BRAT 
-
+The [Beaver Restoration Assessment Tool](https://brat.riverscapes.xyz) is one of the RC's more mature network model tools. Thanks to BRAT being refactored to produce [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">, and being hosted in a Riverscapes Warehouse  <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">, we can produce interactive web maps like the BETA example below. 
 
 <div align="center">
 <a href=""><img src="{{ site.baseurl }}/assets/images/data/IdahoBRATMap.png"></a>
 </div>
+
+While many platforms exist to publish GIS data and share it (e.g [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)), they lack the ablity to do so while maintaing the integrity and context of a [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/). For example, in one of the old BRAT projects for the state of [Utah](http://brat.riverscapes.xyz/BRATData/USA/UDWR_Utah/) the data can be downloaded from [Utah AGRC](http://gis.utah.gov/data/bioscience-overview/), [Databasin interactive webmap](http://databasin.org/datasets/1420ffb7e9674753a5fb626e2b830c1f), or directly from [ETAL Box File Server](https://usu.box.com/v/UtahBRATData). Only the  [Databasin interactive webmap](http://databasin.org/datasets/1420ffb7e9674753a5fb626e2b830c1f) download provided a web map, and without any of the context of the rich projects. When users download all the files off our  [ETAL Box File Server](https://usu.box.com/v/UtahBRATData), the need to know a lot about how the model works and how the outputs were produced to find the right context data.
 
 -----
 ## Apps - PWAs
@@ -93,7 +96,7 @@ We refer to ‘datasets’ as any inputs, outputs or intermediates used or produ
 As scientists and analysts, we produce a plethora of datasets, some of which go no further than an exploratory analysis and some which are carefully documented, vetted, and validated before being made for external consumption. Not all datasets will proceed sequentially through all stages of dataset status below and some stages are reiterated (e.g. after expert calibration, an output may be requeued for QA/QC assurance. The idea behind dataset discrimination is to keep track of how far, and for what purpose a dataset was 
 
 ### Dataset Grade 
-Not all datasets are created equal, nor have all recieved the same amount of attention, curation, validating, curation and or story telling. Drawing from [Bloom's Taxonomy](), we dif
+Not all datasets are created equal, nor have all received the same amount of attention, curation, validating, curation and or story telling. Drawing from [Bloom's Taxonomy](), we dif
 We pose the following 
 
 #### Idea of from CHaMP
@@ -117,7 +120,7 @@ to track the development of a dataset. However, it is the Overall Status of a da
 |  | Exploratory | Automated Testing | End-User |
 |  | Provisional | Manual Testing | Manual |
 |  | Final | Expert Calibrated | Automated-Local |
-|  | Extenral | Validated | Automated-Cloud |
+|  | External | Validated | Automated-Cloud |
 
 #### Overall Status
 Where in the dataset life cycle the dataset  exists. The four status choices represent a progression.
