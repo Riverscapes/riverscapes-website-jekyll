@@ -22,10 +22,10 @@ The Riverscapes Consortium organizes and serves data via  *data warehouses* <img
 - Searchable and queryable [Warehouse Explorer]({{ site.baseurl }}/Data_Warehouses#warehouse-explorer-concept) Catalog <i class="fa fa-filter" aria-hidden="true"></i>
 - Custom [Web-Maps]({{ site.baseurl }}/Data_Warehouses#web-maps) <i class="fa fa-map-o" aria-hidden="true"></i>
 - Custom field and desktop [Apps]({{ site.baseurl }}/Data_Warehouses#apps---pwas) <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">
-- Secure cloud hosting  (typically in <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/AWS_24.png"></a> [S3](https://aws.amazon.com/s3/faqs/)) <i class="fa fa-cloud" aria-hidden="true"></i> with:
+- Secure cloud hosting  (typically in <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/aws_24.png"></a> [S3](https://aws.amazon.com/s3/faqs/)) <i class="fa fa-cloud" aria-hidden="true"></i> with:
   - Easy public sharing <i class="fa fa-share-alt" aria-hidden="true"></i>
   - Full user <i class="fa fa-user-circle-o" aria-hidden="true"></i> access permission control <i class="fa fa-key" aria-hidden="true"></i>
-- Full <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/AWS_24.png"></a>  integration with [EC2](https://aws.amazon.com/ec2/?nc2=type_a) and [Lambda](https://aws.amazon.com/lambda/?nc2=type_a) for cloud-computing of [Production-Grade](https://riverscapes.github.io/riverscapes-website/Tools/#tool-status) Riverscapes Models.
+- Full <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/aws_24.png"></a>  integration with [EC2](https://aws.amazon.com/ec2/?nc2=type_a) and [Lambda](https://aws.amazon.com/lambda/?nc2=type_a) for cloud-computing of [Production-Grade](https://riverscapes.github.io/riverscapes-website/Tools/#tool-status) Riverscapes Models.
 -  [Creative Commons licensing](https://creativecommons.org/licenses/) of datasets <i class="fa fa-creative-commons" aria-hidden="true"></i>
 - Ability to mint [DOIs](https://www.doi.org/faq.html) <a href="https://www.doi.org/faq.html"><img  src="{{ site.baseurl }}/assets/images/data/DOI_24.png"></a> to make datasets citable
 - [OGC API](http://www.ogcapi.org/) access to riverscapes projects and warehouse for programmers <img  src="{{ site.baseurl }}/assets/images/data/api_24.png"> 
@@ -154,5 +154,5 @@ The degree of quality assurance and quality control checks that a dataset has be
 #### Data Generation
 How the data datasets were generated
   - .**Automated Local**- Generated via batch processing using local tools and/or [workbench](http://workbench.northarrowresearch.com/).
-  - **Automated Cloud -** Generated via cloud processing engines (e.g., <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/AWS_24.png"></a> EC2 or Lambda)
+  - **Automated Cloud -** Generated via cloud processing engines (e.g., <a href="https://aws.amazon.com"><img  src="{{ site.baseurl }}/assets/images/data/aws_24.png"></a> EC2 or Lambda)
   -  **Manual** - Generated via local tools on an individual basis.
