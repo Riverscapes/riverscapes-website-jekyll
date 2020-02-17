@@ -67,7 +67,7 @@ One of the real values in hosting your [Riverscapes Projects]({{ site.baseurl }}
 
 ### Example of BRAT
 <a href="https://brat.riverscapes.xyz"><img class="float-left" src="{{ site.baseurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a>
-The [Beaver Restoration Assessment Tool](https://brat.riverscapes.xyz) is one of the RC's more mature network model tools. Thanks to BRAT being refactored to produce [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">, and being hosted in a Riverscapes Warehouse  <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">, we can produce interactive web maps like the BETA example below. 
+The [Beaver Restoration Assessment Tool](https://brat.riverscapes.xyz) is one of the RC's more mature network model tools. Thanks to BRAT being refactored to produce [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">, and being hosted in a Riverscapes Warehouse  <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">, we can produce interactive web maps like the BETA example below (links externally to map). 
 
 <div align="center">
 <a href=""><img src="{{ site.baseurl }}/assets/images/data/IdahoBRATMap.png"></a>
@@ -82,35 +82,49 @@ The future of App develpoment to work across platforms (i.e. iOS, Android, Windo
 
 
 ### Example of Low-Tech Process-Based Restoration PWA
+
 <img class="float-right" src="{{ site.baseurl }}/assets/images/data/PWA_LTPBR_Design2.png">
+The practice of [Low-Tech Process-Based Restoration of Riverscapes](https://lowtechpbr.restoration.usu.edu) is something that many members of the Riverscapes Consortium have been working on over the past decade. While a recent [manual](https://lowtechpbr.restoration.usu.edu/manual) helped define a standard of practice for design, tracking that information centrally in a design app (a PWA), and having those designs and subsequent monitoring be stored in [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) would allow:
+- The designs conducted in the field, to become immediately useful for GIS analyses back at the desktop.
+- Allow holding and submitting designs to central [riverscapes warehouses]({{ site.baseurl }}/Data_Warehouses)
+- Facilitate easier and more transparent action-effectiveness monitoring in the context of those designs.
+
+In the video below Philip Bailey of [North Arrow Research](https://northarrowresearch.com) illustrates how such a PWA can work (don't get too excited, its a western town movie set, it is not actually fully plumbed yet ~ i.e. its a [proof of concept]({{ site.baseurl }}/Tools#tool-status) level of development):
+
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t95xxkhYOcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 -----
 ## Dataset Discrimination
-We refer to ‘datasets’ as any inputs, outputs or intermediates used or produced by our various analyses, [tools]({{ site.baseurl }}/Tools/) and workflows within the Riverscapes Consortium.  Within the warehouse , and adhered to each "dataset" node or instance within a Riverscapes Project we use a couple of concepts to differentiate and contextualize that data:
-- **Dataset Grade** - Describes the grade of dataset
-- **Data Product Status Tags** -
+We refer to ‘datasets’ as any input(s), output(s) or intermediate(s) used or produced by our various analyses, [tools]({{ site.baseurl }}/Tools/) and workflows within the Riverscapes Consortium.  Within the warehouse, we assign to each "dataset" node or instance within a Riverscapes Project we use a couple of concepts to differentiate and contextualize that data :
+- **Dataset Grade** - Describes the rank of dataset curation using an adaptation of  [Bloom's Taxonomy of Educational Objectives](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
+- **Data Product Status Tags** - Tracks overall status, degree of quality assurance and control, and data generation methods.  
 
 As scientists and analysts, we produce a plethora of datasets, some of which go no further than an exploratory analysis and some which are carefully documented, vetted, and validated before being made for external consumption. Not all datasets will proceed sequentially through all stages of dataset status below and some stages are reiterated (e.g. after expert calibration, an output may be requeued for QA/QC assurance. The idea behind dataset discrimination is to keep track of how far, and for what purpose a dataset was 
 
-### Dataset Grade 
-Not all datasets are created equal, nor have all received the same amount of attention, curation, validating, curation and or story telling. Drawing from [Bloom's Taxonomy](), we dif
-We pose the following 
+### Dataset Rank 
+Not all datasets are created equal, nor have all received the same amount of attention, curation, validating, curation and or story telling. Drawing from and adapting [Bloom's Taxonomy of Educational Objectives](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/), we define dataset grade in terms of a similar hierarchy of dataset curation (instead of skills and abilities) with six levels:
+1. **Knowledge-Rank** -  A dataset representing raw data and observations. 
+2. **Comprehension-Rank** - A dataset that is a derivative product from raw data or observation (e.g. a surface interpolated from raw sample points) 
+3. **Application-Rank** - A dataset that represents the typical outputs generated in one realization from a tool or model.
+4. **Analysis-Rank** - A dataset that represents an an analysis, summary or interpretation from an application-rank dataset. 
+5. **Synthesis-Rank** - A dataset that involves the pulling together of multiple analysis-rank datasets to describe a larger problem.
+6. **Evaluation-Rank** - A broader summary dataset that provides direct answers or insights into key scientific knowledge gaps or key management questions (e.g. what is published in a peer-reviewed paper as an "original contribution" or used as a basis for decision making)
+
+In general, the higher tiered datasets represent what is filtered out through scientific inquiry from more basic and prolific datasets and observations into a higher form of knowledge. Higher-tiered datasets have more utility to managers to inform decision making, but scientists often at least want the transparency of knowing what datasets went into informing that  synthesis or evaluation. Riverscapes Projects impose this transparency of what evidence every dataset originated from and allow iterative inquiry and exploration. 
 
 #### Idea of from CHaMP
-In the [CHaMP](http://champmonitoring.org) project we came up with the following concepts 
+The idea to use [Bloom's Taxonomy of Educational Objectives](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to communicate the rank or type of curation a dataset had received grew out of a need to communicate what utility the many different datasets we were producing in the [CHaMP](http://champmonitoring.org) had. The figure below shows how we referred to datasets as "products" and uses specific examples of RC-tools and models to illustrate the ideas:
 <a href="https://lh5.googleusercontent.com/MrlolkkwfO0OC1pZNKDKkCcoebKTYbGKbVpO5H2vpd7ItVFi-6lVvmUNY9o4TMK1UxQizAGkZwaoBuLntsZvO8mfE4gsh9ohNmfxxhZBG0owahyAr_Tv_eUdt31REXy-MPKEeSMR"><img src="https://lh5.googleusercontent.com/MrlolkkwfO0OC1pZNKDKkCcoebKTYbGKbVpO5H2vpd7ItVFi-6lVvmUNY9o4TMK1UxQizAGkZwaoBuLntsZvO8mfE4gsh9ohNmfxxhZBG0owahyAr_Tv_eUdt31REXy-MPKEeSMR"></a>
-
 
 
 ### Dataset  Status Tags
 
 We use three optional status tags: 
-1) Overall Status, 
-2)  QA/QC Review, and 
-3_Data Generation 
+1. Overall Status, 
+2. QA/QC Review, and 
+3. Data Generation 
 
 to track the development of a dataset. However, it is the Overall Status of a dataset that is most important for tracking its progression within a Riverscape Warehouse.
 
@@ -120,14 +134,14 @@ to track the development of a dataset. However, it is the Overall Status of a da
 |  | Exploratory | Automated Testing | End-User |
 |  | Provisional | Manual Testing | Manual |
 |  | Final | Expert Calibrated | Automated-Local |
-|  | External | Validated | Automated-Cloud |
+|  | Promoted | Validated | Automated-Cloud |
 
 #### Overall Status
 Where in the dataset life cycle the dataset  exists. The four status choices represent a progression.
-  - **Exploratory** - Preliminary datasets produced by an analyst to explore how well a particular analysis works, or to what extent a dataset gives insights into specific questions (e.g., an individual model run used for a talk). 
+  - **Exploratory** - Preliminary datasets produced by an analyst to explore how well a particular analysis works, or to what extent a dataset gives insights into specific questions (e.g., an individual model run used for a talk).  This is as far as the vast majority of analyses get.
   - **Provisional** - A dataset that has undergone some degree of automated or manual QA/QC testing. 
   - **Final** - A dataset that has been validated and is trusted for inclusion in the riverscape warehouse. Upon elevation to a finalized status a dataset is available for use by  team members and authorized partners. At this point the dataset has a DOI assigned so a static version is available for later reference.
-  - **External** - A dataset promoted from a finalized warehouse output to ready for external consumption. The degree of documentation and vetting is generally higher than finalized outputs. Examples may include any datasets used in the preparation of a basin or restoration plan or peer-reviewed paper.
+  - **Promoted** - A dataset promoted from a finalized riverscape warehouse output to ready for external consumption. The degree of documentation and vetting is generally higher than finalized outputs. Examples may include any datasets used in the preparation of a basin or restoration plan or peer-reviewed paper.
 
 #### QA/QC Review
 
