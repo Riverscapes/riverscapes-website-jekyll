@@ -16,8 +16,12 @@ Here are some things to remember before uploading your source code onto the inte
 * Ensure that all the files needed to run the source code are in the repo! The best way to confirm this is to copy the source code onto a separate computer that has never had the source code on it before and then try and run the code there. Guaranteed the first time you do this it will not work and you will realize that you've forgotten to include one or more files. External dependencies don't need to go in your repo, but any file that you've authored should be included.
 * Delete any temporary files or files that are no longer needed.
 * Remove all sensitive information such as user names and passwords. It's best that your code reads these from a configuration file that is separate from your source code. This configuration file can then be excluded from your repo using a [.gitignore](https://help.github.com/articles/ignoring-files/) file. If you do this, then it can be helpful to create another file called something like `config.TEMPLATE`, with the exact same structure as your configure file, but without the sensitive information, and then include this in the repo. Others trying to use your code can use this template as a starting point.
-* Remove all references to local file or folder paths. Any such references should be passed to your tool as command line parameters and not as literals in code files.
+* Remove all references to local file or folder paths. Any such references should be passed to your tool as command line parameters and not as literals in code files. See video below.
 * Avoid putting binary files in your repo (databases, DLLs, compiled items etc). Again, use a [.gitignore](https://help.github.com/articles/ignoring-files/) file to exclude these.
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltx8pdD1NlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 ## Source code in Riverscapes GitHub
 
