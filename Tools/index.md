@@ -26,7 +26,6 @@ Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/
 |[GUT - Geomorphic Unit Toolkit](http://gut.riverscapes.xyz/)|Cell|Reach|Python|<i class="fa fa-terminal" aria-hidden="true"></i>, <img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |[FHM - Fish Habitat Model](http://habitat.northarrowresearch.com/)|Cell|Reach|C#/C++|<i class="fa fa-desktop" aria-hidden="true"></i> |Operational-Grade|
 |**Network Scale Tools**||||||
-|[BRAT - Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |[RCAT - Riparian Condition Assessment Tool](http://rcat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |[GNAT - Geomorphic Network Assessment Tool](http://gnat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |**Utilities**||||||
@@ -58,6 +57,7 @@ Tools are designated as "*pending riverscapes-compliance*" <img  src="{{ site.ba
 |[TAT - Topographic Analyis Toolkit](https://tat.riverscapes.xyz)|Cell|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Operational-Grade|
 |[ToPCAT - Topographic Point Cloud Analysis Toolkit](http://tat.riverscapes.xyz/Help/Analysis/roughness-analysis-submenu/simple-topcat-roughness.html)|Cell|Reach|C++|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Research-Grade|
 |**Network Scale Tools**||||||
+|[BRAT - Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz/) - pyBRAT 3.1.0|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|[Operational-Grade](http://brat.riverscapes.xyz/Documentation/Status/Tool_ReportCard_3-1-00) <img src="{{ site.baseurl }}/assets/images/tools/TRL_badges_pngs/TRL_orange/2_badges+status/24px/TRL_4_orange_24.png">|
 |[CASCADE Toolbox](http://cascade.deib.polimi.it/)|Reach|Network|Matlab| <i class="fa fa-desktop" aria-hidden="true"></i> |Opperational-Grade|
 |[Catchment Tool](https://riverscapes.github.io/CatchmentTool/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |[Conductivity Tools](https://riverscapes.github.io/Conductivity/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
@@ -69,7 +69,7 @@ Tools are designated as "*pending riverscapes-compliance*" <img  src="{{ site.ba
 |[WRAT - Wood Restoration Assessment Tool](https://github.com/Riverscapes/WRAT)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Proof of Concept|
 |**Catchment Scale Tools**||||||
 |[Connectivity Index](https://github.com/HydrogeomorphologyTools/Connectivity-Index-ArcGIS-toolbox)|Cell|Catchment|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
-|[SedInConnect](https://github.com/HydrogeomorphologyTools/SedInConnect_2.3)|Cell|Catchment|Python|<i class="fa fa-desktop" aria-hidden="true"></i> |Operational-Grade|
+|[SedInConnect](https://github.com/HydrogeomorphologyTools/SedInConnect_2.3)|Cell|Catchment|Python|<i class="fa fa-desktop" aria-hidden="true"></i> |Operational-Grade <img src="{{ site.baseurl }}/assets/images/tools/TRL_badges_pngs/TRL_orange/2_badges+status/24px/TRL_4_orange_24.png">|
 |**Utilities**||||||
 |[PointCloud2Raster](https://github.com/NorthArrowResearch/pointcloud2raster)|Point|Reach|C++|<i class="fa fa-terminal" aria-hidden="true"></i>|Proof of Concept|
 |[PySESA - Spatially Explicit Spectral Analysis](https://github.com/dbuscombe-usgs/pysesa)|Point|Reach|Python|<i class="fa fa-terminal" aria-hidden="true"></i>|Research-Grade|
