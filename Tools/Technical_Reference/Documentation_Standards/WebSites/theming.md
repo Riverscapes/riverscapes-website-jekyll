@@ -24,12 +24,14 @@ If you are unsure about any of these instructions then you can there is a [sampl
 1. Edit the `_config.yml` file and change the following:
     1. Change the title to the name of your tool
     1. Change the description.
-    1. Change the URL to where your site is served.
-1. Create a file in your docs folder called `Gemfile` and cut and paste the [ruby gem configuration](https://raw.githubusercontent.com/Riverscapes/riverscapes-jekyll-theme/master/docs/_config.yml) into it.
-1. Create a file called `.gitignore` and cut and paste the [git ignore contents](https://raw.githubusercontent.com/Riverscapes/riverscapes-jekyll-theme/master/docs/.gitignore).
-1. Create a folder called `assets`.
-1. Inside the assets folder create a folder called `images`. Put all the images for your site in here.
+    1. *Optionally* - Change the URL to where your site is served. 
 1. Commit the changes to your repo on the master branch and then push.
+
+## References
+1. The `Gemfile` uses the [ruby gem configuration](https://raw.githubusercontent.com/Riverscapes/riverscapes-jekyll-theme/master/docs/_config.yml).
+1. The `.gitignore` should follow [git ignore contents](https://raw.githubusercontent.com/Riverscapes/riverscapes-jekyll-theme/master/docs/.gitignore).
+1. The folder called `assets` is where a folder called `images`exists. Put all the images for your site in here.
+
 
 # Advanced Theming Topics
 
