@@ -35,7 +35,7 @@ You will need to wait 2-3 minutes after each push to GitHub for your site to be 
 
 # Theming Your Site
 
-By default your web site will use a simple black and white theme. See the section on [theming]({{ site.baseurl}}/Technical_Reference/Documentation_Standards/WebSites/theming.html) that describes how to apply the standard riverscapes theme to your site. (i.e. the stylized theme used for this site.)
+By default your web site will use a simple black and white theme. See the section on [theming]({{ site.baseurl}}/Tools/Technical_Reference/Documentation_Standards/WebSites/theming.html) that describes how to apply the standard riverscapes theme to your site. (i.e. the stylized theme used for this site.)
 
 # Site Content Recommendations
 
