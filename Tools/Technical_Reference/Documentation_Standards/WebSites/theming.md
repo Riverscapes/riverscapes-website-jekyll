@@ -9,9 +9,9 @@ These instructions describe how to apply this theme to both a new site, or updat
 
 ## Before You Start
 
-You are going to need a copy of the Riverscapes **TemplateDocs** repo. You can either use the green `Clone or Download` button on the [repo's GitHub web page](https://github.com/Riverscapes/TemplateDocs), or you can use git to clone down the repo. Regardless, make sure that you have the **latest version**. This theme will change from time to time.
+You are going to need a copy of the Riverscapes **[riverscapes-jekyll-theme](https://github.com/Riverscapes/riverscapes-jekyll-theme)** repo. You can either use the green `Clone or Download` button on the [repo's GitHub web page](https://github.com/Riverscapes/riverscapes-jekyll-theme), or you can use git to clone down the repo. Regardless, make sure that you have the **latest version**. This theme will change from time to time.
 
-Now you are ready to apply the theme to your site. Choose the section below that applies to you. If your site has never had the Riverscapes theme applied to it before, then choose [Theming a New Site](#theming-a-new-site). If your site has some past version of the Theme applied, or you're unsure if it's up to date, then jump to the [Updating a Site That's Already Themed](#updating-a-site-thats-already-themed) section.
+Now you are ready to apply the theme to your site. Choose the section below that applies to you. If your site has never had the Riverscapes theme applied to it before, then choose [Theming a New Site](#theming-a-new-web-site). If your site has some past version of the Theme applied, or you're unsure if it's up to date, then jump to the [Updating a Site That's Already Themed](#updating-a-site-thats-already-themed) section.
 
 
 # Theming a New Web Site
