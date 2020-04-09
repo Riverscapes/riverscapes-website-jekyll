@@ -35,14 +35,11 @@ exclude:
   - yarn.lock
   - script
   - js
+  - plugins.xsl
+  - plugins.xml
   - TEMPLATE
   - Gemfile*
-  - publications_boilerplate.md
-  - About/supporters.md
-  - About/people.md
-  - vision_and_mission.md
-  - Science/pubications.md
-  - Science/science.md
+  - _drafts
 
 
 # These are theme settings that will be used to turn features on and off
@@ -81,11 +78,11 @@ settings:
 # 
 # The url you have to call is: http://siteurl.com/baseurl/?APPKEY=KEY1
 # ---------------------------------------------------------------
-AppRedirects:
-  - key: KEY1
-    url: ThingsA
-  - key: KEY2
-    url: ThingsB/subpageB.html
+# AppRedirects:
+#   - key: KEY1
+#     url: ThingsA
+#   - key: KEY2
+#     url: ThingsB/subpageB.html
 
 # Here is how we retrieve the remote theme. Changes to this remote theme will show up after you 
 # push the repo with your /docs folder
