@@ -80,15 +80,14 @@ Note that this is telling you to navigate to `http://127.0.0.1:4001` in your bro
 * `Ctrl-c` to exit the process.
 * If you change the `_config.yml` file you will need to exit the process and restart.
 
-
 ---------------------------
 
 ## OSX
 
-On mac it comes with ruby pre-install. You should be able to install `bundler` directly.
+Mac OS comes with ruby pre-install so you should be able to jump ahead and install `bundler` directly.
 
-Start at step #3 in the windows installation. All the steps are the same from there.
+Start at step #3 in the Windows installation instructions above. All the steps are the same from there.
 
 ### Advanced
 
-If you've somehow changed your OSX ruby installation or you wish to use your own version you can [install Homebrew](https://brew.sh/) to get things working 
+If you've somehow changed your OSX ruby installation or you wish to use your own version you can [install Homebrew](https://brew.sh/) to get things working.
