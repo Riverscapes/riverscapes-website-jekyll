@@ -45,7 +45,7 @@ gem install bundler
 1. Run the following command to install all the necessary components needed for the current site:
 
 ```
-bundler install
+bundle install
 ```
 
 ### 5. Serving a site locally
