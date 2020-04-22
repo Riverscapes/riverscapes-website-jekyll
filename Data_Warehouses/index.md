@@ -110,6 +110,11 @@ We refer to ‘datasets’ as any input(s), output(s) or intermediate(s) used or
 
 As scientists and analysts, we produce a plethora of datasets, some of which go no further than an exploratory analysis and some which are carefully documented, vetted, and validated before being made for external consumption. Not all datasets will proceed sequentially through all stages of dataset status below and some stages are reiterated (e.g. after expert calibration, an output may be requeued for QA/QC assurance. The idea behind dataset discrimination is to keep track of how far, and for what purpose a dataset was 
 
+In this 8 minute video, we lay out some concepts we're exploring with respect to [dataset status](https://riverscapes.xyz/Data_Warehouses/#dataset-discrimination):
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msBhCp6vCsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### Dataset Rank 
 Not all datasets are created equal, nor have all received the same amount of attention, curation, validating, curation and or story telling. Drawing from and adapting [Bloom's Taxonomy of Educational Objectives](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/), we define dataset grade in terms of a similar hierarchy of dataset curation (instead of skills and abilities) with six levels:
 1. **Knowledge-Rank** -  A dataset representing raw data and observations. 
