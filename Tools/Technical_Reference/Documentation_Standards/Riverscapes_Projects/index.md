@@ -28,6 +28,12 @@ We developed a data standard for packaging up riverscapes analyses (i.e. outputs
 
 Riverscape projects can also be manually produced for any dataset and analysis to provide it context. For datasets that you want to share with a large audience, but may not produce that many times, it still may be worth the investment.
 
+This five minute video explains the basics.
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YvWwaFFzulo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### Glorified Housekeeping?
 Yes, but who has time for it? Going to the effort of making your tool riverscapes-compliant turns the process of file management and metadata production and curation automatic for every analysis and write operation in your tools. 
 
