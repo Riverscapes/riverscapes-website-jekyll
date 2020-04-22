@@ -7,7 +7,15 @@ index: 1
 
 All of our tools are based on [peer-reviewed]({{ site.baseurl }}/Science/publications) ), methods. When we have developed the methods ourselves, we aim to have them vetted, published and disseminate in the [peer-reviewed literature]({{ site.baseurl }}/Science/publications). We then also make sure to have a well documented website (typically with a URL that will take the form of `sometool.riverscapes.xyz`). For most users, the online help documentation and using the [tool]({{ site.baseurl }}/Tools)  'as is' is as far as they need to take it. However, for those so inclined, all of the underlying source-code for these tools, models and algorithms is available in its own GitHub <i class="fa fa-github" aria-hidden="true"></i> repository at [github.com/Riverscapes](https://github.com/Riverscapes).
 
-## Riverscapes Compliant
+In this 20 minute video we introduce how the Riverscape Consortium sets standards for [tool development](https://riverscapes.xyz/Tools/) and the idea of [tool-grade](https://riverscapes.xyz/Tools/#model-discrimination). This is important to understanding and managing expectatons around what a tool can do, versus what it could be able to do with investment in development and deployment.
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wcT4vSZmQa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+-------
+
+# Riverscapes Compliant
 <img class="float-right" src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_128.png">
 Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png"> when they meet the following criteria:
 - [Tool Status]({{ site.baseurl }}/Tools#tool-status) of **Operational-Grade** or Higher
@@ -35,7 +43,6 @@ Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/
 |[CHaMP Topo Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Production-Grade|
 
 
-### Popular Reach-Scale Tools
 
 -----
 ## Tools Pending Riverscapes Compliance
@@ -100,10 +107,10 @@ RC tools are deployed to users thorugh a variety of interfaces:
 
 Most tools have just one deployment interface, some have multiple. 
 
-## Tool Status
-We classify the status of our tools according to their growth from innovative research ideas, through to operational tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployablle professional tools that are robust and usable by any user in very diffferent settings.
+## Tool Grade
+We classify the grade of our tools according to their growth from innovative research ideas, through to operational tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployablle professional tools that are robust and usable by any user in very diffferent settings.
 
-Our [RC Techncial Committee]({{ site.baseurl }}\About\) ranks a **tool's status** using the following criteria:
+Our [RC Techncial Committee]({{ site.baseurl }}\About\) ranks a **tool's grade** using the following criteria:
 
 
 
@@ -131,7 +138,7 @@ These ideas are based on the concept of [Technological Readiness Level](https://
 <a href=""><img src="{{ site.baseurl }}/assets/images/tools/TRL.png"></a></div>
 
 ------
-# Why Bother? Why Go Beyond Research Grade?
+# Why Bother? Why Go Beyond Research-Grade?
 If you've gotten to the bottom of this page, you presumably scrolled through or read a bunch of detail trying to encourage investment in making tools Riverscapes-Compliant and hopefully profossional, production or commercialized. The reason is simple. If we believe our science is good enough to inform management, inspire the public to conserve and restore riverscapes, then **we need to make the tools that represent that science scalable and accessible**. If our science is only relevant to other scientists, then we at least should meet a standard of practice of transparency and reproducability.
 
 Put another way, when we invest in scalability, and adhre to a shared set of common goals, bigger things can happen. One such example is, ironically, how Bezos led Amazon to operate. The video below is a recap of a point Philip Bailey made recently:
