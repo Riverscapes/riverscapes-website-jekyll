@@ -2,6 +2,14 @@
 title: Video Demonstrations
 ---
 
+# Logging In Python
+
+The logging class used is the demo is available [here](https://github.com/Riverscapes/sqlBRAT/blob/master/lib/loghelper.py).
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kg-QWBxAmI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Opening Feature Classes and Looping Over Features
 
 <div class="responsive-embed">
