@@ -2,6 +2,12 @@
 title: Video Demonstrations
 ---
 
+# Introduction to Visual Studio Code
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-GBbzYSERo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Logging In Python
 
 The logging class used is the demo is available [here](https://github.com/Riverscapes/sqlBRAT/blob/master/lib/loghelper.py).
