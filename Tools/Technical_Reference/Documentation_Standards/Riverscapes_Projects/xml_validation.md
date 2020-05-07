@@ -2,30 +2,30 @@
 title: XML Validation
 ---
 
-Riverscapes relies heavily on several different [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML) files. They are used to define the individual projects, the data warehouses that store these projects and also how projects are displayed in [RAVE](http://rave.riverscapes.xyz/).
+Riverscapes relies on several different [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML) files. They are used to define the individual projects, the data warehouses that store these projects and also how the projects are displayed in [RAVE](http://rave.riverscapes.xyz/).
 
-Each of these types of XML have a different set of rules that define the tag names, attributes and how these are laid out in the file. These rules are defined in a [XSD schema file](https://en.wikipedia.org/wiki/XML_schema) that is available online.
+Each of these types of XML has a different set of rules that define the tag names, attributes and how these are laid out in the file. These rules are defined in a [XSD schema files](https://en.wikipedia.org/wiki/XML_schema) that are available online.
 
-Whenever a person is writing an XML file by hand, or writing code to do so it is absolutely vital that they validate that the XML produced fully validates with the XSD schema file. In other words, XML files should be validated against the XSD file to check for errors and omissions. This process will check that all tag names are valid, that the required tags are present and that the nesting of all the tags meets the rules.
+Whenever writing XML by hand or, more likely, writing code to do so, it is absolutely vital that the XML produced is validated against the XSD schema file to check for errors and omissions. This process will verify that all tag names are valid, that the required tags are present and that the nesting of all the tags meets the XSD rules.
 
-There are lots of tools available for validating XML. Indeed, most modern Integrated Development Environments (IDE) software can perform this task. And there are even online tools for doing it, although they tend rely on the files being uploaded and so only work on one file at a time.
+There are lots of tools available for validating XML. Indeed, most modern Integrated Development Environments (IDE) software can perform this task. There are even online validation tools, although they tend rely on the files being uploaded and so they only tend work on one file at a time.
 
-Our preferred tool for validating XML is Microsoft's free [Visual Studio Code](https://code.visualstudio.com/). The following instructions describe how to configure and perform XML validation. A [video description](#video-demonstration) at the bottom of this page walks through these steps.
+Our preferred tool for validating XML is Microsoft's free [Visual Studio Code](https://code.visualstudio.com/). The following instructions describe how to configure and perform XML validation using Visual Studio Code. A [video description](#video-demonstration) at the bottom of this page demonstrates these steps.
 
 # Prerequisites
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/)
-1. Install [Java Development Kit](https://developers.redhat.com/products/openjdk/download?sc_cid=701f2000000RWTnAAO) (JDK). On Windows it's recommended that you download and use the MSI installer to walk through the installation. At the time of writing the `jdk-8u252-x64 MSI` is the most appropriate download.
-1. Install Red Hat XML Tools.
+1. [Visual Studio Code](https://code.visualstudio.com/).
+1. [Java Development Kit](https://developers.redhat.com/products/openjdk/download?sc_cid=701f2000000RWTnAAO) (JDK). On Windows it's recommended that you download and use the MSI installer to walk through the installation. At the time of writing the `jdk-8u252-x64` MSI is the most appropriate download.
+1. Install Red Hat XML Tools in Visual Studio Code:
     1. Open Visual Studio Code.
-    1. Switch to the extension Marketplace.
+    1. Switch to the extension Marketplace (5th icon down the left side).
     1. Search for "Red Hat XML Tools".
     1. Click Install.
-    1. Restart Visual Studio Code.
+    1. Close and restart Visual Studio Code.
 
 # XML Validation
 
-Open the XML file that you want to validate. Ensure that the XML file refers to a schema namespace in the root XML tag of the file. Here's an example of a riverscapes project file referrring to the XSD file online in the GitHub repository. The namespace reference is on line 3:
+Open the XML file that you want to validate. Ensure that the XML file refers to a schema namespace in the root XML tag of the file. Here's an example from the top of a riverscapes project file referring to the [XSD file online in the GitHub repository](https://github.com/NorthArrowResearch/riverscapes-programs/blob/master/Projects/BRAT/XSD/V1/Project.xsd). The namespace reference is on line 3:
 
 ```xml
 <?xml version="1.0"?>
@@ -41,7 +41,7 @@ xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/NorthArrowResea
 		<Meta name="Watershed">Warner Lakes</Meta>
 	</MetaData>
 	<Realizations>
-....
+...
 ```
 
 Open the terminal pane (CTRL+J on Windows) and switch to the "Problems" tab. Any problems with the XML should be underlined in red and also appear in this Problems pane. Test that validation is working by writing some invalid XML (either a nonsense tag name or deleting an angle bracket etc.).
