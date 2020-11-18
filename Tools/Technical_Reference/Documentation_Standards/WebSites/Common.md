@@ -159,4 +159,4 @@ If I have a GIST (e.g. [this one](https://gist.github.com/joewheaton/002acd9ea72
 `<script src="https://gist.github.com/joewheaton/002acd9ea725f6d4a1bac38ee9a0dd50.js"></script>` this:
 
 
-<script src="https://gist.github.com/joewheaton/ef0fe1a2676d940c9e2305456bb5354e.js"></script>
+<script src="https://gist.github.com/joewheaton/002acd9ea725f6d4a1bac38ee9a0dd50.js"></script>
