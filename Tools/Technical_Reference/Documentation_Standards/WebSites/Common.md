@@ -151,10 +151,12 @@ A long-winded video showing how you do all the above, plus the upload to AWS.
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/uRFkxY2d_ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-#### Embed a Gist
+-------
 
-If I have a GIST (e.g. [this one](https://gist.github.com/joewheaton/ef0fe1a2676d940c9e2305456bb5354e)), you can simply copy the embed code and paste it in. For example, this produces:
-`<script src="https://gist.github.com/joewheaton/ef0fe1a2676d940c9e2305456bb5354e.js"></script>` this:
+## Embed a Gist
+
+If I have a GIST (e.g. [this one](https://gist.github.com/joewheaton/002acd9ea725f6d4a1bac38ee9a0dd50)), you can simply copy the embed code and paste it in. For example, this produces:
+`<script src="https://gist.github.com/joewheaton/002acd9ea725f6d4a1bac38ee9a0dd50.js"></script>` this:
 
 
 <script src="https://gist.github.com/joewheaton/ef0fe1a2676d940c9e2305456bb5354e.js"></script>
