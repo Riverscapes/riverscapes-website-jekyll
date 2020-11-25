@@ -1,8 +1,9 @@
 ---
 title: Visual Studio Code Demos
-weight: 2
+weight: 3
 ---
 
+Posts and videos from [@philpbaileynar](https://github.com/orgs/Riverscapes/people/philipbaileynar) <i class="fa fa-github" aria-hidden="true"></i> to help you getting started with [Visual Studio Code](https://code.visualstudio.com/).
 # Introduction to Visual Studio Code
 
 <div class="responsive-embed">

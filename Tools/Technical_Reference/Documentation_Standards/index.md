@@ -1,6 +1,6 @@
 ---
 title: Documentation Standards
-weight: 7
+weight: 1
 ---
 
 
