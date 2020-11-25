@@ -1,5 +1,6 @@
 ---
-title: Video Demonstrations
+title: Visual Studio Code Demos
+weight: 2
 ---
 
 # Introduction to Visual Studio Code
