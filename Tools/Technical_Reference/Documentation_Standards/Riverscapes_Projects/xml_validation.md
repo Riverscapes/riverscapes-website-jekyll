@@ -23,6 +23,15 @@ Our preferred tool for validating XML is Microsoft's free [Visual Studio Code](h
     1. Click Install.
     1. Close and restart Visual Studio Code.
 
+# Which XSD To Use:
+
+Use the following URLs in the `namespaceSchemaLocation` attribute in the root level node of your XML:
+
+|XML Type|XSD URL|
+|---|---|
+|[Riverscapes Project XML Files]({{ site.baseurl}}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/Project/projectxml.html)|[https://raw.githubusercontent.com/Riverscapes/Program/master/Project/XSD/V1/Project.xsd](https://raw.githubusercontent.com/Riverscapes/Program/master/Project/XSD/V1/Project.xsd)|
+|[RAVE Business Logic XML](http://rave.riverscapes.xyz/business-logic.html)|[https://raw.githubusercontent.com/Riverscapes/RaveAddIn/master/RaveAddIn/XML/XSD/project_explorer.xsd](https://raw.githubusercontent.com/Riverscapes/RaveAddIn/master/RaveAddIn/XML/XSD/project_explorer.xsd)|
+
 # XML Validation
 
 Open the XML file that you want to validate. Ensure that the XML file refers to a schema namespace in the root XML tag of the file. Here's an example from the top of a riverscapes project file referring to the [XSD file online in the GitHub repository](https://github.com/NorthArrowResearch/riverscapes-programs/blob/master/Projects/BRAT/XSD/V1/Project.xsd). The namespace reference is on line 3:
