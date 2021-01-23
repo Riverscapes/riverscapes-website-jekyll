@@ -1,8 +1,9 @@
 ---
-title: Data Warehouses
+title: Riverscapes Warehouse
+weight: 1
 ---
 
-The Riverscapes Consortium organizes and serves data via  *data warehouses* <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">. These data warehouses provide access to both the underlying data (packaged in [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)) as well as making these data explorable via [warehouse explorers]({{ site.baseurl }}/Data_Warehouses/#warehouse-explorer-concept) or [interactive web maps]({{ site.baseurl }}/Data_Warehouses/#web-maps). We only serve and host data packaged in fully  [Riverscapes-Compliant]({{ site.baseurl }}/Tools) <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png">  [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">.
+The Riverscapes Consortium organizes and serves data via a  *[data warehouse](http://data.riverscapes.xyz)* <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">. The data warehouse provides access to both the underlying data (packaged in [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)) as well as making these data explorable via a  [warehouse explorer]({{ site.baseurl }}/Data_Warehouses/#warehouse-explorer-concept) or [interactive web maps]({{ site.baseurl }}/Data_Warehouses/#web-maps). We only serve and host data packaged in fully  [Riverscapes-Compliant]({{ site.baseurl }}/Tools) <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png">  [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">.
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
@@ -16,9 +17,13 @@ The Riverscapes Consortium organizes and serves data via  *data warehouses* <img
   </div>
 
 </div>
+<div align="center">
+<a href="http://data.riverscapes.xyz" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Get Data Now</b><br> from Riverscapes Warehouse </a>
+</div>
+
 ## Advantages
 
-<img class="float-right" src="{{ site.baseurl }}/assets/images/data/Riverscapes Warehouse Loggin.png">The advantages of  [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)  being hosted in a data warehouse can include:
+<a href="http://data.riverscapes.xyz" target="blank"><img class="float-right" src="{{ site.baseurl }}/assets/images/data/Riverscapes Warehouse Loggin.png"></a>The advantages of  [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)  being hosted in a data warehouse can include:
 - Searchable and queryable [Warehouse Explorer]({{ site.baseurl }}/Data_Warehouses#warehouse-explorer-concept) Catalog <i class="fa fa-filter" aria-hidden="true"></i>
 - Custom [Web-Maps]({{ site.baseurl }}/Data_Warehouses#web-maps) <i class="fa fa-map-o" aria-hidden="true"></i>
 - Custom field and desktop [Apps]({{ site.baseurl }}/Data_Warehouses#apps---pwas) <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">
@@ -33,7 +38,6 @@ The Riverscapes Consortium organizes and serves data via  *data warehouses* <img
 - Searchable and discoverable in [RAVE](http://rave.riverscapes.xyz) GIS Toolbars
 
 
-**NOTE** - As of January 2020, we have not made any of the *riverscapes warehouses* fully public facing as they are still in Beta Testing. 
 
 ## Overview
 In this 8 minute video, we show off what these warehouses buy you in terms of housekeeping and reaching broader audiences. 
