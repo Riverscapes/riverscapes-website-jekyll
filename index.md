@@ -2,10 +2,13 @@
 title: Home
 ---
 <div align="center">
-<a class="hollow button" href="{{ site.baseurl }}/Tools"> <i class="fa fa-github" aria-hidden="true"></i> RC Tools </a>
-<a class="hollow button" href="{{ site.baseurl }}/Science"><i class="fa fa-graduation-cap" aria-hidden="true"></i> RC Science </a>
-<a class="hollow button" href="{{ site.baseurl }}/Data_Warehouses"><i class="fa fa-cloud" aria-hidden="true"></i> RC Data Warehouses </a>
-<a class="hollow button" href="{{ site.baseurl }}/Management"><i class="fa fa-globe" aria-hidden="true"></i> RC Management </a>
+
+<a href="http://data.riverscapes.xyz" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Get Data Now</b> <i class="fa fa-cloud-download" aria-hidden="true"></i><br> from Riverscapes Warehouse </a>
+<a class="hollow button" href="{{ site.baseurl }}/Data_Warehouses"><i class="fa fa-cloud" aria-hidden="true"></i> <b>About</b><br> RC Data Warehouse </a>
+<a class="hollow button" href="http://maps.riverscapes.xyz"><i class="fa fa-globe" aria-hidden="true"></i> RC Interactive<br> Web <b>Maps</b> <i class="fa fa-location-arrow" aria-hidden="true"></i></a>
+<a class="hollow button" href="{{ site.baseurl }}/Tools"> <i class="fa fa-github" aria-hidden="true"></i> RC <b>Open Source</b><br> Tools on Github </a>
+<a class="hollow button" href="{{ site.baseurl }}/Tools"> <img src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_32.png">  RC-Compliant <br> <b>Tools</b> <i class="fa fa-wrench" aria-hidden="true"></i></a>
+
 </div>
 
 ## Motivating Problem - Urgent Threats to Our Riverscapes
@@ -27,18 +30,19 @@ The health of riverscapes can be improved and they can become more resilient to 
 ## What we do
 The RC tackles these challenges through four primary outlets:
 1. Scalable & interoperable [Tools]({{ site.baseurl }}/Tools)
-2. Innovative, reproducible & rigorous [Science]({{ site.baseurl }}/Science)
-3. Accessible, transparent and rich [Data Warehouses]({{ site.baseurl }}/Data_Warehouses)
-4. Pragmatic & scalable [Management]({{ site.baseurl }}/Management) solutions
+2. Innovative, reproducible & rigorous **Science**
+3. Host accessible, transparent and rich [Data Warehouses]({{ site.baseurl }}/Data_Warehouses) for sharing <i class="fa fa-share-alt" aria-hidden="true"></i> and discovery of data
+4. Pragmatic & scalable **Management** solutions
 
 <div align="center">
-<a class="button" href="{{ site.baseurl }}/Tools"> <i class="fa fa-github" aria-hidden="true"></i> RC Tools </a>
-<a class="button" href="{{ site.baseurl }}/Science"><i class="fa fa-leanpub" aria-hidden="true"></i> RC Science </a>
-<a class="button" href="{{ site.baseurl }}/Data_Warehouses"><i class="fa fa-cloud" aria-hidden="true"></i> RC Data Warehouses </a>
-<a class="button" href="{{ site.baseurl }}/Management"><i class="fa fa-globe" aria-hidden="true"></i> RC Management </a>
+<a href="http://data.riverscapes.xyz" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Get Data Now</b> <i class="fa fa-cloud-download" aria-hidden="true"></i><br> from Riverscapes Warehouse </a>
+<a class="hollow button" href="{{ site.baseurl }}/Data_Warehouses"><i class="fa fa-cloud" aria-hidden="true"></i> <b>About</b><br> RC Data Warehouse </a>
+<a class="hollow button" href="http://maps.riverscapes.xyz"><i class="fa fa-globe" aria-hidden="true"></i> RC Interactive<br> Web <b>Maps</b> <i class="fa fa-location-arrow" aria-hidden="true"></i></a>
+<a class="hollow button" href="{{ site.baseurl }}/Tools"> <i class="fa fa-github" aria-hidden="true"></i> RC <b>Open Source</b><br> Tools on Github </a>
+<a class="hollow button" href="{{ site.baseurl }}/Tools"> <img src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_32.png">  RC-Compliant <br> <b>Tools</b> <i class="fa fa-wrench" aria-hidden="true"></i></a>
 </div>
 
-Our consortium has been prolific in developing and vetting the [science]({{ site.baseurl }}/publications) and theoretical underpinnings essential to understanding and explaining how riverscapes work and are organized across a range of nested hierarchical spatial scales. We have also committed to building [open-source algorithms](https://github.com/Riverscapes) <i class="fa fa-github" aria-hidden="true"></i> [tools]({{ site.baseurl }}/Tools) to make it easier for researchers, professionals, practitioners and students to apply those concepts to studying or [managing]({{ site.baseurl }}/Management) their own riverscapes. 
+Our consortium has been prolific in developing and vetting the science and theoretical underpinnings essential to understanding and explaining how riverscapes work and are organized across a range of nested hierarchical spatial scales. We have also committed to building [open-source algorithms](https://github.com/Riverscapes) <i class="fa fa-github" aria-hidden="true"></i> [tools]({{ site.baseurl }}/Tools) to make it easier for researchers, professionals, practitioners and students to apply those concepts to studying or [managing]({{ site.baseurl }}/Management) their own riverscapes. 
 
 
 ## References
@@ -48,5 +52,6 @@ Our consortium has been prolific in developing and vetting the [science]({{ site
 --------
 ## Riverscapes Consortium Feed
 
-
-<a class="twitter-timeline" data-height="800" href="https://twitter.com/RiverscapesC?ref_src=twsrc%5Etfw">Tweets by RiverscapesC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center">
+<a width="350" class="twitter-timeline" data-height="600" href="https://twitter.com/RiverscapesC?ref_src=twsrc%5Etfw">Tweets by RiverscapesC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
