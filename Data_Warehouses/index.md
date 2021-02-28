@@ -1,6 +1,6 @@
 ---
 title: Riverscapes Warehouse
-weight: 1
+weight: 2
 ---
 
 The Riverscapes Consortium organizes and serves data via a  *[data warehouse](http://data.riverscapes.xyz)* <img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_24.png">. The data warehouse provides access to both the underlying data (packaged in [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/)) as well as making these data explorable via a  [warehouse explorer]({{ site.baseurl }}/Data_Warehouses/#warehouse-explorer-concept) or [interactive web maps]({{ site.baseurl }}/Data_Warehouses/#web-maps). We only serve and host data packaged in fully  [Riverscapes-Compliant]({{ site.baseurl }}/Tools) <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png">  [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">.

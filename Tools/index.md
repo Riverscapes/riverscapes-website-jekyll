@@ -1,6 +1,6 @@
 ---
 title: Tools
-index: 1
+weight: 3
 ---
 
 <img class="float-left" src="{{ site.baseurl }}/assets/images/rc/tool.png">The RC has been prolific in developing and vetting the [science]({{ site.baseurl }}/publications) and theoretical underpinnings essential to understanding and explaining how riverscapes work and are organized across a range of nested hierarchical spatial scales. We have also committed to building [open-source algorithms](https://github.com/Riverscapes) <i class="fa fa-github" aria-hidden="true"></i> tools to make it easier for researchers, professionals, practitioners and students to apply those concepts to their own riverscapes. 
