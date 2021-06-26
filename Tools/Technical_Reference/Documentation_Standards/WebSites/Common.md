@@ -31,17 +31,22 @@ Instead of:
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/4UKe5BkzJEY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
 #### Markdown Alternative
-However, for regular markdown there is still an option that includes a preview of the site (this is supported, for example in GitHub issue forums, whereas the iframe is not). It relies on the thumbnails that YouTube automatically generates for every youtube vide on its image server (`https://img.youtube.com/`). Thus if you use the image markdown syntax (`![alt-text](imagepath)`) inside a regular markdown hyperlink (`[text](url)`). 
+However, for regular markdown there is still an option that includes a preview of the site (this is supported, for example in GitHub issue forums, whereas the iframe is not). It relies on the thumbnails that YouTube automatically generates for every youtube vide on its image server (`https://img.youtube.com/`; see [here](https://www.sitepoint.com/youtube-video-thumbnail-urls/) for more information on how YouTube does this). Thus, if you use the image markdown syntax (`![alt-text](imagepath)`) inside a regular markdown hyperlink (`[text](url)`) you can produce the illusion of an embedded youtube video (it is actually just an image that links to YouTube).
 
-Use the following syntax and substitute in your YouTube video ID for YTID:
-``` md
+Use the following syntax and substitute in your YouTube video ID for `YTID`:
+``` markdown
 [![Alt-text](https://img.youtube.com/vi/YTID/0.jpg)](https://www.youtu.be/watch?v=YTID)
-```
-For example, using the above id of `4UKe5BkzJEY` would show up as:
+``` 
+For example, using the above id of `4UKe5BkzJEY` for `YTID` would show up as: <br>
 [![Alt-text](https://img.youtube.com/vi/4UKe5BkzJEY/0.jpg)](https://www.youtu.be/watch?v=4UKe5BkzJEY)
 
-Note subsituting 1.jpg for 0.jpg switches to a thumbnail size. <br>
+Note subsituting `1.jpg` for `0.jpg` switches to a thumbnail size. <br>
 [![Alt-text](https://img.youtube.com/vi/4UKe5BkzJEY/1.jpg)](https://www.youtu.be/watch?v=4UKe5BkzJEY)
+
+Finally, if you want to make the hyperlink open in a new tab, use:
+``` markdown
+[![Alt-text](https://img.youtube.com/vi/YTID/0.jpg)](https://www.youtu.be/watch?v=YTID){:target="_blank"}
+``` 
 
 ------
 ### Embedding an Image
