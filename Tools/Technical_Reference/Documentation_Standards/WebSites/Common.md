@@ -35,10 +35,10 @@ However, for regular markdown there is still an option that includes a preview o
 
 Use the following syntax and substitute in your YouTube video ID for YTID:
 ``` md
-[![Alt-text](https://img.youtube.com/vi/YTID.jpg)](https://www.youtube.com/watch?v=YTID)
+[![Alt-text](https://img.youtube.com/vi/YTID/1.jpg)](https://www.youtu.be/watch?v=YTID)
 ```
 For example, using the above id of `4UKe5BkzJEY` would show up as:
-[![Alt-text](https://img.youtube.com/vi/4UKe5BkzJEY.jpg)](https://www.youtube.com/watch?v=4UKe5BkzJEY)
+[![Alt-text](https://img.youtube.com/vi/4UKe5BkzJEY/1.jpg)](https://www.youtu.be/watch?v=4UKe5BkzJEY)
 
 ------
 ### Embedding an Image
