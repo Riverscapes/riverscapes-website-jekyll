@@ -9,8 +9,8 @@ These days, there are many websites that allow you to create content (e.g. video
 
 ------
 ### Embedding a Video
-
-The video I want to [embed](http://riverscapes.northarrowresearch.com/Technical_Reference/jekyll_toolbox.html#youtube-videos) is [https://www.youtube.com/watch?v=JFzYE_Cnjjw&feature=youtu.be](https://www.youtube.com/watch?v=JFzYE_Cnjjw&feature=youtu.be). 
+#### With iframe
+Since Jekyll sites support html, you can actually use html `<iframe>` to embed videos easily. The video I want to [embed](http://riverscapes.northarrowresearch.com/Technical_Reference/jekyll_toolbox.html#youtube-videos) is [https://www.youtube.com/watch?v=JFzYE_Cnjjw&feature=youtu.be](https://www.youtube.com/watch?v=JFzYE_Cnjjw&feature=youtu.be). 
 
 Watch this [video](https://youtu.be/4UKe5BkzJEY) for how to embed a video.
 
@@ -30,6 +30,15 @@ Instead of:
 ``` html
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/4UKe5BkzJEY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
+#### Mark Down Alternative
+However, for regular markdown there is still an option that includes a preview of the site (this is supported, for example in GitHub issue forums, whereas the iframe is not). It relies on the thumbnails that YouTube automatically generates for every youtube vide on its image server (`https://img.youtube.com/`). Thus if you use the image markdown syntax (`![alt-text](imagepath)`) inside a regular markdown hyperlink (`[text](url)`). 
+
+Use the following syntax and substitute in your YouTube video ID for YTID:
+``` md
+[![Alt-text](https://img.youtube.com/vi/YTID.jpg)](https://www.youtube.com/watch?v=YTID)
+```
+For example, using the above id of `4UKe5BkzJEY` would show up as:
+[![Alt-text](https://img.youtube.com/vi/4UKe5BkzJEY.jpg)](https://www.youtube.com/watch?v=4UKe5BkzJEY)
 
 ------
 ### Embedding an Image
