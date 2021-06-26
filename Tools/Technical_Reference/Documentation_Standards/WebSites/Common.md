@@ -30,14 +30,17 @@ Instead of:
 ``` html
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/4UKe5BkzJEY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
-#### Mark Down Alternative
+#### Markdown Alternative
 However, for regular markdown there is still an option that includes a preview of the site (this is supported, for example in GitHub issue forums, whereas the iframe is not). It relies on the thumbnails that YouTube automatically generates for every youtube vide on its image server (`https://img.youtube.com/`). Thus if you use the image markdown syntax (`![alt-text](imagepath)`) inside a regular markdown hyperlink (`[text](url)`). 
 
 Use the following syntax and substitute in your YouTube video ID for YTID:
 ``` md
-[![Alt-text](https://img.youtube.com/vi/YTID/1.jpg)](https://www.youtu.be/watch?v=YTID)
+[![Alt-text](https://img.youtube.com/vi/YTID/0.jpg)](https://www.youtu.be/watch?v=YTID)
 ```
 For example, using the above id of `4UKe5BkzJEY` would show up as:
+[![Alt-text](https://img.youtube.com/vi/4UKe5BkzJEY/0.jpg)](https://www.youtu.be/watch?v=4UKe5BkzJEY)
+
+Note subsituting 1.jpg for 0.jpg switches to a thumbnail size. <br>
 [![Alt-text](https://img.youtube.com/vi/4UKe5BkzJEY/1.jpg)](https://www.youtu.be/watch?v=4UKe5BkzJEY)
 
 ------
