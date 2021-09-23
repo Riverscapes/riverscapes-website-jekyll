@@ -16,6 +16,13 @@ Posts and videos from [@philpbaileynar](https://github.com/orgs/Riverscapes/peop
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMw2ki-bauQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+Note, from time to time old versions of the XSD validation can get cached locally and may not be updating. If this happens, try:
+1. shut down VSCode completely
+2. Go to your used folder (usually somethin like `c:\Users\MYNAME\`) 
+3. Look for a `.lemminx` folder. Inside that you should find a `cache` folder
+4. Delete the `cache` folder completely.
+5. Open up VSCode
+
 # Logging In Python
 
 The logging class used is the demo is available [here](https://github.com/Riverscapes/sqlBRAT/blob/master/lib/loghelper.py).
