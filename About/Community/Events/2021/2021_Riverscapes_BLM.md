@@ -10,7 +10,7 @@ weight: 3
 Webinar will be conducted on Zoom Webinar and require pre-registration. Registration is by invite only, which  will be distributed by [BLM Montana/Dakota staff](https://www.blm.gov/montana-dakotas).
 
 ## Webinar Purpose
-<a href="https://riverscapes.xyz"><img width="125" class="float-right" src="{{ site.baserurl }}/assets/images/rc/RiverscapesConsortium_Logo_Black_BHS.png"></a> **The purpose of this webinar is to introduce both a vision for what the health of riverscapes could be and some of the tools and datasets available for the  Montana/Dakotas to help identify what is possible where.** Specifically, the vision for the [Riverscape Consortium's](https://riverscapes.xyz) next generation of [riverscape tools](https://riverscapes.xyz/Tools/) and [data](http://data.riverscapes.xyz) to support riverscape [planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/), [restoration](http://lowtechpbr.restoration.usu.edu/resources/Topics/01_Overview/), [implementation](http://lowtechpbr.restoration.usu.edu/resources/Topics/05_Implementation/), monitoring, stewardship and citizen science will be shared. 
+<a href="https://riverscapes.xyz"><img class="float-right" src="{{ site.baserurl }}/assets/images/rc/RiverscapesConsortium_Logo_Black_BHS.png"></a> **The purpose of this webinar is to introduce both a vision for what the health of riverscapes could be and some of the tools and datasets available for the  Montana/Dakotas to help identify what is possible where.** Specifically, the vision for the [Riverscape Consortium's](https://riverscapes.xyz) next generation of [riverscape tools](https://riverscapes.xyz/Tools/) and [data](http://data.riverscapes.xyz) to support riverscape [planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/), [restoration](http://lowtechpbr.restoration.usu.edu/resources/Topics/01_Overview/), [implementation](http://lowtechpbr.restoration.usu.edu/resources/Topics/05_Implementation/), monitoring, stewardship and citizen science will be shared. 
 
 ### Format / Agenda
 
@@ -25,7 +25,7 @@ Rough Agenda:
 The webinar will be recorded and all webinar resources will be posted on this page as a resource following the live event.
 
 ### Webinar Sponsor
-<a href="https://www.blm.gov/montana-dakotas"><img width="125" class="float-left" src="{{ site.baserurl }}/assets/images/sponsors/BLM.png"></a>
+<a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baserurl }}/assets/images/sponsors/blm.png"></a>
 Thanks to the generous support of the [Bureau of Land Management's Montana/Dakotas Office](https://www.blm.gov/montana-dakotas). Specifically, this webinar was envisioned by Alden Shalcross (Hydrologist – State Lead:  Aquatic Habitat Management) to support the overall improvement of riverscape health. 
 
 <a href="https://twitter.com/blm_mtdks"><i class="fa fa-twitter" aria-hidden="true"></i>@BLM_MTDKs</a>
