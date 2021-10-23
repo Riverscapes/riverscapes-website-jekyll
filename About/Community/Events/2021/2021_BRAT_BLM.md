@@ -10,7 +10,7 @@ weight: 2
 Webinar will be conducted on Zoom Webinar and require pre-registration. Registration is by invite only, which  will be distributed by [BLM Montana/Dakota staff](https://www.blm.gov/montana-dakotas).
 
 ## Webinar Purpose
-<a href="https://tools.riverscapes.xyz/brat/"><img width="125" class="float-right" src="{{ site.baserurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a> **Overview of  Beaver Restoration Assessment Tool, the model outputs, and how to use it for [LTPBR planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/) specifcally in Montana/Dakotas.** We will deliver this webinar in a series of modules, targeted to serve different audiences. 
+<a href="https://tools.riverscapes.xyz/brat/"><img class="float-right" src="{{ site.baserurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a> **Overview of  Beaver Restoration Assessment Tool, the model outputs, and how to use it for [LTPBR planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/) specifcally in Montana/Dakotas.** We will deliver this webinar in a series of modules, targeted to serve different audiences. 
 
 ### Format / Agenda
 
@@ -27,7 +27,7 @@ Rough Agenda:
 The webinar will be recorded and all webinar resources will be posted on this page as a resource following the live event.
 
 ### Webinar Sponsor
-<a href="https://www.blm.gov/montana-dakotas"><img width="125" class="float-left" src="{{ site.baserurl }}/assets/images/sponsors/BLM.png"></a>
+<a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baserurl }}/assets/images/sponsors/blm.png"></a>
 Thanks to the generous support of the [Bureau of Land Management's Montana/Dakotas Office](https://www.blm.gov/montana-dakotas). Specifically, this webinar was envisioned by Alden Shalcross (Hydrologist – State Lead:  Aquatic Habitat Management) to support the overall improvement of riverscape health. 
 
 <a href="https://twitter.com/blm_mtdks"><i class="fa fa-twitter" aria-hidden="true"></i>@BLM_MTDKs</a>
