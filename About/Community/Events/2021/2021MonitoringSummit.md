@@ -7,7 +7,11 @@ weight: 1
 
 **November 2-4, 2021**
 
-Virtual Summit will be conducted on Zoom
+_9:30 to 16:30 MST_
+
+Virtual Summit will be conducted on Zoom (see calendar invite for [link](https://usu-edu.zoom.us/j/87009252724?pwd=V1dpMDBvVTFua2VvL2QrMjdlakpvQT09)).
+
+
 
 ## Summit Purpose
 **The purpose of the summit will be to start building a Riverscapes Health Monitoring Framework.** The framework will not prescribe the specific methods like a protocol would, but instead define the guiding principles, the target indicators and common currencies, and provide the sideboards for which specific monitoring protocols can  minimally adhere to and expand as is appropriate for their specific purposes. 
@@ -20,7 +24,7 @@ In conjunction with authoring a framework, we will look to run the development o
 
 There are a plethora of Monitoring Protocols. On [MonitoringResources.org](https://www.monitoringresources.org/Resources/Program/Index) there are over 87 monitoring programs alone listed.  
 
-From our participants in this summit, the following monitoring programs are worth noting:
+From our participants in this summit, the following monitoring programs are worth noting (please email me if you want yours listed):
 - [BLM AIM (Assessment, Inventory and Monitoring)](https://aim.landscapetoolbox.org/)
 - [CHaMP - Columbia Habitat Monitoring Program](https://www.champmonitoring.org/)
 - 
