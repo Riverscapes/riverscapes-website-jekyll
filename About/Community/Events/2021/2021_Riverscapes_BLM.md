@@ -26,7 +26,7 @@ The webinar will be recorded and all webinar resources will be posted on this pa
 
 ### Webinar Sponsor
 <a href="https://www.blm.gov/montana-dakotas"><img class="float-left" src="{{ site.baserurl }}/assets/images/sponsors/blm.png"></a>
-Thanks to the generous support of the [Bureau of Land Management's Montana/Dakotas Office](https://www.blm.gov/montana-dakotas). Specifically, this webinar was envisioned by Alden Shalcross (Hydrologist – State Lead:  Aquatic Habitat Management) to support the overall improvement of riverscape health. 
+Thanks to the generous support of the [Bureau of Land Management's Montana/Dakotas Office](https://www.blm.gov/montana-dakotas). Specifically, this webinar was envisioned by Alden Shallcross (Hydrologist – State Lead:  Aquatic Habitat Management) to support the overall improvement of riverscape health. 
 
 <a href="https://twitter.com/blm_mtdks"><i class="fa fa-twitter" aria-hidden="true"></i>@BLM_MTDKs</a>
 
