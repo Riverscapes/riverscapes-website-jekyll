@@ -17,10 +17,10 @@ Webinar will be conducted on Zoom Webinar and require pre-registration. Registra
 There will be a mix of lecture, interactive desktop exercises, and discussion throughout. 
 Rough Agenda:
 - 10:00 to 10:15 - Introductions & Overview
-- 10:15 to 11:00 - Lecture on Riverscapes Vision with some Exercises 
+- 10:15 to 11:00 - Lecture on Riverscapes Vision with Q&A
 - 11:00 to 11:45 - Hands-On Demos in [webRAVE](http://rave.riverscapes.xyz/)
 - 11:45 to 12:15 - Q&A Discussion
-- 12:15 to 12:30ish - Advanced [QRAVE](http://rave.riverscapes.xyz/Download/install_qrave.html) demos in QGIS
+- 12:15 to 12:30ish - Advanced [ArcRAVE](http://rave.riverscapes.xyz/Download/install_arcrave.htmll) and  [QRAVE](http://rave.riverscapes.xyz/Download/install_qrave.html) demos in QGIS
 
 The webinar will be recorded and all webinar resources will be posted on this page as a resource following the live event.
 
