@@ -7,7 +7,11 @@ weight: 2
 ![]({{ site.baseurl }}/assets/images/events/BLM_BRAT_RiverscapesConsortium_Nov2021.png)
 
 
-Webinar will be conducted on Zoom Webinar and require pre-registration. Registration is by invite only, which  will be distributed by [BLM Montana/Dakota staff](https://www.blm.gov/montana-dakotas).
+Webinar will be conducted on Zoom. Check back here for Zoom Link. No advanced registration is necessary. Just show up at above time. For those that cannot make it, the webinar will be recorded and posted here. 
+
+<div align="center">
+<a href="" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Webinar</b> <img src="{{ site.baseurl }}/assets/images/zoom_32.png"><br>Zoom Link (pending)</a>
+</div>
 
 ## Webinar Purpose
 <a href="https://tools.riverscapes.xyz/brat/"><img class="float-right" src="{{ site.baserurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a> **Overview of  Beaver Restoration Assessment Tool, the model outputs, and how to use it for [LTPBR planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/) specifically in Montana/Dakotas.** 
