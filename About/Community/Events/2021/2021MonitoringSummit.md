@@ -9,7 +9,9 @@ weight: 1
 
 _10:30 to 16:30 MST_ each day 
 
-Virtual Summit will be conducted on Zoom (see calendar invite for [link](https://usu-edu.zoom.us/j/87009252724?pwd=V1dpMDBvVTFua2VvL2QrMjdlakpvQT09)).
+Virtual Summit will be conducted on [Zoom](https://usu-edu.zoom.us/j/87009252724?pwd=V1dpMDBvVTFua2VvL2QrMjdlakpvQT09) (see calendar invite for [link](https://usu-edu.zoom.us/j/87009252724?pwd=V1dpMDBvVTFua2VvL2QrMjdlakpvQT09)).
+
+
 
 ## Summit Purpose
 **The purpose of the summit will be to start building a Riverscapes Health Monitoring Framework.** The framework will not prescribe the specific methods like a protocol would, but instead define the guiding principles, the target indicators and common currencies, and provide the sideboards for which specific monitoring protocols can  minimally adhere to and expand as is appropriate for their specific purposes. 
@@ -24,8 +26,12 @@ There are a plethora of Monitoring Protocols. On [MonitoringResources.org](https
 
 From our participants in this summit, the following monitoring programs are worth noting (please email me if you want yours listed):
 - [BLM AIM (Assessment, Inventory and Monitoring)](https://aim.landscapetoolbox.org/)
+
 - [CHaMP - Columbia Habitat Monitoring Program](https://www.champmonitoring.org/)
-- 
+
+- [SVAP - Stream Visual Assessment Protocol](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb1043252.pdf) (NRCS)
+
+  
 ### References on some Existing Stream and Riverscape Monitoring Protocols
 *If you have other suggestions, please contribute them*
 
@@ -37,8 +43,7 @@ From our participants in this summit, the following monitoring programs are wort
 
 ### Example of Conceptually Similar Framework for Rangeland Health
 
-- Pellant M, Shaver P, Pyke DA, Herrick JE. 2005. [Interpreting Indicators of Rangeland Health](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_023923.pdf). Techncial Reference 1734-6 . Version 4-2005. U.S. Department of
-the Interior, Bureau of Land Management, National Science and Technology
+- Pellant M, Shaver P, Pyke DA, Herrick JE. 2005. [Interpreting Indicators of Rangeland Health](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_023923.pdf). Techncial Reference 1734-6 . Version 4-2005. U.S. Department of the Interior, Bureau of Land Management, National Science and Technology
 Center: Denver, CO. 
 
 
