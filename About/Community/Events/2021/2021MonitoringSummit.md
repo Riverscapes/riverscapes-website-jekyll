@@ -11,7 +11,7 @@ _10:30 to 16:30 MST_ each day
 
 Virtual Summit will be conducted on [Zoom](https://usu-edu.zoom.us/j/87009252724?pwd=V1dpMDBvVTFua2VvL2QrMjdlakpvQT09) (see calendar invite for [link](https://usu-edu.zoom.us/j/87009252724?pwd=V1dpMDBvVTFua2VvL2QrMjdlakpvQT09)).
 
-
+Note: Meeting will be recorded for those who cannot make entire meeting. 
 
 ## Summit Purpose
 **The purpose of the summit will be to start building a Riverscapes Health Monitoring Framework.** The framework will not prescribe the specific methods like a protocol would, but instead define the guiding principles, the target indicators and common currencies, and provide the sideboards for which specific monitoring protocols can  minimally adhere to and expand as is appropriate for their specific purposes. 
