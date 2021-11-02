@@ -31,12 +31,16 @@ From our participants in this summit, the following monitoring programs are wort
 
 - [SVAP - Stream Visual Assessment Protocol](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb1043252.pdf) (NRCS)
 
+- [FACSTream 1.0](https://www.researchgate.net/publication/355752959_FACStream_10_2015_Functional_Assessment_of_Colorado_Streams) (2015) - [Presentation](https://www.youtube.com/watch?v=GacLhpeH3es) 
+
   
 ### References on some Existing Stream and Riverscape Monitoring Protocols
 *If you have other suggestions, please contribute them*
 
+- Beardsley M, Johnson B, Doran J. 2015. [FACStream 1.0 (2015) Functional Assessment of Colorado Streams](). Ecometrics.  
 - CHaMP. 2013. [Scientific protocol for salmonid habitat surveys within the Columbia Habitat Monitoring Program: 2013 Field Version](https://www.researchgate.net/publication/268803195_Scientific_Protocol_for_Salmonid_Habitat_Surveys_within_the_Columbia_Habitat_Monitoring_Program) . Prepared by the Integrated Status and Effectiveness Monitoring Program and published by Terraqua, Inc.: Wauconda, WA
 - Heitke JD, Archer EK, Roper B. 2010. Effectiveness monitoring for streams and riparian areas: sampling protocol for stream channel attributes . U.S. Forest Service, Rocky Mountain Research Station: Logan, Utah
+- Beardsley M, Johnson B, Doran J. 2015. FACStream 1.0 (2015) Functional Assessment of Colorado Streams 
 - NRCS. 2009. [Stream Visual Assessment Protocol Version 2: Part 614](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb1043252.pdf). In National Biology Handbook, . USDA Natural Resources Conservation Service; 75.
 -  Toevs GR, Karl JW, Taylor JJ, Spurrier CS, Bobo MR, Herrick JE. 2011. [Consistent Indicators and Methods and a Scalable Sample Design to Meet Assessment, Inventory, and Monitoring Information Needs Across Scales](https://aim.landscapetoolbox.org/wp-content/uploads/2015/09/Consistent-Indicators-and-a-Scalable-Sample-Design-to-Meet-Assessment-Inventory-and-Monitoring-Needs-Across-Scales_Toevs.pdf). Rangelands: 7. - See [AIM](https://aim.landscapetoolbox.org/)
 - Weber N, Wathen, G, and Bouwes, N. 2020. [Low-Tech Process Based Restoration Project Implementation and Monitoring Protocol](https://github.com/Riverscapes/fmLTPBR/releases/download/v1.0.0/LTPBR-Monitoring-V1.pdf). Prepared By: Eco Logical Research. Prepared for: [Oregon Watershed Enhancement Board](https://www.oregon.gov/oweb/Pages/index.aspx). - See [website](https://fmltpbr.riverscapes.xyz/).
@@ -62,12 +66,42 @@ As many of you/us have funding with deliverables and remits to work on related e
 ## Prior to Workshop
 You will be sent a draft manuscript on "Principles of Riverscape Health" and asked if you wish to contribute as a co-author and if you have any suggested changes/additions or if you fundamentally disagree with any aspects of it. We will also circulate a straw-man skeleton of the Framework outline for you to work on. 
 
-<!---
+
 # Summit Agenda
-#
+Some participants will be coming and going throughout the workshop due to other commitments. That is fine.  For the sake of those that can't make the morning introductions on Tuesday, please provide a little intro to who you are [here](https://docs.google.com/document/d/1nC_c-qwb-G2uRnEDW6ee8fc9AcG8ET8ZUTbcaYLoqkc/edit?usp=sharing).
 
-## Slides & Handouts
+We will start at 10:30 AM each morning (all times MST), break around 12:30ish for a half hour lunch, and adjourn around 4:30 PM each afternoon. We may call short breaks throughout of 5 - 10 minutes when momentum is lagging and we all need a little stretch. 
 
+The first evening we will host (on same Zoom URL) an awkward, virtual evening social from 5:30 to 6:30. So bring your (adult-optional) beverage of choice and try not and spill on your keyboard.
+
+As for  overall agenda, it will proceed roughly as follows:
+
+- Day 1 - Tuesday, November 2nd - Riverscape **Health**
+  - Morning - Intros / Purpose & Overview 
+  - Afternoon - Proposed Principles of Riverscape Heath & Manuscript
+- Day 2 - Wednesday, November 3rd - **Assessments** of Riverscape Health
+  - Morning - What are the measures and metrics & indicators that feed assessments?
+  - Afternoon- How do we meaningfully estimate “expected” in an O:E sense?
+- Day 3 - Thursday, November 4th - **Framework** & Framework-Compliant Protocols 
+  - Morning - Framework Outline & Organization
+  - Afternoon-  Protocols to Make Framework Compliant in Parallel
+
+## Resources
+
+- [Meeting Notes](https://docs.google.com/document/d/17TM-Kes8BTMZenkJaLq0Rgf06WANhpgQAIZUcRy5vtM/edit?usp=sharing)
+- [Participant List](https://docs.google.com/spreadsheets/d/1qaq08mmEGBXVIgbsvaMGejjI199M4hsBn4SOD1thcAo/edit?usp=sharing)
+- [Shared Google Drive](https://drive.google.com/drive/folders/1K0yhf9eDKvo1hmV6ispMwHxeek5dsAS1?usp=sharing)
+- [Draft Manuscript](https://docs.google.com/document/d/1-T-PjiY3egwXJs8qXiwyDIpILc-poI4HgvktmU2salU/edit?usp=sharing)
+- [Who just said that](https://docs.google.com/document/d/1nC_c-qwb-G2uRnEDW6ee8fc9AcG8ET8ZUTbcaYLoqkc/edit?usp=sharing) - a cheat sheet to intros of who's on the call
+
+
+### Riverscapes Consortium Sample Projects
+
+Visit [http://data.riverscapes.xyz](http://data.riverscapes.xyz) and register for an account if you do not have one. Then email philip@northarrowresearch.com to get access (or send him a private chat in the Zoom). 
+
+
+
+<!---
 <div align="center">
 
 
@@ -75,8 +109,7 @@ You will be sent a draft manuscript on "Principles of Riverscape Health" and ask
 
 </div>
 
-## Workshop Textbooks
-For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/manual) and the [Pocket Guide]({{ site.baseurl }}/resources/pocket), which are both available free digitally. As part of your [workshop registration fee](http://restoration.usu.edu/courses/LTPBR_Logan), a hard copy will be provided to you in person at the workshop.  Extra print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [arranged]({{ site.baseurl }}/resources/pocket). 
+
 
 
 <a href="{{ site.baseurl }}/manual"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/Manual_Tilted_150.png"></a>
@@ -85,49 +118,5 @@ For the workshops, we will rely on the new [Design Manual]({{ site.baseurl }}/ma
 
 <a href="{{ site.baseurl }}/resources/pocket"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/pocket_guide_cover_150w.png"></a>
 
--->
-
-<!---
------
-
-## Summit Organization Team
-
-<div class="row small-up-2 medium-up-2 large-up-4" align="center">
-
-
-  <div class="column column-block">
-    <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/Wheaton_round.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
-    Associate Professor, Ecogeomorphologist
-  </div>
-
-
-</div>
-
-
-<div class="row small-up-2 medium-up-2 large-up-5" align="center">
-
-  <div class="column column-block">
-    <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/sponsors/USU.png"></a>1. 
-  </div>
-
-  <div class="column column-block">
-	<a href="http://www.anabranchsolutions.com"><img src="{{ site.baseurl }}/assets/images/sponsors/anabranchsolutionslogo-square-450_10.png"></a><br>2. 
-  </div>
-
-
-</div>
--->
-
-<!----
-## Summit Sponsors
-
-The following organizations either provided grant funding, or dontated staff time, and in-kind resources to make the summit happen.
-
------
-
-
-<div align="center">
-        <a class="hollow button" href="{{ site.baseurl }}/workshops/"><i class="fa fa-graduation-cap"></i>  Back to Workshops </a>  
-</div>
 --->
+
