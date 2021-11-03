@@ -86,6 +86,7 @@ As for  overall agenda, it will proceed roughly as follows:
   - Morning - Framework Outline & Organization
   - Afternoon-  Protocols to Make Framework Compliant in Parallel
 
+--------------------
 ## Resources
 
 - [Meeting Notes](https://docs.google.com/document/d/17TM-Kes8BTMZenkJaLq0Rgf06WANhpgQAIZUcRy5vtM/edit?usp=sharing)
@@ -94,6 +95,19 @@ As for  overall agenda, it will proceed roughly as follows:
 - [Draft Manuscript](https://docs.google.com/document/d/1-T-PjiY3egwXJs8qXiwyDIpILc-poI4HgvktmU2salU/edit?usp=sharing)
 - [Who just said that](https://docs.google.com/document/d/1nC_c-qwb-G2uRnEDW6ee8fc9AcG8ET8ZUTbcaYLoqkc/edit?usp=sharing) - a cheat sheet to intros of who's on the call
 
+
+
+#### Day 1 Resources
+
+- [Draft Manuscript](https://docs.google.com/document/d/1-T-PjiY3egwXJs8qXiwyDIpILc-poI4HgvktmU2salU/edit?usp=sharing)
+- [Chapter 2](http://lowtechpbr.restoration.usu.edu/manual/chap02/) of [LTPBR Design Manual](http://lowtechpbr.restoration.usu.edu/manual/) covers both "riverscape principles" (of health) and "LTPBR Restoration Principles" (not included in proposed manuscript)
+- [References in Shared Drive](https://drive.google.com/drive/folders/1EuX1uOJIg2s7RsnrecLeBl8uPLtFKQuc?usp=sharing)
+
+#### Day 2 Resources
+
+
+
+#### Day 3 Resources
 
 ### Riverscapes Consortium Sample Projects
 
