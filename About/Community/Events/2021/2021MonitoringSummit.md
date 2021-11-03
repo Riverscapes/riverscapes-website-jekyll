@@ -105,7 +105,9 @@ As for  overall agenda, it will proceed roughly as follows:
 
 #### Day 2 Resources
 
+1. Visit [http://data.riverscapes.xyz](http://data.riverscapes.xyz) and register for an account if you do not have one. Then email info@northarrowresearch.com to get access (or send him a private chat in the Zoom). 
 
+2. Once you have access, we will primarily being playing in [https://data.riverscapes.xyz/#/BEAR](https://data.riverscapes.xyz/#/BEAR)
 
 #### Day 3 Resources
 
