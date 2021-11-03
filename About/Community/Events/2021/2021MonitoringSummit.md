@@ -97,23 +97,34 @@ As for  overall agenda, it will proceed roughly as follows:
 
 
 
-#### Day 1 Resources
+### Day 1 Resources
 
 - [Draft Manuscript](https://docs.google.com/document/d/1-T-PjiY3egwXJs8qXiwyDIpILc-poI4HgvktmU2salU/edit?usp=sharing)
 - [Chapter 2](http://lowtechpbr.restoration.usu.edu/manual/chap02/) of [LTPBR Design Manual](http://lowtechpbr.restoration.usu.edu/manual/) covers both "riverscape principles" (of health) and "LTPBR Restoration Principles" (not included in proposed manuscript)
 - [References in Shared Drive](https://drive.google.com/drive/folders/1EuX1uOJIg2s7RsnrecLeBl8uPLtFKQuc?usp=sharing)
 
-#### Day 2 Resources
+### Day 2 Resources
 
 1. Visit [http://data.riverscapes.xyz](http://data.riverscapes.xyz) and register for an account if you do not have one. Then email info@northarrowresearch.com to get access (or send him a private chat in the Zoom). 
 
 2. Once you have access, we will primarily being playing in [https://data.riverscapes.xyz/#/BEAR](https://data.riverscapes.xyz/#/BEAR)
 
-#### Day 3 Resources
+Today, we will do a "[LTPBR Conservation Planning Process](http://lowtechpbr.restoration.usu.edu/manual/chap03/)" exercise as a whole group. Although the purpose of this summit and framework IS NOT just to focus on LTPBR, a planning assessment for LTPBR is a perfect example to ground our discussion (there are many others we could choose). The exercise we will do is based on:
+- [E. Risk Assessment, Condition Assessment, & Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)
+- [F. Connecting & Clarifying Objectives & Tying to Goals](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#f-connecting--clarifying-objectives--tying-to-goals)
+- [C. Leading Design With Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module4#c-leading-design-with-recovery-potential)
+
+To do the exercises, you will need  to:
+1. Open up this [indicator assessment spreadsheet](https://docs.google.com/spreadsheets/d/1WmuuIg9H8rtjsQxUxQh7w8c8Bo7Zao4X5Tgt1JXqox4/edit?usp=sharing) from google Sheets, and 
+2. Go to File → "Make a Copy" and rename it as you see fit.
+3. If doing this as group exercise (in afternoon) you will want to use the "Share" button and make sure your group members all have access.
+4. We will only worry about existing conditions for now (i.e., columns E & F)
+
+### Day 3 Resources
 
 ### Riverscapes Consortium Sample Projects
 
-Visit [http://data.riverscapes.xyz](http://data.riverscapes.xyz) and register for an account if you do not have one. Then email philip@northarrowresearch.com to get access (or send him a private chat in the Zoom). 
+Visit [http://data.riverscapes.xyz](http://data.riverscapes.xyz) and register for an account if you do not have one. Then email info@northarrowresearch.com to get access (or send him a private chat in the Zoom). 
 
 
 
