@@ -10,7 +10,9 @@ weight: 2
 Webinar will be conducted on Zoom:  [Zoom Link](https://usu-edu.zoom.us/s/86736291821?pwd=VXdWbC9yeS8xQUxCU0oxTGU2akg0dz09). No advanced registration is necessary. Just show up at 10 AM MST. For those that cannot make it, the webinar will be recorded and posted to this page. 
 
 <div align="center">
-<a href="https://usu-edu.zoom.us/s/86736291821?pwd=VXdWbC9yeS8xQUxCU0oxTGU2akg0dz09" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Webinar</b> <img src="{{ site.baseurl }}/assets/images/zoom_32.png"><br>Zoom Link (pending)</a>
+<a href="https://usu-edu.zoom.us/s/86736291821?pwd=VXdWbC9yeS8xQUxCU0oxTGU2akg0dz09" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Webinar</b> <img src="{{ site.baseurl }}/assets/images/zoom_32.png"><br>Zoom Link </a>
+<br><br>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Mmk3aXV2b3E1YWEyaHNjOGhwZ2w1dXQ1MjAgam9lLm0ud2hlYXRvbkBt&amp;tmsrc=joe.m.wheaton%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 </div>
 
 ## Webinar Purpose
