@@ -65,11 +65,14 @@ The target  audience for the webinar is BLM staff and partners in conservation t
 
 ## Preparation Prior to Webinar
 
-1. Register with link from BLM
-2. Read/Skim  [Chapter 3](http://lowtechpbr.restoration.usu.edu/manual/chap03/) of design manual. We will be discussing tools that help estimate riverscape health condition and potential (described in [Chapter 2](http://lowtechpbr.restoration.usu.edu/manual/chap02/) ) and address questions posed during planning (discussed in [Chapter 3 and its Appendices](http://lowtechpbr.restoration.usu.edu/manual/chap03/)) .
+1. Read/Skim  [Chapter 3](http://lowtechpbr.restoration.usu.edu/manual/chap03/) of design manual. We will be discussing tools that help estimate riverscape health condition and potential (described in [Chapter 2](http://lowtechpbr.restoration.usu.edu/manual/chap02/) ) and address questions posed during planning (discussed in [Chapter 3 and its Appendices](http://lowtechpbr.restoration.usu.edu/manual/chap03/)) .
 2. If you don't already have a RC Warehouse account, create an account at the [Riverscapes Consortium's Warehouse](https://data.riverscapes.xyz/#/) 
-3. Optionally, install [RAVE](http://rave.riverscapes.xyz/), download (a) BRAT project(s) from [Riverscapes Warehouse](https://data.riverscapes.xyz/#/BLM) in one watershed, and unzip. 
-4. Optionally, explore [MNH's Montana BRAT map](https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b) and come up with questions.
+3. Once you have created an account, get access to the "BLM Montana and Dakota's" program by filling out this form
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctgJs3PbzJF5U-MvcV_2p9jRXkiOhT0Q7yK6PfCAauTtgy1Q/viewform?embedded=true" width="640" height="1183" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+4. Optionally, install [RAVE](http://rave.riverscapes.xyz/), download (a) BRAT project(s) from [Riverscapes Warehouse](https://data.riverscapes.xyz/#/BLM) in one watershed, and unzip. 
+5. Optionally, explore [MNH's Montana BRAT map](https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b) and come up with questions.
 
 
 
