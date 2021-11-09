@@ -7,10 +7,10 @@ weight: 2
 ![]({{ site.baseurl }}/assets/images/events/BLM_BRAT_RiverscapesConsortium_Nov2021.png)
 
 
-Webinar will be conducted on Zoom. Check back here for Zoom Link. No advanced registration is necessary. Just show up at above time. For those that cannot make it, the webinar will be recorded and posted here. 
+Webinar will be conducted on Zoom:  [Zoom Link](https://usu-edu.zoom.us/s/86736291821?pwd=VXdWbC9yeS8xQUxCU0oxTGU2akg0dz09). No advanced registration is necessary. Just show up at 10 AM MST. For those that cannot make it, the webinar will be recorded and posted to this page. 
 
 <div align="center">
-<a href="" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Webinar</b> <img src="{{ site.baseurl }}/assets/images/zoom_32.png"><br>Zoom Link (pending)</a>
+<a href="https://usu-edu.zoom.us/s/86736291821?pwd=VXdWbC9yeS8xQUxCU0oxTGU2akg0dz09" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Webinar</b> <img src="{{ site.baseurl }}/assets/images/zoom_32.png"><br>Zoom Link (pending)</a>
 </div>
 
 ## Webinar Purpose
