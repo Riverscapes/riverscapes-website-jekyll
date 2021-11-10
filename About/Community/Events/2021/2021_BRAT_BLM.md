@@ -66,10 +66,10 @@ The target  audience for the webinar is BLM staff and partners in conservation t
 # Preparation Prior to Webinar
 
 1. Read/Skim  [Chapter 3](http://lowtechpbr.restoration.usu.edu/manual/chap03/) of design manual. We will be discussing tools that help estimate riverscape health condition and potential (described in [Chapter 2](http://lowtechpbr.restoration.usu.edu/manual/chap02/) ) and address questions posed during planning (discussed in [Chapter 3 and its Appendices](http://lowtechpbr.restoration.usu.edu/manual/chap03/)) .
-2. If you don't already have a RC Warehouse account, create an account at the [Riverscapes Consortium's Warehouse](https://data.riverscapes.xyz/#/) 
-3. Once you have created an account, get access to the "BLM Montana and Dakota's" program by filling out this form
+2. If you don't already have a RC Warehouse account, create an account at the [Riverscapes Consortium's Warehouse](https://data.riverscapes.xyz/#/). See [here if you need instructions or assitance creating an account]({{ site.baseurl }}/Data_Warehouses/signup.html#creating-an-account). 
+3. Once you have created an account, get access to the "BLM Montana and Dakota's" program by filling out  [this form](https://forms.gle/pXwXytzMCK4a3xj29). See [here for instructions]({{ site.baseurl }}/Data_Warehouses/signup.html)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctgJs3PbzJF5U-MvcV_2p9jRXkiOhT0Q7yK6PfCAauTtgy1Q/viewform?embedded=true" width="640" height="1183" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 ## Optional 
 We will do this in exercises during workshop, so if you don't get to this ahead of time, do not panic.
@@ -79,6 +79,7 @@ We will do this in exercises during workshop, so if you don't get to this ahead 
   - [BRAT for HUC 10040204](https://webrave.riverscapes.xyz/#/BLM/4b53e516-946f-474a-8e19-24199cfd3401) 
   - [BRAT for HUC 10020003](https://webrave.riverscapes.xyz/#/BLM/3e6c40d8-2f2f-4460-b7de-e8b98fb4eb06) 
 
+See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_Warehouses/gettingaround.html)
 
 2. Optionally, explore [MNH's Montana BRAT map](https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b) and come up with questions.
 
@@ -95,6 +96,52 @@ We will do this in exercises during workshop, so if you don't get to this ahead 
 
 </div>
 --->
+
+### Dam Count Exercise
+
+On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r), please count the number of beaver dams from French Gulch confluence upstream to the Gumbo Creek confluence. You can use the Google Earth placemark feature to keep track. See how here:
+
+
+
+
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
+                <h4>Map Link</h4>
+		    <div align="center">
+        	<a href="https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r" target="_blank"><img src="{{ site.baseurl }}/assets/images/events/bdsurvey.png"></a> 
+        	</div>
+        <i class="fa fa-globe" aria-hidden="true"></i>  <a href="https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r" target="_blank">Do exercise in Google EArth</a>
+</div>
+  </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>How to video.</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a1s00TP516w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/a1s00TP516w" target="_blank">Tutorial Video - Using Google Earth to identify beaver dams.</a>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+How many beaver dams did you count?
+
+
 
 ------------
 #  Resources 
@@ -138,7 +185,7 @@ There are 115 [HUC 8s](https://nas.er.usgs.gov/hucs.aspx) (view [this USGS map](
 
 
 ### LTPBR Manual
-For the webinar, we will refer to  the  [Design Manual](http://lowtechpbr.restoration.usu.edu//manual) and the [Pocket Guide](http://lowtechpbr.restoration.usu.edu//resources/pocket), which are both available free digitally. As part of your [workshop registration fee](http://restoration.usu.edu/courses/LTPBR_Logan). Print copies of manual are available for ~ $60 [on Amazon](https://www.amazon.com/Low-Tech-Process-Based-Restoration-Riverscapes-Design/dp/1543972993/ref=sr_1_1?keywords=low+tech+process-based+restoration&qid=1558989073&s=gateway&sr=8-1) and print runs of the pocket guide can be [purchased here](https://www.anabranchsolutions.com/store/p7/pocketguide.html). 
+For the webinar, we will refer to  the  [Design Manual](http://lowtechpbr.restoration.usu.edu//manual) and the [Pocket Guide](http://lowtechpbr.restoration.usu.edu//resources/pocket), which are both available free digitally. 
 
 
 <a href="http://lowtechpbr.restoration.usu.edu//manual"><img class="float-right" src="http://lowtechpbr.restoration.usu.edu//assets/images/covers/Manual_Tilted_150.png"></a>
