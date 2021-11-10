@@ -86,21 +86,51 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
 
 
 ------------
-# Slides & Handouts
+# Slides & Exercises
+
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
+                <h4>Slides</h4>
+		    <div align="center">
+        	<a href="https://s3.console.aws.amazon.com/s3/object/etalweb.joewheaton.org?region=us-west-2&prefix=RiverscapesConsortium/BRAT/2021_BLM_Montana_BRAT.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/events/BRAT_Welcome.png"></a> 
+        	</div>
+        <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+  <a href="https://s3.console.aws.amazon.com/s3/object/etalweb.joewheaton.org?region=us-west-2&prefix=RiverscapesConsortium/BRAT/2021_BLM_Montana_BRAT.pdf" target="_blank">Webinar Slides</a> (slides include hyperlinks to resources)
+</div>
+  </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Webinar Video</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="" target="_blank">Video of Webinar</a> - Will be Posted within a Week of Webinar.
+        
+      </div>
+    </div>
+
+  </div>
+</div>
 <!---
 
-<div align="center">
 
 
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RestorationConsortium/Workshops/2021/AFS/AFS_LTPBR_Workshop_2021.pdf"><img src="{{ site.baseurl }}/assets/images/workshops/2021/2021_AFS_Slides.png"><br> Slides as PDFs <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-
-</div>
---->
 ## Motivation – Healthy Riverscapes
 
 ## LTPBR & Beaver Dam Activity – A means to get there
 
 ## Overview of BRAT
+--->
 
 ### Dam Count Exercise
 
@@ -143,6 +173,7 @@ On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.0709579
 
 How many beaver dams did you count?
 
+<!---
 ## BRAT for Informing Management
 
 ## Understanding BRAT
@@ -151,7 +182,7 @@ How many beaver dams did you count?
 
 ## Recap & Next Steps
 
-
+--->
 
 
 
