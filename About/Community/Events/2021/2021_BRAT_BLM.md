@@ -119,6 +119,14 @@ In Montana/Dakotas, BLM has made these outputs available through both the [River
 <a class="hollow button"  href="https://data.riverscapes.xyz/#/BLM"><img src="{{ site.basurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png"> Download BRAT Data from Riverscapes Warehouse </a>
 </div>
 
+##### Our example projects we will use for demos:
+
+There are 115 [HUC 8s](https://nas.er.usgs.gov/hucs.aspx) (view [this USGS map](https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fhydro.nationalmap.gov%2Farcgis%2Frest%2Fservices%2Fwbd%2FMapServer&source=sd) to find your HUC) in Montana, 55 in North Dakota, and 56 in South Dakota. As part of [Montana Natural Heritage's Montana BRAT project](https://www.umt.edu/spatial-analysis-lab/projects/current-work/montana-brat/default.php), [pyBRAT](http://brat.riverscapes.xyz) was run for 172 of these HUC 8s (that intersect some BLM land) . In this workshop we will use these three HUC 8s as examples to get to know BRAT:
+
+- [BRAT for HUC 10090102](https://webrave.riverscapes.xyz/#/BLM/be01578b-2d64-4925-9af5-366c73bbf2a8) ([Lower Tongue Watershed](https://water.usgs.gov/lookup/getwatershed?10090102)) as a Eastern Montana Example
+- [BRAT for HUC 10040204](https://webrave.riverscapes.xyz/#/BLM/4b53e516-946f-474a-8e19-24199cfd3401) ([Box Elder Watershed](https://water.usgs.gov/lookup/getwatershed?10040204)) as a Central Montana Example that corresponds to where we taught the [2019 WLFW NRCS Low-Tech Riparian Restoration Workshop](http://lowtechpbr.restoration.usu.edu/workshops/2019/SGI/Venues/mt.html) (In Roy for fieldwork and Lewistown for classroom)
+- [BRAT for HUC 10020003](https://webrave.riverscapes.xyz/#/BLM/3e6c40d8-2f2f-4460-b7de-e8b98fb4eb06) ([Ruby Watershed](https://water.usgs.gov/lookup/getwatershed?10020003)) as a Western Montana Example
+
 
 
 ### LTPBR Manual
