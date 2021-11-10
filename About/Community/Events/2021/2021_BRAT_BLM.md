@@ -96,13 +96,15 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
 
 </div>
 --->
+## Motivation – Healthy Riverscapes
+
+## LTPBR & Beaver Dam Activity – A means to get there
+
+## Overview of BRAT
 
 ### Dam Count Exercise
 
 On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r), please count the number of beaver dams from French Gulch confluence upstream to the Gumbo Creek confluence. You can use the Google Earth placemark feature to keep track. See how here:
-
-
-
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
@@ -140,6 +142,23 @@ On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.0709579
 
 
 How many beaver dams did you count?
+
+## BRAT for Informing Management
+
+## Understanding BRAT
+
+## Making BRAT Your Own
+
+## Recap & Next Steps
+
+
+
+
+
+
+
+
+
 
 
 
