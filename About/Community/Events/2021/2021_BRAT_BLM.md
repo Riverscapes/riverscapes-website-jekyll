@@ -244,5 +244,41 @@ For the webinar, we will refer to  the  [Design Manual](http://lowtechpbr.restor
 
 <a href="http://lowtechpbr.restoration.usu.edu//resources/pocket"><img class="float-right" src="http://lowtechpbr.restoration.usu.edu//assets/images/covers/pocket_guide_cover_150w.png"></a>
 
+### Chat Log
+
+This is mainly just links that were shared as we went and a few questions and answers.
 
 
+| Time     | Who & Comment                                                |
+| -------- | ------------------------------------------------------------ |
+| 10:10:38 | Joe Wheaton : For reference today: [https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html](https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html) |
+| 10:19:43 | Pedro Marques : Beers and Brats!                             |
+| 10:32:35 | Joe Wheaton : [https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b](https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b) |
+| 10:42:02 | Joe Wheaton : [https://data.riverscapes.xyz/#/](https://data.riverscapes.xyz/#/) |
+| 10:42:56 | Joe Wheaton : [https://docs.google.com/forms/d/e/1FAIpQLSctgJs3PbzJF5U-MvcV_2p9jRXkiOhT0Q7yK6PfCAauTtgy1Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLSctgJs3PbzJF5U-MvcV_2p9jRXkiOhT0Q7yK6PfCAauTtgy1Q/viewform) |
+| 11:23:27 | Pedro Marques : Act like them                                |
+| 11:23:37 | Sierra Harris : Educating landowners                         |
+| 11:23:44 | Claire Campbell : Beaver deceivers                           |
+| 11:23:56 | tprobert : Develop Analogues                                 |
+| 11:24:09 | tprobert : transplant willow                                 |
+| 11:29:12 | Pedro Marques : wow. fantastic analogy                       |
+| 11:34:43 | Joe Wheaton : [https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#dam-count-exercise](https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#dam-count-exercise) |
+| 12:01:47 | Joe Wheaton : [https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b](https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b) |
+| 12:03:54 | Joe Wheaton : We're breaking for lunch. Will resume at 12:35 |
+| 12:36:26 | Joe Wheaton : Can folks either flash or turn on their video or give a reaction so we know you're back |
+| 12:39:15 | Pedro Marques : here                                         |
+| 12:45:14 | Joe Wheaton : You guys are doing exactly what we're after.   |
+| 12:51:01 | wally : [https://brat.riverscapes.xyz/Documentation/Outputs/Glossary](https://brat.riverscapes.xyz/Documentation/Outputs/Glossary) |
+| 13:00:06 | Joe Wheaton : [https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#optional](https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#optional) |
+| 13:21:03 | Joe Wheaton : [https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#brat-capacity-inference-system---paper-form](https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#brat-capacity-inference-system---paper-form) |
+| 13:58:43 | jbuckmaster : Thanks everyone! I've got to jump onto another call. |
+| 14:00:56 | Sierra Harris : Yes, great training. Thank you!              |
+| 14:02:03 | cmorris: Thanks for the excellent training.  GOOD JOB!!!!    |
+| 14:03:39 | Pedro Marques : I have a workflow question I'll stick around for once other convos are done |
+| 14:04:51 | Joe Wheaton : [https://tools.riverscapes.xyz/brat/](https://tools.riverscapes.xyz/brat/) |
+| 14:05:24 | Jordan G : jtgilbert89@gmail.com                             |
+| 14:06:07 | Helen Sladek: Thanks for putting this on!                    |
+| 14:07:59 | Miranda Brenna : Thank you!                                  |
+| 14:08:04 | Zac Salada : Thanks for putting it on.                       |
+| 14:08:17 | kkraus : thank you                                           |
+| 14:53:29 | Joe Wheaton : [http://rave.riverscapes.xyz](http://rave.riverscapes.xyz) |
