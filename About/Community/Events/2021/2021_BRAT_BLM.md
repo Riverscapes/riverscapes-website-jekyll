@@ -103,39 +103,39 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>Webinar Video 1</h3>
+        <h3>1. Roll Call and Agenda</h3>
         <div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I62_8jSfISg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I62_8jSfISg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>.  
 </div>
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/I62_8jSfISg" target="_blank">1. Roll Call and Agenda</a>
+ <a href="https://www.youtube.com/embed/I62_8jSfISg" target="_blank">1. Roll Call and Agenda</a> Alden provided an introduction and overview of why we're here and we went around and met all the participants.
 </div>  </div> </div></div>
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>Webinar Video 2</h3>
+        <h3>2. BRAT Introduction</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnLV-2fx2eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/ZnLV-2fx2eg" target="_blank">2. BRAT Introduction</a>
+ <a href="https://www.youtube.com/embed/ZnLV-2fx2eg" target="_blank">2. BRAT Introduction</a>. We started with a very high-level overview of what BRAT is and isn't. 
         
 </div></div></div>
       
 <div class="column">    
   <div class="card">
     <div class="card-section">
-        <h3>Webinar Video 3</h3>
+        <h3>3. WebRAVE GIS and Riverscapes Context</h3>
 			<div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6gA1YnoAcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/t6gA1YnoAcw" target="_blank">3. WebRAVE GIS and Riverscapes Context</a>
+ <a href="https://www.youtube.com/embed/t6gA1YnoAcw" target="_blank">3. WebRAVE GIS and Riverscapes Context</a> We spent some time looking at a <a href="https://webrave.riverscapes.xyz/#/BLM/18eebd92-423b-4744-877a-d4cf723779b0">rivercapes context project</a> to get familiar with webRAVE and where the freely available national data we can run BRAT with comes from. 
 
 </div></div></div></div>
    
@@ -143,7 +143,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>Webinar Video 4</h3>
+        <h3>4. Motivation - Healthy Riverscapes</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gbE-lPYBrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -157,27 +157,27 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>Webinar Video 5</h3>
+        <h3>5. Partnering With Beaver</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iFaVR_-3yk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/iFaVR_-3yk8" target="_blank">5. Partnering With Beaver</a>
+ <a href="https://www.youtube.com/embed/iFaVR_-3yk8" target="_blank">5. Partnering With Beaver</a>. We talked about both the rationale for partnering with beaver, as well as the specific ways we do to promote the process of beaver dam activity. We did an exercise together, below to identify beaver dams from aerial imagry. 
         
 </div></div></div><div>
 </div></div>
 
-### Dam Count Exercise
+#### Dam Count Exercise
 
-On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r), please count the number of beaver dams from French Gulch confluence upstream to the Gumbo Creek confluence. You can use the Google Earth placemark feature to keep track. See how here:
+On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r), we counted the number of beaver dams from French Gulch confluence upstream to the Gumbo Creek confluence. You can use the Google Earth placemark feature to keep track. See how here:
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
     <div class="card">
       <div class="card-section">
-                <h3>Map Link</h3>
+                <h5>Map Link</h5>
 		    <div align="center">
         	<a href="https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r" target="_blank"><img src="{{ site.baseurl }}/assets/images/events/bdsurvey.png"></a> 
         	</div>
@@ -187,7 +187,7 @@ On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.0709579
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>How to video.</h3>
+        <h5>How to video.</h5>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1s00TP516w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -207,14 +207,14 @@ How many beaver dams did you count?
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>Webinar Video 6</h3>
+        <h3>6. BRAT Overview</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdvUKaWTfDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/PdvUKaWTfDA" target="_blank">6. BRAT Overview</a>
+ <a href="https://www.youtube.com/embed/PdvUKaWTfDA" target="_blank">6. BRAT Overview</a> We started with exploring the capacity model before lunch and then picked this up after lunch. We sent people to the [BRAT Models](#our-example-riverscapes-projects-we-will-use-for-demos) for an example. Note: the video transitions rather abruptly from before to after lunch and before and after the break out sessions. 
         
 </div></div> </div>
     
@@ -222,14 +222,14 @@ How many beaver dams did you count?
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>Webinar Video 7</h3>
+        <h3>7. BRAT Data in WebRAVE</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfUXGCjnYiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/dfUXGCjnYiQ" target="_blank">7. BRAT Data in WebRAVE</a>
+ <a href="https://www.youtube.com/embed/dfUXGCjnYiQ" target="_blank">7. BRAT Data in WebRAVE</a>. We explored the inputs and intermediates used to create capacity models outputs in WebRAVE to better understand what we were looking at.
         
 </div></div></div></div>
 
@@ -237,14 +237,14 @@ How many beaver dams did you count?
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>Webinar Video 8</h3>
+        <h3>8. Understanding BRAT's Capacity Model</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qy5uK8tLiew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/qy5uK8tLiew" target="_blank">8. Understanding BRAT's Capacity Model</a>
+ <a href="https://www.youtube.com/embed/qy5uK8tLiew" target="_blank">8. Understanding BRAT's Capacity Model</a> We used the <a href="https://s3.us-west-2.amazonaws.com/etalweb.joewheaton.org/BRAT/BRAT_cIS.Asessment.Form_Basic.pdf">BRAT CIS paper form</a> to do a group exercise to "run the model" with just a look up table. 
         
 </div></div> </div>
     
@@ -252,14 +252,14 @@ How many beaver dams did you count?
     <div class="card">
       <div class="card-section">
 
-        <h3>Webinar Video 9</h3>
+        <h3>9. BRAT - Risk and Opportunity</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vo9oLAsDf6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/vo9oLAsDf6c" target="_blank">9. BRAT - Risk and Opportunity</a>
+ <a href="https://www.youtube.com/embed/vo9oLAsDf6c" target="_blank">9. BRAT - Risk and Opportunity</a>. We sort of ran out of time to cover what goes into the managment outptus  in much detail, but we provided a cursory overview. 
         
 </div></div> </div></div>
 
@@ -268,14 +268,14 @@ How many beaver dams did you count?
     <div class="card">
       <div class="card-section">
 
-        <h3>Webinar Video 10</h3>
+        <h3>10. BRAT - Conclusion</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NZjY9FlKNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/1NZjY9FlKNQ" target="_blank">10. BRAT - Conclusion</a>
+ <a href="https://www.youtube.com/embed/1NZjY9FlKNQ" target="_blank">10. BRAT - Conclusion</a>. We wrapped up the webinar here before inviting questions .
         
 </div></div> </div>
  
@@ -283,7 +283,7 @@ How many beaver dams did you count?
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h3>Webinar Video 11</h3>
+        <h3>Post Webinar Questions and Discussion</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/woPboeCoLa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -297,14 +297,6 @@ How many beaver dams did you count?
 ----------
 
 
-
-
-
-
-
-
-
-------------
 #  Resources 
 
 ## References
