@@ -86,7 +86,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
 
 
 ------------
-# Slides & Exercises
+# Slides, Videos & Exercises
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
@@ -107,14 +107,134 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
 
 
       <div class="card-section">
-        <h4>Webinar Video</h4>
+        <h4>Webinar Video 1</h4>
 
 <div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I62_8jSfISg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="" target="_blank">Video of Webinar</a> - Will be Posted within a Week of Webinar.
+ <a href="https://www.youtube.com/embed/I62_8jSfISg" target="_blank">1. Roll Call and Agenda</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 2</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnLV-2fx2eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/ZnLV-2fx2eg" target="_blank">2. BRAT Introduction</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 3</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6gA1YnoAcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/t6gA1YnoAcw" target="_blank">3. WebRAVE GIS and Riverscapes Context</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 4</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0gbE-lPYBrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/0gbE-lPYBrA" target="_blank">4. Motivation - Healthy Riverscapes</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 5</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iFaVR_-3yk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/iFaVR_-3yk8" target="_blank">5. Partnering With Beaver</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 6</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PdvUKaWTfDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/PdvUKaWTfDA" target="_blank">6. BRAT Overview</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 7</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfUXGCjnYiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/dfUXGCjnYiQ" target="_blank">7. BRAT Data in WebRAVE</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 8</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qy5uK8tLiew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/qy5uK8tLiew" target="_blank">8. Understanding BRAT's Capacity Model</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 9</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vo9oLAsDf6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/vo9oLAsDf6c" target="_blank">9. BRAT - Risk and Opportunity</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 10</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NZjY9FlKNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/1NZjY9FlKNQ" target="_blank">10. BRAT - Conclusion</a>
+        
+      </div>
+
+      <div class="card-section">
+        <h4>Webinar Video 11</h4>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/woPboeCoLa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://youtu.be/woPboeCoLa8" target="_blank">11. Post-webinar Questions</a> Joe answers questions regarding using BRAT in a restoration work flow, how BRAT quantifies the force of flood flows, and discusses water storage by beaver dams
         
       </div>
     </div>
