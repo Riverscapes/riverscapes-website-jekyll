@@ -92,32 +92,30 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-                <h4>Slides</h4>
-		    <div align="center">
+         <h4>Slides</h4>
+		 <div align="center">
         	<a href="https://s3.console.aws.amazon.com/s3/object/etalweb.joewheaton.org?region=us-west-2&prefix=RiverscapesConsortium/BRAT/2021_BLM_Montana_BRAT.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/events/BRAT_Welcome.png"></a> 
-        	</div>
-        <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+          </div>
+          <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
   <a href="https://s3.console.aws.amazon.com/s3/object/etalweb.joewheaton.org?region=us-west-2&prefix=RiverscapesConsortium/BRAT/2021_BLM_Montana_BRAT.pdf" target="_blank">Webinar Slides</a> (slides include hyperlinks to resources)
-</div>
-  </div>
+	  </div>
+    </div>
   </div>
 
   <div class="column">
     <div class="card">
-
-
       <div class="card-section">
         <h4>Webinar Video 1</h4>
-
-<div class="responsive-embed">
+        <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I62_8jSfISg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/I62_8jSfISg" target="_blank">1. Roll Call and Agenda</a>
-        
-      </div>
+</div>  </div> </div></div>
 
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
       <div class="card-section">
         <h4>Webinar Video 2</h4>
 
@@ -128,20 +126,24 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/ZnLV-2fx2eg" target="_blank">2. BRAT Introduction</a>
         
-      </div>
-
-      <div class="card-section">
+</div></div></div>
+      
+<div class="column">    
+  <div class="card">
+    <div class="card-section">
         <h4>Webinar Video 3</h4>
-
-<div class="responsive-embed">
+			<div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6gA1YnoAcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/t6gA1YnoAcw" target="_blank">3. WebRAVE GIS and Riverscapes Context</a>
-        
-      </div>
 
+</div></div></div></div>
+   
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
       <div class="card-section">
         <h4>Webinar Video 4</h4>
 
@@ -152,8 +154,10 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/0gbE-lPYBrA" target="_blank">4. Motivation - Healthy Riverscapes</a>
         
-      </div>
+</div></div></div>
 
+  <div class="column">
+    <div class="card">
       <div class="card-section">
         <h4>Webinar Video 5</h4>
 
@@ -164,8 +168,11 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/iFaVR_-3yk8" target="_blank">5. Partnering With Beaver</a>
         
-      </div>
+</div></div></div><div>
 
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
       <div class="card-section">
         <h4>Webinar Video 6</h4>
 
@@ -176,8 +183,11 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/PdvUKaWTfDA" target="_blank">6. BRAT Overview</a>
         
-      </div>
+</div></div> </div>
+    
 
+  <div class="column">
+    <div class="card">
       <div class="card-section">
         <h4>Webinar Video 7</h4>
 
@@ -188,8 +198,11 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/dfUXGCjnYiQ" target="_blank">7. BRAT Data in WebRAVE</a>
         
-      </div>
+</div></div></div></div>
 
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
       <div class="card-section">
         <h4>Webinar Video 8</h4>
 
@@ -200,8 +213,11 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/qy5uK8tLiew" target="_blank">8. Understanding BRAT's Capacity Model</a>
         
-      </div>
-
+</div></div> </div>
+    
+<div class="column">
+    <div class="card">
+      <div class="card-section">
       <div class="card-section">
         <h4>Webinar Video 9</h4>
 
@@ -212,9 +228,13 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/vo9oLAsDf6c" target="_blank">9. BRAT - Risk and Opportunity</a>
         
-      </div>
+</div></div> </div></div>
 
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
       <div class="card-section">
+
         <h4>Webinar Video 10</h4>
 
 <div class="responsive-embed">
@@ -224,8 +244,12 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://www.youtube.com/embed/1NZjY9FlKNQ" target="_blank">10. BRAT - Conclusion</a>
         
-      </div>
+</div></div> </div>
+ 
 
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
       <div class="card-section">
         <h4>Webinar Video 11</h4>
 
@@ -234,23 +258,11 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://youtu.be/woPboeCoLa8" target="_blank">11. Post-webinar Questions</a> Joe answers questions regarding using BRAT in a restoration work flow, how BRAT quantifies the force of flood flows, and discusses water storage by beaver dams
+ <a href="https://youtu.be/woPboeCoLa8" target="_blank">11. Post-webinar Questions</a> Joe answers questions regarding using BRAT in a restoration work flow, how BRAT quantifies the force of flood flows, and discusses water storage by beaver dams.
         
-      </div>
-    </div>
-
-  </div>
-</div>
-<!---
+</div> </div>   </div></div>
 
 
-
-## Motivation – Healthy Riverscapes
-
-## LTPBR & Beaver Dam Activity – A means to get there
-
-## Overview of BRAT
---->
 
 ### Dam Count Exercise
 
