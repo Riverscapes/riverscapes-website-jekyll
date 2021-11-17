@@ -48,7 +48,7 @@ The target  audience for the webinar is BLM staff and partners in conservation t
 
   <div class="column column-block">
     <a href="https://www.researchgate.net/profile/Joseph_Wheaton"><img src="{{ site.baseurl }}/assets/images/people/JoeWheaton_Circle.png"></a>
-    <h4><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h4>
+    <h3><a href="https://www.researchgate.net/profile/Joseph_Wheaton">Joseph Wheaton<sup>1,2</sup></a></h3>
     Professor or Riverscapes, Ecogeomorphologist
   </div>
  <div class="column column-block">
@@ -92,20 +92,18 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-         <h4>Slides</h4>
+         <h3>Slides</h3>
 		 <div align="center">
         	<a href="https://s3.console.aws.amazon.com/s3/object/etalweb.joewheaton.org?region=us-west-2&prefix=RiverscapesConsortium/BRAT/2021_BLM_Montana_BRAT.pdf" target="_blank"><img src="{{ site.baseurl }}/assets/images/events/BRAT_Welcome.png"></a> 
           </div>
           <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
   <a href="https://s3.console.aws.amazon.com/s3/object/etalweb.joewheaton.org?region=us-west-2&prefix=RiverscapesConsortium/BRAT/2021_BLM_Montana_BRAT.pdf" target="_blank">Webinar Slides</a> (slides include hyperlinks to resources)
-	  </div>
-    </div>
-  </div>
+</div> </div></div>
 
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Webinar Video 1</h4>
+        <h3>Webinar Video 1</h3>
         <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I62_8jSfISg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -117,7 +115,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Webinar Video 2</h4>
+        <h3>Webinar Video 2</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnLV-2fx2eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -131,7 +129,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
 <div class="column">    
   <div class="card">
     <div class="card-section">
-        <h4>Webinar Video 3</h4>
+        <h3>Webinar Video 3</h3>
 			<div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6gA1YnoAcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -145,7 +143,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Webinar Video 4</h4>
+        <h3>Webinar Video 4</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gbE-lPYBrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -159,7 +157,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Webinar Video 5</h4>
+        <h3>Webinar Video 5</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iFaVR_-3yk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -169,12 +167,47 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
  <a href="https://www.youtube.com/embed/iFaVR_-3yk8" target="_blank">5. Partnering With Beaver</a>
         
 </div></div></div><div>
+</div></div>
+
+### Dam Count Exercise
+
+On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r), please count the number of beaver dams from French Gulch confluence upstream to the Gumbo Creek confluence. You can use the Google Earth placemark feature to keep track. See how here:
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Webinar Video 6</h4>
+                <h3>Map Link</h3>
+		    <div align="center">
+        	<a href="https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r" target="_blank"><img src="{{ site.baseurl }}/assets/images/events/bdsurvey.png"></a> 
+        	</div>
+        <i class="fa fa-globe" aria-hidden="true"></i>  <a href="https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r" target="_blank">Do exercise in Google Earth</a>
+</div> </div>   </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
+        <h3>How to video.</h3>
+
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a1s00TP516w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+ <a href="https://www.youtube.com/embed/a1s00TP516w" target="_blank">Tutorial Video - Using Google Earth to identify beaver dams.</a>
+        
+</div> </div> </div></div>
+
+
+
+How many beaver dams did you count?
+
+
+<div class="row small-up-2 medium-up-2">
+  <div class="column">
+    <div class="card">
+      <div class="card-section">
+        <h3>Webinar Video 6</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdvUKaWTfDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -189,7 +222,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Webinar Video 7</h4>
+        <h3>Webinar Video 7</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfUXGCjnYiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -204,7 +237,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-        <h4>Webinar Video 8</h4>
+        <h3>Webinar Video 8</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qy5uK8tLiew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -218,8 +251,8 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
 <div class="column">
     <div class="card">
       <div class="card-section">
-      <div class="card-section">
-        <h4>Webinar Video 9</h4>
+
+        <h3>Webinar Video 9</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vo9oLAsDf6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -235,7 +268,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
     <div class="card">
       <div class="card-section">
 
-        <h4>Webinar Video 10</h4>
+        <h3>Webinar Video 10</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NZjY9FlKNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -250,8 +283,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
   <div class="column">
     <div class="card">
       <div class="card-section">
-      <div class="card-section">
-        <h4>Webinar Video 11</h4>
+        <h3>Webinar Video 11</h3>
 
 <div class="responsive-embed">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/woPboeCoLa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -260,62 +292,9 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
  <a href="https://youtu.be/woPboeCoLa8" target="_blank">11. Post-webinar Questions</a> Joe answers questions regarding using BRAT in a restoration work flow, how BRAT quantifies the force of flood flows, and discusses water storage by beaver dams.
         
-</div> </div>   </div></div>
+</div> </div> </div></div>
 
-
-
-### Dam Count Exercise
-
-On [Warm Springs Creek in Google Earth](https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r), please count the number of beaver dams from French Gulch confluence upstream to the Gumbo Creek confluence. You can use the Google Earth placemark feature to keep track. See how here:
-
-<div class="row small-up-2 medium-up-2">
-  <div class="column">
-    <div class="card">
-      <div class="card-section">
-                <h4>Map Link</h4>
-		    <div align="center">
-        	<a href="https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r" target="_blank"><img src="{{ site.baseurl }}/assets/images/events/bdsurvey.png"></a> 
-        	</div>
-        <i class="fa fa-globe" aria-hidden="true"></i>  <a href="https://earth.google.com/web/@45.07095798,-111.93697245,1947.78030553a,2778.97895873d,35y,0h,0t,0r" target="_blank">Do exercise in Google EArth</a>
-</div>
-  </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-
-
-      <div class="card-section">
-        <h4>How to video.</h4>
-
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a1s00TP516w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-        <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/a1s00TP516w" target="_blank">Tutorial Video - Using Google Earth to identify beaver dams.</a>
-        
-      </div>
-    </div>
-
-  </div>
-</div>
-
-
-
-How many beaver dams did you count?
-
-<!---
-## BRAT for Informing Management
-
-## Understanding BRAT
-
-## Making BRAT Your Own
-
-## Recap & Next Steps
-
---->
-
+----------
 
 
 
