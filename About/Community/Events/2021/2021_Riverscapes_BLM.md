@@ -8,10 +8,12 @@ weight: 3
 ![]({{ site.baseurl }}/assets/images/events/BLM_RiverscapesConsortiumWebinar_Dec2021.png)
 
 
-Webinar will be conducted on Zoom. Check back here for Zoom Link. No advanced registration is necessary. Just show up at above time. For those that cannot make it, the webinar will be recorded and posted here.
+Webinar will be conducted on Zoom:  [Zoom Link](https://usu-edu.zoom.us/j/86494871161?pwd=UWZiT1BMbkliaC9FeGxnYWVQK1FTZz09). No advanced registration is necessary. Just show up at 10 AM MST. For those that cannot make it, the webinar will be recorded and posted to this page. 
 
 <div align="center">
-<a href="" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Webinar</b> <img src="{{ site.baseurl }}/assets/images/zoom_32.png"><br>Zoom Link (pending)</a>
+<a href="https://usu-edu.zoom.us/j/86494871161?pwd=UWZiT1BMbkliaC9FeGxnYWVQK1FTZz09" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Webinar</b> <img src="{{ site.baseurl }}/assets/images/zoom_32.png"><br>Zoom Link </a>
+<br><br>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=cjZhNDRzZ3Ntb21jYnQ0c2Z1ZmM3aTA0dTAgam9lLm0ud2hlYXRvbkBt&amp;tmsrc=joe.m.wheaton%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 </div>
 
 ## Webinar Purpose
