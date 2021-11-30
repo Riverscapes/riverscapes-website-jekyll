@@ -7,18 +7,19 @@ weight: 3
 
 All of our tools are based on [peer-reviewed]({{ site.baseurl }}/Science/publications) ), methods. When we have developed the methods ourselves, we aim to have them vetted, published and disseminate in the [peer-reviewed literature]({{ site.baseurl }}/Science/publications). We then also make sure to have a well documented website (typically with a URL that will take the form of `sometool.riverscapes.xyz`). For most users, the online help documentation and using the [tool]({{ site.baseurl }}/Tools)  'as is' is as far as they need to take it. However, for those so inclined, all of the underlying source-code for these tools, models and algorithms is available in its own GitHub <i class="fa fa-github" aria-hidden="true"></i> repository at [github.com/Riverscapes](https://github.com/Riverscapes).
 
-In this 20 minute video we introduce how the Riverscape Consortium sets standards for [tool development](https://riverscapes.xyz/Tools/) and the idea of [tool-grade](https://riverscapes.xyz/Tools/#model-discrimination). This is important to understanding and managing expectatons around what a tool can do, versus what it could be able to do with investment in development and deployment.
+<div align="center">
 
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wcT4vSZmQa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a class="hollow button" href="{{ site.baseurl }}/Tools"> <i class="fa fa-github" aria-hidden="true"></i> RC <b>Open Source</b><br> Tools on Github </a>
+<a class="hollow button" href="{{ site.baseurl }}/Tools/toolStandards.html"> <img src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_32.png">  Learn more about RC-Compliant <br> <b>Tool Standards</b> <i class="fa fa-wrench" aria-hidden="true"></i></a>
+
 </div>
-
 -------
 
 # Riverscapes Compliant
 <img class="float-right" src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_128.png">
 Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png"> when they meet the following criteria:
-- [Tool Status]({{ site.baseurl }}/Tools#tool-status) of **Operational-Grade** or Higher
+- [Tool Status]({{ site.baseurl }}/Tools/discrimination#tool-grade) of **Operational-Grade** or Higher
 - Code produces [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> as output of all analyses
 - Project Type is registered with [`program.xml`]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/Program/) in [Program Repo](https://github.com/Riverscapes/Program)  
 - Has been vetted by the RS Science Committee
@@ -27,17 +28,25 @@ Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/
 ## Riverscapes Compliant Tools
 
 |---|---|---|---|---|---|
-| |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/#interface)|[Status]({{ site.baseurl }}/Tools/#tool-status)|
+| |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/discrimination#interface)|[Status]({{ site.baseurl }}/Tools/discrimination#tool-status)|
 |---|---|---|---|---|---|
+|**Exploratory Tools for Visualizing Riverscapes Projects**||||||
+|[WebRAVE](http://rave.riverscapes.xyz/)|Any|Any|react, javascript|<i class="fa fa-chrome" aria-hidden="true"></i>|Commercial Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_7_32p.png">|
+|[QRAVE](http://rave.riverscapes.xyz/)|Any|Any|Python|<img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png">|Professional-Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png"> |
+|[ArcRAVE](http://rave.riverscapes.xyz/)|Any|Any|C#|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Professional-Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png"> |
 |**Reach Scale Tools**||||||
 |[GCD - Geomorphic Change Detection](http://gcd.riverscapes.xyz/)|Cell|Reach|C#|<i class="fa fa-desktop" aria-hidden="true"></i> , <img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">, <i class="fa fa-terminal" aria-hidden="true"></i>| Professional-Grade: <i class="fa fa-desktop" aria-hidden="true"></i> & <img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">; Production-Grade: <i class="fa fa-terminal" aria-hidden="true">|
 |[GUT - Geomorphic Unit Toolkit](http://gut.riverscapes.xyz/)|Cell|Reach|Python|<i class="fa fa-terminal" aria-hidden="true"></i>, <img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |[FHM - Fish Habitat Model](http://habitat.northarrowresearch.com/)|Cell|Reach|C#/C++|<i class="fa fa-desktop" aria-hidden="true"></i> |Operational-Grade|
 |**Network Scale Tools**||||||
+|[Riverscapes Context](http://tools.riverscapes.xyz/channel) - Channel Area 1.1.1 |Reach|Network|Python|<i class="fa fa-terminal" aria-hidden="true"></i>  |[Production-Grade](https://tools.riverscapes.xyz/tatus/ReportCard_1.0.2.html) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png">|
+|[Channel Area Tool](http://tools.riverscapes.xyz/channel) - Channel Area 1.1.1 |Reach|Network|Python|<i class="fa fa-terminal" aria-hidden="true"></i>  |[Production-Grade](https://tools.riverscapes.xyz/tatus/ReportCard_1.0.2.html) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png">|
+|[TauDEM - Terrain Analysis Using Digital Elevation Models](http://tools.riverscapes.xyz/taudem) - TauDEM 1.0.2 |Reach|Network|Python|<i class="fa fa-terminal" aria-hidden="true"></i>  |[Production-Grade](https://tools.riverscapes.xyz/tatus/ReportCard_1.0.2.html) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png">|
+|[VBET - Valley Bottom Extraction Tool](http://tools.riverscapes.xyz/vbet) - VBET 0.5.1 Beta|Reach|Network|Python|<i class="fa fa-terminal" aria-hidden="true"></i>  |[Production-Grade](https://tools.riverscapes.xyz/vbet/Status/ReportCard_0.5.1.html) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png">|
+|[BRAT - Beaver Restoration Assessment Tool](http://tools.riverscapes.xyz/brat) - sqlBRAT 4.3.2|Reach|Network|Python|<i class="fa fa-terminal" aria-hidden="true"></i> |[Production-Grade](https://tools.riverscapes.xyz/brat/Status/ReportCard_4.3.2.html) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png">|
+|[pyBRAT - Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz/) - pyBRAT 3.1.0|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|[Operational-Grade](http://brat.riverscapes.xyz/Documentation/Status/Tool_ReportCard_3-1-00) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png">|
 |[RCAT - Riparian Condition Assessment Tool](http://rcat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |[GNAT - Geomorphic Network Assessment Tool](http://gnat.riverscapes.xyz/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
-|**Utilities**||||||
-|[RAVE - Riverscapes Analysis Visualization Explorer](http://rave.riverscapes.xyz)|Any|Any|C#|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Production|
 |**Legacy CHaMP Tools**||||||
 |[CHaMP Topo Processing Tools](http://champtools.northarrowresearch.com/)|Reach|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Production-Grade|
 |[CHaMP Topo Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Production-Grade|
@@ -49,13 +58,13 @@ Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/
 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliantPending_128.png">
 Tools are designated as "*pending riverscapes-compliance*" <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliantPending_28.png"> when the RS Science Committee has accepted the tool for consideration and they meet the following criteria:
-- [Tool Status]({{ site.baseurl }}/Tools#tool-status) of **Resarch-Grade** or higher
+- [Tool Status]({{ site.baseurl }}/tools/discrimination#tool-grade) of **Resarch-Grade** or higher
 - Developer has indicated intent to modify code to produce [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) as output of all analyses - Moving up to **Operational-Grade**
 - Developer has indicated intent to add Project Type registration with [`program.xml`]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/Program/) in [Program Repo](https://github.com/Riverscapes/Program) 
 
 
 |---|---|---|---|---|---|
-| |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/#interface)|[Status]({{ site.baseurl }}/Tools/#tool-status)|
+| |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/discrimination#interface)|[Status]({{ site.baseurl }}/Tools/discrimination#tool-status)|
 |---|---|---|---|---|---|
 |**Reach Scale Tools**||||||
 |[Fluvial Coridor Toolbox](https://github.com/EVS-GIS/Fluvial-Corridor-Toolbox-ArcGIS)|Cell|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png"> , <img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png">|Operational-Grade|
@@ -64,7 +73,6 @@ Tools are designated as "*pending riverscapes-compliance*" <img  src="{{ site.ba
 |[TAT - Topographic Analyis Toolkit](https://tat.riverscapes.xyz)|Cell|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Operational-Grade|
 |[ToPCAT - Topographic Point Cloud Analysis Toolkit](http://tat.riverscapes.xyz/Help/Analysis/roughness-analysis-submenu/simple-topcat-roughness.html)|Cell|Reach|C++|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Research-Grade|
 |**Network Scale Tools**||||||
-|[BRAT - Beaver Restoration Assessment Tool](http://brat.riverscapes.xyz/) - pyBRAT 3.1.0|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|[Operational-Grade](http://brat.riverscapes.xyz/Documentation/Status/Tool_ReportCard_3-1-00) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png">|
 |[CASCADE Toolbox](http://cascade.deib.polimi.it/)|Reach|Network|Matlab| <i class="fa fa-desktop" aria-hidden="true"></i> |Opperational-Grade|
 |[Catchment Tool](https://riverscapes.github.io/CatchmentTool/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
 |[Conductivity Tools](https://riverscapes.github.io/Conductivity/)|Reach|Network|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">|Research-Grade|
@@ -90,59 +98,16 @@ Tools are designated as "*pending riverscapes-compliance*" <img  src="{{ site.ba
 
 
 
-# Model Discrimination
-The following concpets are helpful for discriminating model types.
-
-## Interface
-
-RC tools are deployed to users thorugh a variety of interfaces:
-* <img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png"> :  [ArcGIS AddIn](https://desktop.arcgis.com/en/arcmap/10.7/guide-books/python-addins/sharing-and-installing-add-ins.htm)  ArcGIS [AddIn Toolbar](https://desktop.arcgis.com/en/arcmap/10.7/analyze/python-addins/sharing-and-installing-add-ins.htm) in ArcGIS
-* <img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">:  [ArcPy Toolbox in ArcGIS](https://desktop.arcgis.com/en/arcmap/10.7/analyze/creating-tools/a-quick-tour-of-python-toolboxes.htm)
-* <img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png"> [QGIS Plugin](https://plugins.qgis.org/) = Toolbar in [QGIS](https://qgis.org)
-* <i class="fa fa-terminal" aria-hidden="true"></i> : CLI = [Command Line Interface](https://en.wikipedia.org/wiki/Command-line_interface)
-* <i class="fa fa-desktop" aria-hidden="true"></i> : GUI = [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
-* <i class="fa fa-chrome" aria-hidden="true"></i>: Web = interactive web site
-* <img  src="{{ site.baseurl }}/assets/images/data/api_24.png"> : API = [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)
-* <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">:  PWA = [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_application)
-
-Most tools have just one deployment interface, some have multiple. 
-
-## Tool Grade
-We classify the grade of our tools according to their growth from innovative research ideas, through to operational tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployablle professional tools that are robust and usable by any user in very diffferent settings.
-
-Our [RC Techncial Committee]({{ site.baseurl }}\About\) ranks a **tool's grade** using the following criteria:
-
-
-
-| Technology<br>Readiness Level | Tool Status |Badge | Vetted in <br>Peer-Reviewed <br>Literature | Source Code <br>Documentation | Open Source | User <br>Documentation | Easy User <br>Interface | Scalability |
-|:-----------------------------:|------------------------|:------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| TR1 -TR2 |**Concept**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_1_32p.png"> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> |
-| TR3 |**Proof of Concept**| <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i><br>to<br><i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> |
-| TR4 |**Research Grade**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> <br>to<br> <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i><br>to<br> <i class="fa fa-battery-quarter" aria-hidden="true"></i> |
-| TR5-6 | **Operational Grade**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png">| <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> |
-| TR7-8 |**Professional Grade**| <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_5_32p.png"> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-half" aria-hidden="true"></i> |
-| TR8-9 |**Production Grade**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png">   | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> <br>to<br><i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> |
-| TR9 | **Commercial Grade**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> |
-
-None or Not Applicable: <i class="fa fa-battery-empty" aria-hidden="true"></i> •
-Minimal or In Progress: <i class="fa fa-battery-quarter" aria-hidden="true"></i> •
-Functional: <i class="fa fa-battery-half" aria-hidden="true"></i> •
-Fully Developed: <i class="fa fa-battery-full" aria-hidden="true"></i>  
-
-**NOTE** - The RC does not track concepts or proof of concept tools in its listing. Only 
-
-### Technological Readiness Levels
-These ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) (TRLs), as originally developed by NASA. The TRLs provide a way to discriminate between concepts and products that are in research phases, in development phases, or ready for deployment to broader audiences or makert. TRLs are  illustrated below (from [twi-global](https://www.twi-global.com/technical-knowledge)) and formally defined by the European Union:
+####  [Model Discrimination]({{ site.baseurl }}/tools/discrimination)
+We discriminate our tools based on their [interface]({{ site.baseurl }}/tools/discrimination#interface) and [tool grade]({{ site.baseurl }}/tools/discrimination#tool-grade).
 
 <div align="center">
-<a href=""><img src="{{ site.baseurl }}/assets/images/tools/TRL.png"></a></div>
 
-------
-# Why Bother? Why Go Beyond Research-Grade?
-If you've gotten to the bottom of this page, you presumably scrolled through or read a bunch of detail trying to encourage investment in making tools Riverscapes-Compliant and hopefully profossional, production or commercialized. The reason is simple. If we believe our science is good enough to inform management, inspire the public to conserve and restore riverscapes, then **we need to make the tools that represent that science scalable and accessible**. If our science is only relevant to other scientists, then we at least should meet a standard of practice of transparency and reproducability.
+<a class="hollow button" href="{{ site.baseurl }}/discrimination#tool-grade"> <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_1_32p.png">  Learn more about RC-Compliant <br> <b>Tool Discrimination</b>  <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_7_32p.png"> </a>
 
-Put another way, when we invest in scalability, and adhre to a shared set of common goals, bigger things can happen. One such example is, ironically, how Bezos led Amazon to operate. The video below is a recap of a point Philip Bailey made recently:
-
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H_2AiyabDo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+##### Tool Grade
+We classify the  [grade]({{ site.baseurl }}/tools/discrimination#tool-grade) of our tools according to their growth from innovative research ideas, through to operational tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployable professional tools that are robust and usable by any user in very different settings.
+
