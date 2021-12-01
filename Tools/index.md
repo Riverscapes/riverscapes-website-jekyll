@@ -9,7 +9,7 @@ All of our tools are based on [peer-reviewed]({{ site.baseurl }}/Science/publica
 
 <div align="center">
 
-
+<a class="hollow button" href="https://tools.riverscapes.xyz/"> <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png"> Learn more about RC's<br> <b>Production-Grade Network-Scale Tools</b>  </a>
 <a class="hollow button" href="{{ site.baseurl }}/Tools"> <i class="fa fa-github" aria-hidden="true"></i> RC <b>Open Source</b><br> Tools on Github </a>
 <a class="hollow button" href="{{ site.baseurl }}/Tools/toolStandards.html"> <img src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_32.png">  Learn more about RC-Compliant <br> <b>Tool Standards</b> <i class="fa fa-wrench" aria-hidden="true"></i></a>
 
@@ -18,11 +18,11 @@ All of our tools are based on [peer-reviewed]({{ site.baseurl }}/Science/publica
 
 # Riverscapes Compliant
 <img class="float-right" src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_128.png">
-Tools are designated as "*riverscapes-compliant*" <img  src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png"> when they meet the following criteria:
+Tools are designated as "*riverscapes-compliant*"  when they meet the following criteria:
 - [Tool Status]({{ site.baseurl }}/Tools/discrimination#tool-grade) of **Operational-Grade** or Higher
 - Code produces [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> as output of all analyses
 - Project Type is registered with [`program.xml`]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/Program/) in [Program Repo](https://github.com/Riverscapes/Program)  
-- Has been vetted by the RS Science Committee
+- Has been vetted by the RS Science Committee (i.e. has a "Report Card")
 
 
 ## Riverscapes Compliant Tools
