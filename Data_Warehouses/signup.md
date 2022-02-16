@@ -5,7 +5,7 @@ weight: 2
 
 # Riverscapes Warehouse Account
 
-<a href="http://data.riverscapes.xyz" target="blank"><img class="float-right" src="{{ site.baseurl }}/assets/images/data/Riverscapes Warehouse Loggin.png"></a>To [get data]({{ site.baseurl }}/Data_Warehouses/gettingaround) from the [Riverscapes Warehouse](http://data.riverscapes.xyz), you need to create an account or connect your Google Account. 
+<a href="http://data.riverscapes.xyz" target="blank"><img class="float-right" src="{{ site.baseurl }}/assets/images/data/Riverscapes Warehouse Loggin.png"></a>To get data from the [Riverscapes Warehouse](http://data.riverscapes.xyz), you need to create an account or connect your Google Account. 
 
 <div align="center">
 <a href="http://data.riverscapes.xyz" class=" button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Sign Up Now</b><br> to Riverscapes Warehouse </a>
