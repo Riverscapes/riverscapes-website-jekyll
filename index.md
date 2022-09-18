@@ -11,6 +11,8 @@ title: Home
 
 </div>
 
+Welcome to the Riverscapes Consortium! The Riverscapes Consortium is an international collaboration of individuals  and organizations concerned with **improving and sustaining riverscape health**. Our vision is for a world full of vibrant, healthy riverscapes supporting thriving ecosystems and coexistant societies. A halmark of these healhty riverscapes and our adaptation to the climate crisis will be their resilience to the increasing severity of floods, droughts, fires and species invasions.     
+
 ## Motivating Problem - Urgent Threats to Our Riverscapes
 The world is utterly dependent on freshwater resources and riverscapes. Collectively, the world's riverscapes have alarmingly poor health and are facing increasing threats to river biodiversity and human water security ([Vörösmarty  et al. 2010](http://dx.doi.org/10.1038/nature09440)).
 
