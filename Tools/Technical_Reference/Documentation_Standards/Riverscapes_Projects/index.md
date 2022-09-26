@@ -3,7 +3,7 @@ title: Riverscapes Projects
 weight: 3
 ---
 ## The Problem
-One of the most significant barriers to effective collaboration and leveraging of past work is being able to access and share any tool or model output or analysis, within the transparent context of the inputs and methods from which it was produced.  "Just send me the data", is rarely actually that simple. Plus, one of the halmarks of scientific rigor is *reproducability*, and in our opinion all scientific publications should provide the data they were produced with. However, given the complexity of so many of the tools and workflows, this is an easy thing to say, but a very difficult thing to do properly. **The Riverscapes community desperately needs data standards and simple tools for sharing data** ([Fryirs et al. 2019](http://dx.doi.org/10.1002/wat2.1372)). In an era of "big data", it is easy to get overwhelmed without appropriate context. Unforunately, context means metadata, and very few researchers and practitioners have the time or are likely to produce that metadata manually. However, failure to do so contributes to "dark knowledge" (censu [Jeschke et al. 2019](https://dx.doi.org/10.1139/facets-2019-0007)) through *inaccessilbe data and information*, and we *can* do better.
+One of the most significant barriers to effective collaboration and leveraging of past work is being able to access and share any tool or model output or analysis, within the transparent context of the inputs and methods from which it was produced.  "Just send me the data", is rarely actually that simple. Plus, one of the hallmarks of scientific rigor is *reproducibility*, and in our opinion all scientific publications should provide the data they were produced with. However, given the complexity of so many of the tools and workflows, this is an easy thing to say, but a very difficult thing to do properly. **The Riverscapes community desperately needs data standards and simple tools for sharing data** ([Fryirs et al. 2019](http://dx.doi.org/10.1002/wat2.1372)). In an era of "big data", it is easy to get overwhelmed without appropriate context. Unfortunately, context means metadata, and very few researchers and practitioners have the time or are likely to produce that metadata manually. However, failure to do so contributes to "dark knowledge" (censu [Jeschke et al. 2019](https://dx.doi.org/10.1139/facets-2019-0007)) through *inaccessible data and information*, and we *can* do better.
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
@@ -13,7 +13,7 @@ One of the most significant barriers to effective collaboration and leveraging o
         <img class="float-right" src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_48.png">
         <ol>
         <li>Make it easier to produce, curate and organize riverscapes analyses in the context of the inputs and intermediates they were produced with. </li> 
-        <li> <i class="fa fa-share-alt" aria-hidden="true"></i> Foster transparency, reproducability and sharing. </li>
+        <li> <i class="fa fa-share-alt" aria-hidden="true"></i> Foster transparency, reproducibility and sharing. </li>
         </ol>
       </div>
     </div>
