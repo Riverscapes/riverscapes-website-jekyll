@@ -17,7 +17,7 @@ Webinar will be conducted on Zoom:  [Zoom Link](https://usu-edu.zoom.us/j/864948
 </div>
 
 ## Webinar Purpose
-<a href="https://riverscapes.xyz"><img width="175" class="float-right" src="{{ site.baserurl }}/assets/images/rc/RiverscapesConsortium_Logo_Black_BHS.png"></a> **The purpose of this webinar is to introduce both a vision for what the health of riverscapes could be and some of the tools and datasets available for the  Montana/Dakotas to help identify what is possible where.** Specifically, the vision for the [Riverscape Consortium's](https://riverscapes.xyz) next generation of [riverscape tools](https://riverscapes.xyz/Tools/) and [data](http://data.riverscapes.xyz) to support riverscape [planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/), [restoration](http://lowtechpbr.restoration.usu.edu/resources/Topics/01_Overview/), [implementation](http://lowtechpbr.restoration.usu.edu/resources/Topics/05_Implementation/), monitoring, stewardship and citizen science will be shared. 
+<a href="https://riverscapes.net"><img width="175" class="float-right" src="{{ site.baserurl }}/assets/images/rc/RiverscapesConsortium_Logo_Black_BHS.png"></a> **The purpose of this webinar is to introduce both a vision for what the health of riverscapes could be and some of the tools and datasets available for the  Montana/Dakotas to help identify what is possible where.** Specifically, the vision for the [Riverscape Consortium's](https://riverscapes.net) next generation of [riverscape tools](https://riverscapes.net/Tools/) and [data](http://data.riverscapes.net) to support riverscape [planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/), [restoration](http://lowtechpbr.restoration.usu.edu/resources/Topics/01_Overview/), [implementation](http://lowtechpbr.restoration.usu.edu/resources/Topics/05_Implementation/), monitoring, stewardship and citizen science will be shared. 
 
 ### Format / Agenda
 
@@ -25,9 +25,9 @@ There will be a mix of lecture, interactive desktop exercises, and discussion th
 Rough Agenda:
 - 10:00 to 10:15 - Introductions & Overview
 - 10:15 to 11:00 - Lecture on Riverscapes Vision with Q&A
-- 11:00 to 11:45 - Hands-On Demos in [webRAVE](http://rave.riverscapes.xyz/)
+- 11:00 to 11:45 - Hands-On Demos in [webRAVE](http://rave.riverscapes.net/)
 - 11:45 to 12:15 - Q&A Discussion
-- 12:15 to 12:30ish - Advanced [ArcRAVE](http://rave.riverscapes.xyz/Download/install_arcrave.htmll) and  [QRAVE](http://rave.riverscapes.xyz/Download/install_qrave.html) demos in QGIS
+- 12:15 to 12:30ish - Advanced [ArcRAVE](http://rave.riverscapes.net/Download/install_arcrave.htmll) and  [QRAVE](http://rave.riverscapes.net/Download/install_qrave.html) demos in QGIS
 
 The webinar will be recorded and all webinar resources will be posted on this page as a resource following the live event.
 
@@ -66,8 +66,8 @@ The target  audience for the webinar is BLM staff and partners in conservation t
 
 1. Register with link from BLM
 2. Read/Skim [Chapter 2](http://lowtechpbr.restoration.usu.edu/manual/chap02/) and [Chapter 3](http://lowtechpbr.restoration.usu.edu/manual/chap03/) of design manual. We will be discussing tools that help estimate riverscape health condition and potential (described in [Chapter 2](http://lowtechpbr.restoration.usu.edu/manual/chap02/) ) and address questions posed during planning (discussed in [Chapter 3 and its Appendices](http://lowtechpbr.restoration.usu.edu/manual/chap03/)) .
-2. Create an account at the [Riverscapes Consortium's Warehouse](https://data.riverscapes.xyz/#/) 
-3. Optionally, install [RAVE](http://rave.riverscapes.xyz/), download a few projects from warehouse in one watershed, and unzip. 
+2. Create an account at the [Riverscapes Consortium's Warehouse](https://data.riverscapes.net/#/) 
+3. Optionally, install [RAVE](http://rave.riverscapes.net/), download a few projects from warehouse in one watershed, and unzip. 
 
 
 

@@ -4,7 +4,7 @@ title: Automated Bibliographies
 
 These instructions describe how to automate a bibliography within your website using the free [Zotero](https://www.zotero.org) bibliographic software. It is possible to maintain a private or shared library within Zotero and then use the Python script on this page to export the citations to a text file for inclusion in your web site.
 
-Riverscapes web sites are written as palin text markdown files, stored in git repositories and served over the internet using GitHub Pages. The script described in the following instructions will output a single, formatted markdown page containing all the citations for a single Zotero library. You can include this markdown page in your web site and GitHub Pages will generate the corresponding web page. Here's our [beaver restoration example](http://brat.riverscapes.xyz/references.html) that was generated using this script.
+Riverscapes web sites are written as palin text markdown files, stored in git repositories and served over the internet using GitHub Pages. The script described in the following instructions will output a single, formatted markdown page containing all the citations for a single Zotero library. You can include this markdown page in your web site and GitHub Pages will generate the corresponding web page. Here's our [beaver restoration example](http://brat.riverscapes.net/references.html) that was generated using this script.
 
 ## Step 1 - Prereqisites
 

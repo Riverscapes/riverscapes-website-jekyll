@@ -11,7 +11,7 @@ This is controlled in your repository → *Settings*:
 
 
 
-You will notice that many of the higher-grade Riverscapes Tools have subdomains to `riverscapes.xyz`, instead of the above default. For example the [BRAT tool](https://brat.riverscapes.xyz) is `https://brat.riverscapes.xyz` where **brat**` is the custom subdomain. The RC will consider requests for any tools pending Riverscapes Compliance or fully [Riverscapes Compliant](https://riverscapes.xyz/Tools/#riverscapes-compliant-tools). 
+You will notice that many of the higher-grade Riverscapes Tools have subdomains to `riverscapes.net`, instead of the above default. For example the [BRAT tool](https://brat.riverscapes.net) is `https://brat.riverscapes.net` where **brat**` is the custom subdomain. The RC will consider requests for any tools pending Riverscapes Compliance or fully [Riverscapes Compliant](https://riverscapes.net/Tools/#riverscapes-compliant-tools). 
 
 ## Step 1 - Request the subdomain you want
 To request a subdomain for your tool, fill out the [form](https://forms.gle/H7jRGuf2QmypXkxN9) below.

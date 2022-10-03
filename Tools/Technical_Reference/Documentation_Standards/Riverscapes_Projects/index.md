@@ -41,7 +41,7 @@ Yes, but who has time for it? Going to the effort of making your tool riverscape
 
 ## What are the Benefits of Riverscapes Projects?
 Beyond better organization and transparency, the major benefits of riverscapes projects <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> are:
-- **Easy Visualization in GIS** - sharing and opening any project in the [RAVE](http://rave.riverscapes.xyz/) (Riverscapes Analysis Visualization Explorer) Tool - *A ArcGIS Add-In and QGIS Plugin for visualizing any project and adding to map any output, intermediate or input and exploring results.*
+- **Easy Visualization in GIS** - sharing and opening any project in the [RAVE](http://rave.riverscapes.net/) (Riverscapes Analysis Visualization Explorer) Tool - *A ArcGIS Add-In and QGIS Plugin for visualizing any project and adding to map any output, intermediate or input and exploring results.*
 - **Easy Sharing & Discovery** - riverscapes projects can be stored in [Riverscapes Warehouses]({{ site.baseurl }}/Data_Warehouses) and made publicly available. - *Riverscapes projects in a warehouse can be discovered through websites,  webGIS maps, APIs, web mapping tile servies (e.g. WMS or WMST).*
 - **Scalable Analysis & Interoperabiliy** - riverscapes projects can be accessed, modified and populated with cloud computing because querying, and batching operations are possible with a consistent data standard and storage. Plus, other riverscape-compliant projects can easily reference each other. 
 

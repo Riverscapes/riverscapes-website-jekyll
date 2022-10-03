@@ -2,7 +2,7 @@
 title: XML Validation
 ---
 
-Riverscapes relies on several different [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML) files. They are used to define the individual projects, the data warehouses that store these projects and also how the projects are displayed in [RAVE](http://rave.riverscapes.xyz/).
+Riverscapes relies on several different [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML) files. They are used to define the individual projects, the data warehouses that store these projects and also how the projects are displayed in [RAVE](http://rave.riverscapes.net/).
 
 Each of these types of XML has a different set of rules that define the tag names, attributes and how these are laid out in the file. These rules are defined in a [XSD schema files](https://en.wikipedia.org/wiki/XML_schema) that are available online.
 
@@ -30,7 +30,7 @@ Use the following URLs in the `namespaceSchemaLocation` attribute in the root le
 |XML Type|XSD URL|
 |---|---|
 |[Riverscapes Project XML Files]({{ site.baseurl}}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/Project/projectxml.html)|[https://raw.githubusercontent.com/Riverscapes/Program/master/Project/XSD/V1/Project.xsd](https://raw.githubusercontent.com/Riverscapes/Program/master/Project/XSD/V1/Project.xsd)|
-|[RAVE Business Logic XML](http://rave.riverscapes.xyz/business-logic.html)|[https://raw.githubusercontent.com/Riverscapes/RaveAddIn/master/RaveAddIn/XML/XSD/project_explorer.xsd](https://raw.githubusercontent.com/Riverscapes/RaveAddIn/master/RaveAddIn/XML/XSD/project_explorer.xsd)|
+|[RAVE Business Logic XML](http://rave.riverscapes.net/business-logic.html)|[https://raw.githubusercontent.com/Riverscapes/RaveAddIn/master/RaveAddIn/XML/XSD/project_explorer.xsd](https://raw.githubusercontent.com/Riverscapes/RaveAddIn/master/RaveAddIn/XML/XSD/project_explorer.xsd)|
 
 # XML Validation
 
