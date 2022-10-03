@@ -5,7 +5,7 @@ title: Home
 
 <a href="http://data.riverscapes.net" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Get Data Now</b> <i class="fa fa-cloud-download" aria-hidden="true"></i><br> from Riverscapes Warehouse </a>
 <a class="hollow button" href="{{ site.baseurl }}/Data_Warehouses"><i class="fa fa-cloud" aria-hidden="true"></i> <b>About</b><br> RC Data Warehouse </a>
-<a class="hollow button" href="http://maps.riverscapes.net"><i class="fa fa-globe" aria-hidden="true"></i> RC Interactive<br> Web <b>Maps</b> <i class="fa fa-location-arrow" aria-hidden="true"></i></a>
+<!-- <a class="hollow button" href="http://maps.riverscapes.net"><i class="fa fa-globe" aria-hidden="true"></i> RC Interactive<br> Web <b>Maps</b> <i class="fa fa-location-arrow" aria-hidden="true"></i></a> -->
 <a class="hollow button" href="https://github.com/riverscapes"> <i class="fa fa-github" aria-hidden="true"></i> RC <b>Open Source</b><br> Tools on Github </a>
 <a class="hollow button" href="{{ site.baseurl }}/Tools"> <img src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_32.png">  RC-Compliant <br> <b>Tools</b> <i class="fa fa-wrench" aria-hidden="true"></i></a>
 
