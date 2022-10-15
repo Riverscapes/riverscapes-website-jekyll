@@ -66,6 +66,8 @@ Tools are designated as "*pending riverscapes-compliance*" <img  src="{{ site.ba
 |---|---|---|---|---|---|
 | |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/discrimination#interface)|[Status]({{ site.baseurl }}/Tools/discrimination#tool-grade)|
 |---|---|---|---|---|---|
+|**Tools for doing your own Riverscapes Analyses**||||||
+|[Riverscape Studio - for QGIS (QRiS)](http://qris.riverscapes.net/)|Any|Riverscape|Python|<img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png">|Professional-Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png"> |
 |**Reach Scale Tools**||||||
 |[Fluvial Coridor Toolbox](https://github.com/EVS-GIS/Fluvial-Corridor-Toolbox-ArcGIS)|Cell|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png"> , <img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png">|Operational-Grade|
 |[MoRPHED - Model of Riverine Physical Habitat & Ecogeomorphic Dynamics](http://morphed.joewheaton.org/)|Cell|Reach|C++|<i class="fa fa-desktop" aria-hidden="true"></i> |Research-Grade|
