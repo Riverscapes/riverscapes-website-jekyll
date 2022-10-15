@@ -3,7 +3,9 @@ title: Riverscapes Projects
 weight: 3
 ---
 ## The Problem
-One of the most significant barriers to effective collaboration and leveraging of past work is being able to access and share any tool or model output or analysis, within the transparent context of the inputs and methods from which it was produced (Wilkinson et al. 2016).  "Just send me the data", is rarely actually that simple. Plus, one of the hallmarks of scientific rigor is *reproducibility*, and in our opinion, all scientific publications should provide the data they were produced with (. However, given the complexity of so many of the tools and workflows, this is an easy thing to say, but a very difficult thing to do properly. **The Riverscapes community desperately needs data standards and simple tools for sharing data** ([Fryirs et al. 2019](http://dx.doi.org/10.1002/wat2.1372)). In an era of "big data", it is easy to get overwhelmed without appropriate context. Unfortunately, context means metadata, and very few researchers and practitioners have the time or are likely to produce that metadata manually. However, failure to do so contributes to "dark knowledge" (censu [Jeschke et al. 2019](https://dx.doi.org/10.1139/facets-2019-0007)) through *inaccessible data and information*, and we *can* do better.
+One of the most significant barriers to effective collaboration and leveraging of past work is being able to access and share any tool or model output or analysis, within the transparent context of the inputs and methods from which it was produced (Wilkinson et al. 2016).  "Just send me the data", is rarely actually that simple. Plus, one of the hallmarks of scientific rigor is *reproducibility*. 
+
+However, given the complexity of so many of the tools and workflows, this is an easy thing to say, but a very difficult thing to do properly. **The Riverscapes community desperately needs data standards and simple tools for sharing data** ([Fryirs et al. 2019](http://dx.doi.org/10.1002/wat2.1372)). In an era of "big data", it is easy to get overwhelmed without appropriate context. Unfortunately, context means metadata, and very few researchers and practitioners have the time or are likely to produce that metadata manually. However, failure to do so contributes to "dark knowledge" (censu [Jeschke et al. 2019](https://dx.doi.org/10.1139/facets-2019-0007)) through *inaccessible data and information*, and we *can* do better.
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
@@ -13,17 +15,23 @@ One of the most significant barriers to effective collaboration and leveraging o
         <img class="float-right" src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_48.png">
         <ol>
         <li>Make it <b>easier to produce, curate and organize riverscapes analyses</b> in the context of the inputs and intermediates they were produced from. - i.e. make exploreable in <a href="https://rave.riverscapes.xyz">RAVE</a> </li> 
-        <li> <i class="fa fa-share-alt" aria-hidden="true"></i> Foster transparency, reproducibility and sharing. </li>
-         <li></li>
+        <li> <i class="fa fa-share-alt" aria-hidden="true"></i> Foster transparency, reproducibility and sharing of riverscapes data and analyses. </li>
+         <li>Simplify ability for tool users to make tool outputs <b>F-A-I-R</b> or at least <b>F-A-R</b> </li>
         </ol>
       </div>
     </div>
   </div>
 
 </div>
-To achieve the above goals, we propose packaging data as  **riverscapes projects** <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">.
+To achieve the above goals, we propose packaging data as  **riverscapes projects** <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png">. This helps both the developer and the tool user grow their audiences for their tools
 
-A secondary goal of packaging analyses as  **riverscapes projects** <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> is to facilitate the contribution of Riverscapes Data  to a [**DATA** Warehouses]({{ site.baseurl }}/Data_Warehouses) for sharing <i class="fa fa-share-alt" aria-hidden="true"></i> and achieve **F**-**A**-**I**-**R**.  With our [RAVE tools](https://rave.riverscapes.xyz) and [Warehouse](]({{ site.baseurl }}/Data_Warehouses) ) we strive to make it easy to contribute your data as a riverscapes project , which are  [**F**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-2)indable,   [**A**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-3)ccessible, and *ideally* [**I**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-4)nteroperable and  [**R**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-5)e-useable. There are many other platforms and warehouses where full or partial **F**-**A**-**I**-**R** can be achieved (e.g. [zeondo](https://zenodo.org/), [HydroShare](https://www.hydroshare.org/), [FigShare](https://figshare.com/) or [OpenAIRE](https://openaire.com/)). These systems will not necessarily have awareness of what a **riverscapes projects** <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> is, but they can handle uploading the data as a zip file, and at least the F, A and R parts of FAIR. 
+One way of achieve the third goal of packaging analyses as  **riverscapes projects** <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> is to facilitate the contribution of Riverscapes Data  to a [**DATA** Warehouses]({{ site.baseurl }}/Data_Warehouses) for sharing <i class="fa fa-share-alt" aria-hidden="true"></i> and achieve **F**-**A**-**I**-**R**.  With our [RAVE tools](https://rave.riverscapes.xyz) and [Warehouse](]({{ site.baseurl }}/Data_Warehouses) ) we strive to make it easy to contribute your data as a riverscapes project , which are:
+- [**F**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-2)indable,  
+-   [**A**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-3)ccessible, and
+-    *ideally* [**I**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-4)nteroperable and
+-     [**R**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-5)e-useable. 
+     
+There are many other platforms and warehouses where full or partial **F**-**A**-**I**-**R** can be achieved (e.g. [zeondo](https://zenodo.org/), [HydroShare](https://www.hydroshare.org/), [FigShare](https://figshare.com/) or [OpenAIRE](https://openaire.com/)). These systems will not necessarily have awareness of what a **riverscapes projects** <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> is, but they can handle uploading the data as a zip file, and at least the F, A and R parts of FAIR. 
 
 Note the **F**-**A**-**I**-**R**, correspond to the **f**indable, **a**ccessible, **i**nteroperable and **r**e-useable [Principles](https://force11.org/info/the-fair-data-principles/) (Wilkinson et al. [2016](https://www.nature.com/articles/sdata201618)), which the RC strives towards and helps facilitate the riverscapes community follow. 
 
