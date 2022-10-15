@@ -30,7 +30,7 @@ One way of achieve the third goal of packaging analyses as  **riverscapes projec
 -   [**A**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-3)ccessible, and
 -    *ideally* [**I**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-4)nteroperable and
 -     [**R**](https://force11.org/info/the-fair-data-principles/#elementor-toc__heading-anchor-5)e-useable. 
-     
+
 There are many other platforms and warehouses where full or partial **F**-**A**-**I**-**R** can be achieved (e.g. [zeondo](https://zenodo.org/), [HydroShare](https://www.hydroshare.org/), [FigShare](https://figshare.com/) or [OpenAIRE](https://openaire.com/)). These systems will not necessarily have awareness of what a **riverscapes projects** <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> is, but they can handle uploading the data as a zip file, and at least the F, A and R parts of FAIR. 
 
 Note the **F**-**A**-**I**-**R**, correspond to the **f**indable, **a**ccessible, **i**nteroperable and **r**e-useable [Principles](https://force11.org/info/the-fair-data-principles/) (Wilkinson et al. [2016](https://www.nature.com/articles/sdata201618)), which the RC strives towards and helps facilitate the riverscapes community follow. 
@@ -60,7 +60,7 @@ Yes, but who has time for it? Going to the effort of making your tool riverscape
 Beyond better organization and transparency, the major benefits of riverscapes projects <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> are:
 - **Easy Visualization in GIS** - sharing and opening any project in the [RAVE](http://rave.riverscapes.net/) (Riverscapes Analysis Visualization Explorer) Tool - *A ArcGIS Add-In and QGIS Plugin for visualizing any project and adding to map any output, intermediate or input and exploring results.*
 - **Easy Sharing & Discovery** - riverscapes projects can be stored in [Riverscapes Warehouses]({{ site.baseurl }}/Data_Warehouses) and made publicly available. - *Riverscapes projects in a warehouse can be discovered through websites,  webGIS maps, APIs, web mapping tile servies (e.g. WMS or WMST).*
-- **Scalable Analysis & Interoperabiliy** - riverscapes projects can be accessed, modified and populated with cloud computing because querying, and batching operations are possible with a consistent data standard and storage. Plus, other riverscape-compliant projects can easily reference each other. 
+- **Scalable Analysis & Interoperability** - riverscapes projects can be accessed, modified and populated with cloud computing because querying, and batching operations are possible with a consistent data standard and storage. Plus, other riverscape-compliant projects can easily reference each other. 
 
 ## References
 - Fryirs KA, Wheaton JM, Bizzi S, Williams R, Brierley GJ. 2019. To plug-in or not to plug-in? Geomorphic analysis of rivers using the River Styles Framework in an era of big data acquisition and automation. Wiley Interdisciplinary Reviews: Water 6 : e1372. DOI: [10.1002/wat2.1372](http://dx.doi.org/10.1002/wat2.1372)
