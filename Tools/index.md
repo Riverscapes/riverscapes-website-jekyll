@@ -5,7 +5,7 @@ weight: 3
 
 <img class="float-left" src="{{ site.baseurl }}/assets/images/rc/tool.png">[Contriubtors](https://github.com/Riverscapes) to the RC have been prolific in developing and vetting the science and theoretical underpinnings essential to understanding and explaining how riverscapes work and are organized across a range of nested hierarchical spatial scales. We have also committed to building [open-source algorithms](https://github.com/Riverscapes) <i class="fa fa-github" aria-hidden="true"></i> tools to make it easier for researchers, professionals, practitioners and students to apply those concepts to their own riverscapes and disseminate [FAIR](https://www.go-fair.org/fair-principles/) tools and [outputs from those tools](https://riverscapes.net/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/).
 
-All tools ranked as RC-Compliant are based on peer-reviewed, methods. When RC developers have developed new methods themselves, the RC encourages vetting, publication and dissemination in the peer-reviewed literature. The RC  also make sure to have a well documented website (typically with a URL that will take the form of  `sometool.riverscapes.net`). For most users, the online help documentation and using the [tool]({{ site.baseurl }}/Tools)  'as is' is as far as they need to take it. However, for those so inclined, all of the underlying source-code for these tools, models and algorithms are available in their own GitHub <i class="fa fa-github" aria-hidden="true"></i> repository at [github.com/Riverscapes](https://github.com/Riverscapes). Note that, the [`tools.riverscapes.net`](https://github.com/Riverscapes/riverscapes-tools/tree/master/lib/commons)`/sometool` convention is used for our predominantly [production-grade tools](http://tools.riverscapes.net) that share the [`Riverscapes Commons` Library](https://github.com/Riverscapes/riverscapes-tools/tree/master/lib/commons).
+
 
 <div align="center">
 
@@ -22,10 +22,12 @@ Tools are designated as "*riverscapes-compliant*"  when they meet the following 
 - [Tool Status]({{ site.baseurl }}/Tools/discrimination#tool-grade) of **Operational-Grade** or Higher
 - Code produces [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> as output of all analyses
 - Project Type is registered with [`program.xml`]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/Program/) in [Program Repo](https://github.com/Riverscapes/RiverscapesXML)  
+- Source-Code is open-source and [FAIR](https://force11.org/info/the-fair-data-principles/)
 - Has been vetted by the RS Science Committee (i.e. has a "Report Card")
 
 
 ## Riverscapes Compliant Tools
+All tools ranked as RC-Compliant <img src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_24.png"> are based on peer-reviewed methods and have been additionally vetted by our RS Science Committee. When RC developers have developed new methods themselves, the RC encourages peer vetting, publication and dissemination in the peer-reviewed literature. The RC  also make sure to have a well documented website (typically with a URL that will take the form of  `sometool.riverscapes.net`). For most users, the online help documentation and using the [tool]({{ site.baseurl }}/Tools)  'as is' is as far as they need to take it. However, for those so inclined, all of the underlying source-code for these tools, models and algorithms are available in their own GitHub <i class="fa fa-github" aria-hidden="true"></i> repository at [github.com/Riverscapes](https://github.com/Riverscapes). Note that, the [`tools.riverscapes.net`](https://github.com/Riverscapes/riverscapes-tools/tree/master/lib/commons)`/sometool` convention is used for our predominantly [production-grade tools](http://tools.riverscapes.net) that share the [`Riverscapes Commons` Library](https://github.com/Riverscapes/riverscapes-tools/tree/master/lib/commons). 
 
 |---|---|---|---|---|---|
 | |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/discrimination#interface)|[Status]({{ site.baseurl }}/Tools/discrimination#tool-grade)|
