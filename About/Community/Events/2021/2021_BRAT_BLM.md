@@ -16,7 +16,7 @@ Webinar will be conducted on Zoom:  [Zoom Link](https://usu-edu.zoom.us/j/870173
 </div>
 
 # Webinar Purpose
-<a href="https://tools.riverscapes.xyz/brat/"><img class="float-right" src="{{ site.baserurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a> **Overview of  Beaver Restoration Assessment Tool, the model outputs, and how to use it for [LTPBR planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/) specifically in Montana/Dakotas.** 
+<a href="https://tools.riverscapes.net/brat/"><img class="float-right" src="{{ site.baserurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a> **Overview of  Beaver Restoration Assessment Tool, the model outputs, and how to use it for [LTPBR planning](http://lowtechpbr.restoration.usu.edu/resources/Topics/03_Planning/) specifically in Montana/Dakotas.** 
 
 ## Format / Agenda
 
@@ -66,7 +66,7 @@ The target  audience for the webinar is BLM staff and partners in conservation t
 # Preparation Prior to Webinar
 
 1. Read/Skim  [Chapter 3](http://lowtechpbr.restoration.usu.edu/manual/chap03/) of design manual. We will be discussing tools that help estimate riverscape health condition and potential (described in [Chapter 2](http://lowtechpbr.restoration.usu.edu/manual/chap02/) ) and address questions posed during planning (discussed in [Chapter 3 and its Appendices](http://lowtechpbr.restoration.usu.edu/manual/chap03/)) .
-2. If you don't already have a RC Warehouse account, create an account at the [Riverscapes Consortium's Warehouse](https://data.riverscapes.xyz/#/). See [here if you need instructions or assitance creating an account]({{ site.baseurl }}/Data_Warehouses/signup.html#creating-an-account). 
+2. If you don't already have a RC Warehouse account, create an account at the [Riverscapes Consortium's Warehouse](https://data.riverscapes.net/#/). See [here if you need instructions or assitance creating an account]({{ site.baseurl }}/Data_Warehouses/signup.html#creating-an-account). 
 3. Once you have created an account, get access to the "BLM Montana and Dakota's" program by filling out  [this form](https://forms.gle/pXwXytzMCK4a3xj29). See [here for instructions]({{ site.baseurl }}/Data_Warehouses/signup.html)
 
 
@@ -74,10 +74,10 @@ The target  audience for the webinar is BLM staff and partners in conservation t
 ## Optional 
 We will do this in exercises during workshop, so if you don't get to this ahead of time, do not panic.
 
-1. Optionally, install [RAVE](http://rave.riverscapes.xyz/),  download the example projects we will use for demos, and unzip locally:
-  - [BRAT for HUC 10090102](https://webrave.riverscapes.xyz/#/BLM/be01578b-2d64-4925-9af5-366c73bbf2a8)
-  - [BRAT for HUC 10040204](https://webrave.riverscapes.xyz/#/BLM/4b53e516-946f-474a-8e19-24199cfd3401) 
-  - [BRAT for HUC 10020003](https://webrave.riverscapes.xyz/#/BLM/3e6c40d8-2f2f-4460-b7de-e8b98fb4eb06) 
+1. Optionally, install [RAVE](http://rave.riverscapes.net/),  download the example projects we will use for demos, and unzip locally:
+  - [BRAT for HUC 10090102](https://webrave.riverscapes.net/#/BLM/be01578b-2d64-4925-9af5-366c73bbf2a8)
+  - [BRAT for HUC 10040204](https://webrave.riverscapes.net/#/BLM/4b53e516-946f-474a-8e19-24199cfd3401) 
+  - [BRAT for HUC 10020003](https://webrave.riverscapes.net/#/BLM/3e6c40d8-2f2f-4460-b7de-e8b98fb4eb06) 
 
 See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_Warehouses/gettingaround.html)
 
@@ -135,7 +135,7 @@ See [here if you need instructions on downloading data]({{ site.baseurl }}/Data_
 </div>
 
         <i class="fa fa-youtube-play" aria-hidden="true"></i>
- <a href="https://www.youtube.com/embed/t6gA1YnoAcw" target="_blank">3. WebRAVE GIS and Riverscapes Context</a> We spent some time looking at a <a href="https://webrave.riverscapes.xyz/#/BLM/18eebd92-423b-4744-877a-d4cf723779b0">rivercapes context project</a> to get familiar with webRAVE and where the freely available national data we can run BRAT with comes from. 
+ <a href="https://www.youtube.com/embed/t6gA1YnoAcw" target="_blank">3. WebRAVE GIS and Riverscapes Context</a> We spent some time looking at a <a href="https://webrave.riverscapes.net/#/BLM/18eebd92-423b-4744-877a-d4cf723779b0">rivercapes context project</a> to get familiar with webRAVE and where the freely available national data we can run BRAT with comes from. 
 
 </div></div></div></div>
    
@@ -305,13 +305,13 @@ For BRAT the main publication is Macfarlane et al. (2015).
 - Macfarlane W.W. , Wheaton J.M., Bouwes N., Jensen M., Gilbert J.T., Hough-Snee N., and Shivick J. 2015. [Modeling the capacity of riverscapes to support beaver dams](https://www.researchgate.net/publication/285590037_Modeling_the_capacity_of_riverscapes_to_support_beaver_dams). Geomorphology. DOI: [10.1016/j.geomorph.2015.11.019](http://dx.doi.org/10.1016/j.geomorph.2015.11.019).
 
 ## Model
-<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RiverscapesConsortium/BRAT/BRAT_fact_sheet.pdf"><img class="float-right" src="http://brat.riverscapes.xyz/assets/images/FactSheet_v3.png">
-<a href="https://tools.riverscapes.xyz/brat/"><img class="float-left" src="{{ site.baserurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a> The Beaver Restoration Assessment Tool (BRAT) was developed by the [Riverscapes Consortium](http://riverscapes.xyz) over the past decade. Generous [support](https://tools.riverscapes.xyz/brat/acknowledgements.html) has made the tool and its outputs freely available. 
+<a href="https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/RiverscapesConsortium/BRAT/BRAT_fact_sheet.pdf"><img class="float-right" src="http://brat.riverscapes.net/assets/images/FactSheet_v3.png">
+<a href="https://tools.riverscapes.net/brat/"><img class="float-left" src="{{ site.baserurl }}/assets/images/tools/brat-logo-wgraytxt_3.png"></a> The Beaver Restoration Assessment Tool (BRAT) was developed by the [Riverscapes Consortium](http://riverscapes.net) over the past decade. Generous [support](https://tools.riverscapes.net/brat/acknowledgements.html) has made the tool and its outputs freely available. 
 
 
-<a href="https://tools.riverscapes.xyz/brat/"><img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_64w.png"></a>The current version of BRAT we will be exploring outputs is a [production-grade](https://riverscapes.xyz/Tools/#tool-grade) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png"> tool that is run in the cloud on AWS. 
+<a href="https://tools.riverscapes.net/brat/"><img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_64w.png"></a>The current version of BRAT we will be exploring outputs is a [production-grade](https://riverscapes.net/Tools/#tool-grade) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png"> tool that is run in the cloud on AWS. 
 
-<a href="https://tools.riverscapes.xyz/brat/"><img class="float-right" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_64w.png"></a>The old version of BRAT (refered to as [pyBRAT](http://brat.riverscapes.xyz)) produces very similar outputs (in [shapefiles](https://desktop.arcgis.com/en/arcmap/10.7/manage-data/shapefiles/what-is-a-shapefile.htm) instead of [geopackages](https://www.geopackage.org/)), but is a [operational-grade](https://riverscapes.xyz/Tools/#tool-grade) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png"> tool with ArcPy dependcies that is run manually on one's machine.  
+<a href="https://tools.riverscapes.net/brat/"><img class="float-right" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_64w.png"></a>The old version of BRAT (refered to as [pyBRAT](http://brat.riverscapes.net)) produces very similar outputs (in [shapefiles](https://desktop.arcgis.com/en/arcmap/10.7/manage-data/shapefiles/what-is-a-shapefile.htm) instead of [geopackages](https://www.geopackage.org/)), but is a [operational-grade](https://riverscapes.net/Tools/#tool-grade) <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png"> tool with ArcPy dependcies that is run manually on one's machine.  
 
 
 ### BRAT Capacity Inference System - Paper Form
@@ -322,18 +322,18 @@ Although "running" BRAT in the cloud <i class="fa fa-cloud" aria-hidden="true"><
 ### Montana BRAT Data
 <a href="https://www.umt.edu/spatial-analysis-lab/projects/current-work/montana-brat/default.php"><img width ="300" class="float-right" src="https://www.umt.edu/spatial-analysis-lab/brat_edbc_mt.png"></a>
 
-In Montana/Dakotas, BLM has made these outputs available through both the [Riverscapes Warehouse](https://data.riverscapes.xyz/#/BLM) and through [Montana Natural Heritage's Montana BRAT project](https://www.umt.edu/spatial-analysis-lab/projects/current-work/montana-brat/default.php).
+In Montana/Dakotas, BLM has made these outputs available through both the [Riverscapes Warehouse](https://data.riverscapes.net/#/BLM) and through [Montana Natural Heritage's Montana BRAT project](https://www.umt.edu/spatial-analysis-lab/projects/current-work/montana-brat/default.php).
 <div align="center">
-<a class="hollow button"  href="https://data.riverscapes.xyz/#/BLM"><img src="{{ site.basurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png"> Download BRAT Data from Riverscapes Warehouse </a>
+<a class="hollow button"  href="https://data.riverscapes.net/#/BLM"><img src="{{ site.basurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png"> Download BRAT Data from Riverscapes Warehouse </a>
 </div>
 
 ### Our example Riverscapes Projects we will use for demos:
 
-There are 115 [HUC 8s](https://nas.er.usgs.gov/hucs.aspx) (view [this USGS map](https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fhydro.nationalmap.gov%2Farcgis%2Frest%2Fservices%2Fwbd%2FMapServer&source=sd) to find your HUC) in Montana, 55 in North Dakota, and 56 in South Dakota. As part of [Montana Natural Heritage's Montana BRAT project](https://www.umt.edu/spatial-analysis-lab/projects/current-work/montana-brat/default.php), [pyBRAT](http://brat.riverscapes.xyz) was run for 172 of these HUC 8s (that intersect some BLM land) . In this workshop we will use these three HUC 8s as examples to get to know BRAT:
+There are 115 [HUC 8s](https://nas.er.usgs.gov/hucs.aspx) (view [this USGS map](https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fhydro.nationalmap.gov%2Farcgis%2Frest%2Fservices%2Fwbd%2FMapServer&source=sd) to find your HUC) in Montana, 55 in North Dakota, and 56 in South Dakota. As part of [Montana Natural Heritage's Montana BRAT project](https://www.umt.edu/spatial-analysis-lab/projects/current-work/montana-brat/default.php), [pyBRAT](http://brat.riverscapes.net) was run for 172 of these HUC 8s (that intersect some BLM land) . In this workshop we will use these three HUC 8s as examples to get to know BRAT:
 
-- [BRAT for HUC 10090102](https://webrave.riverscapes.xyz/#/BLM/be01578b-2d64-4925-9af5-366c73bbf2a8) ([Lower Tongue Watershed](https://water.usgs.gov/lookup/getwatershed?10090102)) as a Eastern Montana Example
-- [BRAT for HUC 10040204](https://webrave.riverscapes.xyz/#/BLM/4b53e516-946f-474a-8e19-24199cfd3401) ([Box Elder Watershed](https://water.usgs.gov/lookup/getwatershed?10040204)) as a Central Montana Example that corresponds to where we taught the [2019 WLFW NRCS Low-Tech Riparian Restoration Workshop](http://lowtechpbr.restoration.usu.edu/workshops/2019/SGI/Venues/mt.html) (In Roy for fieldwork and Lewistown for classroom)
-- [BRAT for HUC 10020003](https://webrave.riverscapes.xyz/#/BLM/3e6c40d8-2f2f-4460-b7de-e8b98fb4eb06) ([Ruby Watershed](https://water.usgs.gov/lookup/getwatershed?10020003)) as a Western Montana Example
+- [BRAT for HUC 10090102](https://webrave.riverscapes.net/#/BLM/be01578b-2d64-4925-9af5-366c73bbf2a8) ([Lower Tongue Watershed](https://water.usgs.gov/lookup/getwatershed?10090102)) as a Eastern Montana Example
+- [BRAT for HUC 10040204](https://webrave.riverscapes.net/#/BLM/4b53e516-946f-474a-8e19-24199cfd3401) ([Box Elder Watershed](https://water.usgs.gov/lookup/getwatershed?10040204)) as a Central Montana Example that corresponds to where we taught the [2019 WLFW NRCS Low-Tech Riparian Restoration Workshop](http://lowtechpbr.restoration.usu.edu/workshops/2019/SGI/Venues/mt.html) (In Roy for fieldwork and Lewistown for classroom)
+- [BRAT for HUC 10020003](https://webrave.riverscapes.net/#/BLM/3e6c40d8-2f2f-4460-b7de-e8b98fb4eb06) ([Ruby Watershed](https://water.usgs.gov/lookup/getwatershed?10020003)) as a Western Montana Example
 
 
 
@@ -354,10 +354,10 @@ This is mainly just links that were shared as we went and a few questions and an
 
 | Time     | Who & Comment                                                |
 | -------- | ------------------------------------------------------------ |
-| 10:10:38 | Joe Wheaton : For reference today: [https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html](https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html) |
+| 10:10:38 | Joe Wheaton : For reference today: [https://riverscapes.net/About/Community/Events/2021/2021_BRAT_BLM.html](https://riverscapes.net/About/Community/Events/2021/2021_BRAT_BLM.html) |
 | 10:19:43 | Pedro Marques : Beers and Brats!                             |
 | 10:32:35 | Joe Wheaton : [https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b](https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b) |
-| 10:42:02 | Joe Wheaton : [https://data.riverscapes.xyz/#/](https://data.riverscapes.xyz/#/) |
+| 10:42:02 | Joe Wheaton : [https://data.riverscapes.net/#/](https://data.riverscapes.net/#/) |
 | 10:42:56 | Joe Wheaton : [https://docs.google.com/forms/d/e/1FAIpQLSctgJs3PbzJF5U-MvcV_2p9jRXkiOhT0Q7yK6PfCAauTtgy1Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLSctgJs3PbzJF5U-MvcV_2p9jRXkiOhT0Q7yK6PfCAauTtgy1Q/viewform) |
 | 11:23:27 | Pedro Marques : Act like them                                |
 | 11:23:37 | Sierra Harris : Educating landowners                         |
@@ -365,23 +365,23 @@ This is mainly just links that were shared as we went and a few questions and an
 | 11:23:56 | tprobert : Develop Analogues                                 |
 | 11:24:09 | tprobert : transplant willow                                 |
 | 11:29:12 | Pedro Marques : wow. fantastic analogy                       |
-| 11:34:43 | Joe Wheaton : [https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#dam-count-exercise](https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#dam-count-exercise) |
+| 11:34:43 | Joe Wheaton : [https://riverscapes.net/About/Community/Events/2021/2021_BRAT_BLM.html#dam-count-exercise](https://riverscapes.net/About/Community/Events/2021/2021_BRAT_BLM.html#dam-count-exercise) |
 | 12:01:47 | Joe Wheaton : [https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b](https://www.arcgis.com/apps/webappviewer/index.html?id=f26958e584384ea89e6c5fc0d3775d1b) |
 | 12:03:54 | Joe Wheaton : We're breaking for lunch. Will resume at 12:35 |
 | 12:36:26 | Joe Wheaton : Can folks either flash or turn on their video or give a reaction so we know you're back |
 | 12:39:15 | Pedro Marques : here                                         |
 | 12:45:14 | Joe Wheaton : You guys are doing exactly what we're after.   |
-| 12:51:01 | wally : [https://brat.riverscapes.xyz/Documentation/Outputs/Glossary](https://brat.riverscapes.xyz/Documentation/Outputs/Glossary) |
-| 13:00:06 | Joe Wheaton : [https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#optional](https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#optional) |
-| 13:21:03 | Joe Wheaton : [https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#brat-capacity-inference-system---paper-form](https://riverscapes.xyz/About/Community/Events/2021/2021_BRAT_BLM.html#brat-capacity-inference-system---paper-form) |
+| 12:51:01 | wally : [https://brat.riverscapes.net/Documentation/Outputs/Glossary](https://brat.riverscapes.net/Documentation/Outputs/Glossary) |
+| 13:00:06 | Joe Wheaton : [https://riverscapes.net/About/Community/Events/2021/2021_BRAT_BLM.html#optional](https://riverscapes.net/About/Community/Events/2021/2021_BRAT_BLM.html#optional) |
+| 13:21:03 | Joe Wheaton : [https://riverscapes.net/About/Community/Events/2021/2021_BRAT_BLM.html#brat-capacity-inference-system---paper-form](https://riverscapes.net/About/Community/Events/2021/2021_BRAT_BLM.html#brat-capacity-inference-system---paper-form) |
 | 13:58:43 | jbuckmaster : Thanks everyone! I've got to jump onto another call. |
 | 14:00:56 | Sierra Harris : Yes, great training. Thank you!              |
 | 14:02:03 | cmorris: Thanks for the excellent training.  GOOD JOB!!!!    |
 | 14:03:39 | Pedro Marques : I have a workflow question I'll stick around for once other convos are done |
-| 14:04:51 | Joe Wheaton : [https://tools.riverscapes.xyz/brat/](https://tools.riverscapes.xyz/brat/) |
+| 14:04:51 | Joe Wheaton : [https://tools.riverscapes.net/brat/](https://tools.riverscapes.net/brat/) |
 | 14:05:24 | Jordan G : jtgilbert89@gmail.com                             |
 | 14:06:07 | Helen Sladek: Thanks for putting this on!                    |
 | 14:07:59 | Miranda Brenna : Thank you!                                  |
 | 14:08:04 | Zac Salada : Thanks for putting it on.                       |
 | 14:08:17 | kkraus : thank you                                           |
-| 14:53:29 | Joe Wheaton : [http://rave.riverscapes.xyz](http://rave.riverscapes.xyz) |
+| 14:53:29 | Joe Wheaton : [http://rave.riverscapes.net](http://rave.riverscapes.net) |

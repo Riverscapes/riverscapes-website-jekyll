@@ -3,9 +3,9 @@ title: Home
 ---
 <div align="center">
 
-<a href="http://data.riverscapes.xyz" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Get Data Now</b> <i class="fa fa-cloud-download" aria-hidden="true"></i><br> from Riverscapes Warehouse </a>
+<a href="http://data.riverscapes.net" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Get Data Now</b> <i class="fa fa-cloud-download" aria-hidden="true"></i><br> from Riverscapes Warehouse </a>
 <a class="hollow button" href="{{ site.baseurl }}/Data_Warehouses"><i class="fa fa-cloud" aria-hidden="true"></i> <b>About</b><br> RC Data Warehouse </a>
-<a class="hollow button" href="http://maps.riverscapes.xyz"><i class="fa fa-globe" aria-hidden="true"></i> RC Interactive<br> Web <b>Maps</b> <i class="fa fa-location-arrow" aria-hidden="true"></i></a>
+<!-- <a class="hollow button" href="http://maps.riverscapes.net"><i class="fa fa-globe" aria-hidden="true"></i> RC Interactive<br> Web <b>Maps</b> <i class="fa fa-location-arrow" aria-hidden="true"></i></a> -->
 <a class="hollow button" href="https://github.com/riverscapes"> <i class="fa fa-github" aria-hidden="true"></i> RC <b>Open Source</b><br> Tools on Github </a>
 <a class="hollow button" href="{{ site.baseurl }}/Tools"> <img src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_32.png">  RC-Compliant <br> <b>Tools</b> <i class="fa fa-wrench" aria-hidden="true"></i></a>
 
@@ -39,9 +39,9 @@ The RC tackles these challenges buy supporting a stronger, more collaborative ri
 Note the **F**-**A**-**I**-**R**, correspond to the **f**indable, **a**ccessible, **i**nteroperable and **r**e-useable [Principles](https://force11.org/info/the-fair-data-principles/) (Wilkinson et al. [2016](https://www.nature.com/articles/sdata201618)), which the RC strives towards and helps facilitate the riverscapes community follow. 
 
 <div align="center">
-<a href="http://data.riverscapes.xyz" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Get Data Now</b> <i class="fa fa-cloud-download" aria-hidden="true"></i><br> from Riverscapes Warehouse </a>
+<a href="http://data.riverscapes.net" class="hollow button"><img src="{{ site.baseurl }}/assets/images/data/RiverscapesWarehouseCloud_32png.png">  <b>Get Data Now</b> <i class="fa fa-cloud-download" aria-hidden="true"></i><br> from Riverscapes Warehouse </a>
 <a class="hollow button" href="{{ site.baseurl }}/Data_Warehouses"><i class="fa fa-cloud" aria-hidden="true"></i> <b>About</b><br> RC Data Warehouse </a>
-<!-- <a class="hollow button" href="http://maps.riverscapes.xyz"><i class="fa fa-globe" aria-hidden="true"></i> RC Interactive<br> Web <b>Maps</b> <i class="fa fa-location-arrow" aria-hidden="true"></i></a> -->
+<!-- <a class="hollow button" href="http://maps.riverscapes.net"><i class="fa fa-globe" aria-hidden="true"></i> RC Interactive<br> Web <b>Maps</b> <i class="fa fa-location-arrow" aria-hidden="true"></i></a> -->
 <a class="hollow button" href="https://github.com/riverscapes"> <i class="fa fa-github" aria-hidden="true"></i> RC <b>Open Source</b><br> Tools on Github </a>
 <a class="hollow button" href="{{ site.baseurl }}/Tools"> <img src="{{ site.baseurl }}/assets/images/rc/RiverscapesCompliant_32.png">  RC-Compliant <br> <b>Tools</b> <i class="fa fa-wrench" aria-hidden="true"></i></a>
 <a class="hollow button" href="http://lowtechpbr.restoration.usu.edu/"><img src="{{ site.baseurl }}/assets/images/PBR-LT_round_30.png"> Low-Tech Process-Based Restoration of Riverscapes Resources</a>

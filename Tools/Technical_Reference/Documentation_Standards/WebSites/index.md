@@ -11,8 +11,8 @@ Tool developers can use the following material to learn how to write, test and p
 
 GitHub can build a web site for your tool from simple text files stored in your repo! This is an excellent way to quickly and easily build a professional, polished documentation site for your tool that users can read to learn more about how it works. The beauty of this approach is that all you need to write are simple text files using the [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax. No understanding of web technology is required! Here are a couple of examples:
 
-* [GCD](http://gcd.riverscapes.xyz)
-* [PyBRAT](http://brat.riverscapes.xyz/)
+* [GCD](http://gcd.riverscapes.net)
+* [PyBRAT](http://brat.riverscapes.net/)
 
 
 # Creating a Web Site

@@ -55,11 +55,11 @@ Basic SQL is not geospatial. I recommend learning the SQL language before delvin
 
 Not convinced? As of November 2020 the outputs of the following tools are already geopackage SQLite databases:
 
-- [VBET](http://vbet.riverscapes.xyz)
-- [Confinement](http://confinement.riverscapes.xyz)
-- [RVD](http://rcat.riverscapes.xyz)
+- [VBET](http://vbet.riverscapes.net)
+- [Confinement](http://confinement.riverscapes.net)
+- [RVD](http://rcat.riverscapes.net)
 
-We will soon migrate [BRAT](http://brat.riverscapes.xyz) to output a SQLite geopackage and stop using ShapeFiles. The new reach typing tool for the Mississippi, as well as [GNAT](http://gnat.riverscapes.xyz/) will also use databases. Our reporting technology also relies on SQLite.
+We will soon migrate [BRAT](http://brat.riverscapes.net) to output a SQLite geopackage and stop using ShapeFiles. The new reach typing tool for the Mississippi, as well as [GNAT](http://gnat.riverscapes.net/) will also use databases. Our reporting technology also relies on SQLite.
 
 -----------
 # Summary

@@ -43,7 +43,7 @@ From our participants in this summit, the following monitoring programs are wort
 - Beardsley M, Johnson B, Doran J. 2015. FACStream 1.0 (2015) Functional Assessment of Colorado Streams
 - NRCS. 2009. [Stream Visual Assessment Protocol Version 2: Part 614](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb1043252.pdf). In National Biology Handbook, . USDA Natural Resources Conservation Service; 75.
 -  Toevs GR, Karl JW, Taylor JJ, Spurrier CS, Bobo MR, Herrick JE. 2011. [Consistent Indicators and Methods and a Scalable Sample Design to Meet Assessment, Inventory, and Monitoring Information Needs Across Scales](https://aim.landscapetoolbox.org/wp-content/uploads/2015/09/Consistent-Indicators-and-a-Scalable-Sample-Design-to-Meet-Assessment-Inventory-and-Monitoring-Needs-Across-Scales_Toevs.pdf). Rangelands: 7. - See [AIM](https://aim.landscapetoolbox.org/)
-- Weber N, Wathen, G, and Bouwes, N. 2020. [Low-Tech Process Based Restoration Project Implementation and Monitoring Protocol](https://github.com/Riverscapes/fmLTPBR/releases/download/v1.0.0/LTPBR-Monitoring-V1.pdf). Prepared By: Eco Logical Research. Prepared for: [Oregon Watershed Enhancement Board](https://www.oregon.gov/oweb/Pages/index.aspx). - See [website](https://fmltpbr.riverscapes.xyz/).
+- Weber N, Wathen, G, and Bouwes, N. 2020. [Low-Tech Process Based Restoration Project Implementation and Monitoring Protocol](https://github.com/Riverscapes/fmLTPBR/releases/download/v1.0.0/LTPBR-Monitoring-V1.pdf). Prepared By: Eco Logical Research. Prepared for: [Oregon Watershed Enhancement Board](https://www.oregon.gov/oweb/Pages/index.aspx). - See [website](https://fmltpbr.riverscapes.net/).
 
 ### Example of Conceptually Similar Framework for Rangeland Health
 
@@ -105,9 +105,9 @@ As for  overall agenda, it will proceed roughly as follows:
 
 ### Day 2 Resources
 
-1. Visit [http://data.riverscapes.xyz](http://data.riverscapes.xyz) and register for an account if you do not have one. Then email info@northarrowresearch.com to get access (or send him a private chat in the Zoom).
+1. Visit [http://data.riverscapes.net](http://data.riverscapes.net) and register for an account if you do not have one. Then email info@northarrowresearch.com to get access (or send him a private chat in the Zoom).
 
-2. Once you have access, we will primarily being playing in [https://data.riverscapes.xyz/#/BEAR](https://data.riverscapes.xyz/#/BEAR)
+2. Once you have access, we will primarily being playing in [https://data.riverscapes.net/#/BEAR](https://data.riverscapes.net/#/BEAR)
 
 Today, we will do a "[LTPBR Conservation Planning Process](http://lowtechpbr.restoration.usu.edu/manual/chap03/)" exercise as a whole group. Although the purpose of this summit and framework IS NOT just to focus on LTPBR, a planning assessment for LTPBR is a perfect example to ground our discussion (there are many others we could choose). The exercise we will do is based on:
 - [E. Risk Assessment, Condition Assessment, & Recovery Potential](http://lowtechpbr.restoration.usu.edu/workshops/2020/SGI/Modules/module3#e-risk-assessment-condition-assessment--recovery-potential)
@@ -124,7 +124,7 @@ To do the exercises, you will need  to:
 
 ### Riverscapes Consortium Sample Projects
 
-Visit [http://data.riverscapes.xyz](http://data.riverscapes.xyz) and register for an account if you do not have one. Then email info@northarrowresearch.com to get access (or send him a private chat in the Zoom).
+Visit [http://data.riverscapes.net](http://data.riverscapes.net) and register for an account if you do not have one. Then email info@northarrowresearch.com to get access (or send him a private chat in the Zoom).
 
 ## Summit Videos
 
