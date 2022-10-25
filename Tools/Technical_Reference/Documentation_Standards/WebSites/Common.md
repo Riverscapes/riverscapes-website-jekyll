@@ -36,7 +36,7 @@ However, for regular markdown there is still an option that includes a preview o
 Use the following syntax and substitute in your YouTube video ID for `YTID`:
 ``` markdown
 [![Alt-text](https://img.youtube.com/vi/YTID/0.jpg)](https://www.youtu.be/watch?v=YTID)
-``` 
+```
 For example, using the above id of `4UKe5BkzJEY` for `YTID` would show up as: <br>
 [![Alt-text](https://img.youtube.com/vi/4UKe5BkzJEY/0.jpg)](https://www.youtu.be/watch?v=4UKe5BkzJEY)
 
@@ -46,7 +46,7 @@ Note subsituting `1.jpg` for `0.jpg` switches to a thumbnail size. <br>
 Finally, if you want to make the hyperlink open in a new tab, use:
 ``` markdown
 [![Alt-text](https://img.youtube.com/vi/YTID/0.jpg)](https://www.youtu.be/watch?v=YTID){:target="_blank"}
-``` 
+```
 
 ------
 ### Embedding an Image
@@ -177,3 +177,69 @@ If I have a GIST (e.g. [this one](https://gist.github.com/joewheaton/002acd9ea72
 
 
 <script src="https://gist.github.com/joewheaton/002acd9ea725f6d4a1bac38ee9a0dd50.js"></script>
+
+-----
+
+## Add a Google Search Bar for your Site
+
+If you want a Google Search Bar for your site, use Google's [Programmable Search Engine](https://programmablesearchengine.google.com/controlpanel/all). You have to Add your search engine, and in it tell it `what site() to search?` (e.g. for GCD it might be `gcd/riverscapes.net/*`) 
+
+It then gives you some code (e.g.):
+```
+<script async src="https://cse.google.com/cse.js?cx=31c6cfa7b5dba45da">
+</script>
+<div class="gcse-search"></div>
+```
+that correspondes to a search bar:
+<script async src="https://cse.google.com/cse.js?cx=31c6cfa7b5dba45da">
+</script>
+<div class="gcse-search"></div>
+
+You can customize the look and feel as well. 
+
+-----
+## Add a DOI with Zenodo for your Website or Tool
+
+[Zedondo](https://zenodo.org/) provides an easy way to make your website citeable, trackable and indexed. You can even make your contribution part of the [Riverscape Consortium Zeondo Community]()
+
+1. Create a Zenodo account (preferably linked you your [ORCID](https://orcid.org))
+2. Link your GitHub account in your profile.
+3. Click on GitHub in your settings. You will have access to all your repositories. 
+4. Flip the switch to enable Zenodo tracking of your repository. Do this before creating a release.
+5. Create a release (once tracking, Zenodo will automatically download a .zip-ball of each new release and register a DOI.)
+6. Get your badge!
+
+For example, for the [Low-Tech PBR website](http://lowtechpbr.restoration.usu.edu), it generated this badge: [![DOI](https://zenodo.org/badge/156031626.svg)](https://zenodo.org/badge/latestdoi/156031626) and provided the following markdown:
+
+```
+[![DOI](https://zenodo.org/badge/156031626.svg)](https://zenodo.org/badge/latestdoi/156031626)
+```
+
+The Zeondo Entry also then provides a suggested citation!  We've been adding these to our site `footer.html`. For example for GCD we used:
+
+```
+<div class="float-left">
+        To cite content from this site use:<br>  <a href="https://doi.org/10.5281/zenodo.7248344"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7248344.svg" alt="DOI"></a>
+
+</div>
+
+<div class="float-right">
+    The <a href="https://github.com/Riverscapes/GCD">GCD</a> <i class="fa fa-github" aria-hidden="true"></i> site is licensed under a <a href="https://github.com/Riverscapes/gcd/blob/master/LICENSE">GNU General Public License v3.0</a>,<br> and some specific content is licensed with
+      <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
+        <img src="{{site.baseurl}}/assets/images/cc-watermarks-riverscapes_orig.png" alt="Picture">
+    </a>
+    <br>&nbsp;
+</div>
+```
+<div class="float-left">
+        To cite content from this site use:<br>  <a href="https://doi.org/10.5281/zenodo.7248344"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7248344.svg" alt="DOI"></a>
+
+</div>
+
+<div class="float-right">
+    The <a href="https://github.com/Riverscapes/GCD">GCD</a> <i class="fa fa-github" aria-hidden="true"></i> site is licensed under a <a href="https://github.com/Riverscapes/gcd/blob/master/LICENSE">GNU General Public License v3.0</a>,<br> and some specific content is licensed with
+      <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
+        <img src="{{site.baseurl}}/assets/images/cc-watermarks-riverscapes_orig.png" alt="Picture">
+    </a>
+    <br>&nbsp;
+</div>
