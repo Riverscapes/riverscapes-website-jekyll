@@ -5,15 +5,23 @@ weight: 3
 ## The Problem
 One of the most significant barriers to effective collaboration and leveraging of past work is being able to access and share any tool or model output or analysis, within the transparent context of the inputs and methods from which it was produced (Wilkinson et al. 2016).  "Just send me the data", is rarely actually that simple. Plus, one of the hallmarks of scientific rigor is *reproducibility*. 
 
-However, given the complexity of so many of the tools and workflows, "can I get the data?" is an easy thing to say, but a very difficult thing to do properly. **The Riverscapes community desperately needs data standards and simple tools for sharing data** ([Fryirs et al. 2019](http://dx.doi.org/10.1002/wat2.1372)). 
+### <i class="fa fa-share-alt" aria-hidden="true"></i> Sharing is Expected... and Easier Today
+Sharing used to be techncially difficult, but today is easy. Many great tools now exist for sharing data (typically as a zip <i class="fa fa-file-archive-o" aria-hidden="true"></i> file) to comply with open access and data sharing requirements:
+<div align="center">
+<a href="https://zenodo.org/" ><img src="{{ site.baseurl }}/assets/images/logos/zenodo.png"> &nbsp;</a>  
+<a href="https://figshare.com/">   &nbsp; &nbsp;<img src="{{ site.baseurl }}/assets/images/logos/figshare-logo_150.png">  </a>
+<a href="https://www.hydroshare.org/" width="200">   &nbsp; &nbsp; &nbsp;<img src="{{ site.baseurl }}/assets/images/logos/hydroshare.png"></a>
+</div>
+
+However, it can be difficult to use those platforms to make **riverscapes specific** data more easily consumable, explorable and useful to your audiences. Especially given the complexity of so many riverscapes tools and workflows, "can you make the data available?" is an easy thing to coply with by uploading a zip file to one of the services above, but a very difficult thing to do properly. **We assert the Riverscapes community desperately needs data standards and simple tools for more effective sharing of riverscapes-specific data** ([Fryirs et al. 2019](http://dx.doi.org/10.1002/wat2.1372)). 
 
 <div align="center">
 	<img src="{{ site.baseurl }}/assets/images/data/CanIGetData.png">
 </div>
 
+In an era of "big data", it is easy to get overwhelmed without appropriate context. Unfortunately, context means metadata, and very few researchers and practitioners have the time or are likely to produce that metadata manually. However, failure to do so contributes to "dark knowledge" (censu [Jeschke et al. 2019](https://dx.doi.org/10.1139/facets-2019-0007)) through *inaccessible data and information*, and we *can* do better. We need to better leverage each other's work, but we often do not because it is takes too much time.
 
-
-In an era of "big data", it is easy to get overwhelmed without appropriate context. Unfortunately, context means metadata, and very few researchers and practitioners have the time or are likely to produce that metadata manually. However, failure to do so contributes to "dark knowledge" (censu [Jeschke et al. 2019](https://dx.doi.org/10.1139/facets-2019-0007)) through *inaccessible data and information*, and we *can* do better.
+## A Better way for the Riverscapes Community
 
 <div class="row small-up-2 medium-up-2">
   <div class="column">
