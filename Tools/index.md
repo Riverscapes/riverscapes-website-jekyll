@@ -3,7 +3,7 @@ title: Tools
 weight: 3
 ---
 
-<img class="float-left" src="{{ site.baseurl }}/assets/images/rc/tool.png">[Contriubtors](https://github.com/Riverscapes) to the RC have been prolific in developing and vetting the science and theoretical underpinnings essential to understanding and explaining how riverscapes work and are organized across a range of nested hierarchical spatial scales. We have also committed to building [open-source algorithms](https://github.com/Riverscapes) <i class="fa fa-github" aria-hidden="true"></i> tools to make it easier for researchers, professionals, practitioners and students to apply those concepts to their own riverscapes and disseminate [FAIR](https://www.go-fair.org/fair-principles/) tools and [outputs from those tools](https://riverscapes.net/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/).
+<img class="float-left" src="{{ site.baseurl }}/assets/images/rc/tool.png">[Contributors](https://github.com/Riverscapes) to the RC have been prolific in developing and vetting the science and theoretical underpinnings essential to understanding and explaining how riverscapes work and are organized across a range of nested hierarchical spatial scales. We have also committed to building [open-source algorithms](https://github.com/Riverscapes) <i class="fa fa-github" aria-hidden="true"></i> tools to make it easier for researchers, professionals, practitioners and students to apply those concepts to their own riverscapes and disseminate [FAIR](https://www.go-fair.org/fair-principles/) tools and [outputs from those tools](https://riverscapes.net/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/).
 
 
 
