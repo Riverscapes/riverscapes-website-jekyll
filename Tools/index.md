@@ -33,7 +33,7 @@ All tools ranked as RC-Compliant <img src="{{ site.baseurl }}/assets/images/rc/R
 | |Resolution|Extent|Language|[Interface]({{ site.baseurl }}/Tools/discrimination#interface)|[Status]({{ site.baseurl }}/Tools/discrimination#tool-grade)|
 |---|---|---|---|---|---|
 |**Exploratory Tools for Visualizing Riverscapes Projects**||||||
-|[WebRAVE](http://rave.riverscapes.net/)|Any|Any|react, javascript|<i class="fa fa-chrome" aria-hidden="true"></i>|Commercial Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_7_32p.png">|
+|[WebRAVE](http://rave.riverscapes.net/)|Any|Any|react, javascript|<i class="fa fa-chrome" aria-hidden="true"></i> & <img  src="{{ site.baseurl }}/assets/images/data/api_24.png">|Commercial Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_7_32p.png">|
 |[QRAVE](http://rave.riverscapes.net/)|Any|Any|Python|<img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png">|Professional-Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png"> |
 |[ArcRAVE](http://rave.riverscapes.net/)|Any|Any|C#|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Professional-Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png"> |
 |**Reach Scale Tools**||||||
