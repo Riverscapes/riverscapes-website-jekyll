@@ -4,7 +4,11 @@ weight: 4
 ---
 
 # Tool Discrimination
-The following concpets are helpful for discriminating model types.
+Discriminating tools helps potential users of the tool or users of its outputs make informed decision about whether the tool and/or its ouputs are fit for _their_ purposes. The following are helpful concepts  the RC uses for discriminating model types:
+
+Interface
+Tool-Grade (using adaptation of NASA's Technological Readiness Levels)
+Report Cards
 
 ## Interface
 
@@ -42,13 +46,18 @@ Minimal or In Progress: <i class="fa fa-battery-quarter" aria-hidden="true"></i>
 Functional: <i class="fa fa-battery-half" aria-hidden="true"></i> •
 Fully Developed: <i class="fa fa-battery-full" aria-hidden="true"></i>  
 
-**NOTE** - The RC does not track concepts or proof of concept tools in its listing. Only 
+**NOTE** - The RC does not track concepts or proof of concept tools in its listing. 
+
+### 
 
 ### Technological Readiness Levels
-These ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) (TRLs), as originally developed by NASA. The TRLs provide a way to discriminate between concepts and products that are in research phases, in development phases, or ready for deployment to broader audiences or makert. TRLs are  illustrated below (from [twi-global](https://www.twi-global.com/technical-knowledge)) and formally defined by the European Union:
+These tool-grade ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) (TRLs), as originally developed by NASA. The TRLs provide a way to discriminate between concepts and products that are in research phases, in development phases, or ready for deployment to broader audiences or makert. TRLs are  illustrated below (from [twi-global](https://www.twi-global.com/technical-knowledge)) and formally defined by the European Union:
 
 <div align="center">
 <a href=""><img src="{{ site.baseurl }}/assets/images/tools/TRL.png"></a></div>
+
+
+
 
 ------
 # Why Bother? Why Go Beyond Research-Grade?
