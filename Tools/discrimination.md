@@ -4,14 +4,22 @@ weight: 4
 ---
 
 # Tool Discrimination
-Discriminating tools helps potential users of the tool or users of its outputs make informed decision about whether the tool and/or its ouputs are fit for _their_ purposes. The following are helpful concepts  the RC uses for discriminating model types:
+<img class="float-right" src="{{ site.baseurl }}/assets/images/tools/DifferentTools.png"> Discriminating tools helps potential users of the tool or users of its outputs make informed decision about whether the tool and/or its ouputs are fit for _their_ purposes. The following are helpful concepts  the RC uses for discriminating model types:
 - [Interface](#interface)
 - [Tool-Grade](#tool-grade) (using adaptation of NASA's [Technological Readiness Levels](#technological-readiness-levels))
 - [Report Cards]({{ site.baseurlf }}/Tools/reportcards.html)
 
+What exactly is the tool itself? Tools can be defined as<sup><a href="https://www.merriam-webster.com/dictionary/tool">1</a></sup>:
+> a: something (such as an instrument or apparatus) used in performing an operation or necessary in the practice of a vocation or profession.  *a scholar's books are his tools*
+> 
+> b: an element of a computer program (such as a graphics application) that activates and controls a particular function. *a drawing tool*
+
+Here, we are referring to **tools** as a computer program  (similar to b), that takes input data, operates on it and produces output(s). We do not consider **tools** to be the many individual commands or functions within a specific tool (some might call such tools a toolset, or toolbox). However, we recognize that for many audiences and end-users, the output data alone is itself a "tool" to inform practice or decision making (e.g. [BRAT](http://brat.riverscapes.net)). However, in those instances the user might be more effectively consuming the ouptuts of a **tool** (or model, similar to definition a above) via something like the [Riverscapes Viewer](https://rave.riverscapes.net) or our [Riverscapes Warehouse]({{ site.baseurl }}/Data_Warehouses/) . 
+
+
 ## Interface
 
-RC tools are deployed to users thorugh a variety of interfaces:
+RC**tools** are deployed to users thorugh a variety of interfaces:
 * <img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png"> :  [ArcGIS AddIn](https://desktop.arcgis.com/en/arcmap/10.7/guide-books/python-addins/sharing-and-installing-add-ins.htm)  ArcGIS [AddIn Toolbar](https://desktop.arcgis.com/en/arcmap/10.7/analyze/python-addins/sharing-and-installing-add-ins.htm) in ArcGIS
 * <img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png">:  [ArcPy Toolbox in ArcGIS](https://desktop.arcgis.com/en/arcmap/10.7/analyze/creating-tools/a-quick-tour-of-python-toolboxes.htm)
 * <img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png"> [QGIS Plugin](https://plugins.qgis.org/) = Toolbar in [QGIS](https://qgis.org)
@@ -67,7 +75,7 @@ RC does not track "tools" before they exist, but the idea of a concept-grade is 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_256w.png"> 
 **Proof-of-Concept-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_32p.png"> *is a stage in which some preliminary form of a tool has been built, and the tool has been demonstrated to "work" by producing reasonalbe outputs for an example dataset.* 
 
-The vast majority of research papers published in the riverscape sciences that use a tool the author(s) developed are using proof-of-concept-grade tools. That is to say, the results produced are scientifically defensible, the methods described are also defensible, and the investigators executed those methods with tools (e.g. source code and scripts) or workflows that they authored and developed. However, another investigator wishing to repeat the work or apply the workflow to their own dataset would likely be unable to *use* the tool of the authors (even if it was OpenSource). 
+The vast majority of research papers published in the riverscape sciences that use a tool the author(s) developed are using proof-of-concept-grade tools. That is to say, the results produced are scientifically defensible, the methods described are also defensible, and the investigators executed those methods with tools (e.g. source code and scripts) or workflows that they authored and developed. However, another investigator wishing to repeat the work or apply the workflow to their own dataset would  be unlikely able to *use* the tool of the authors (even if it was OpenSource) without signficant refactoring or manipulation. 
 
 
 -------
@@ -117,7 +125,7 @@ Some explanation.
 
 -----
 ## Technological Readiness Levels
-These tool-grade ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) (TRLs), as originally developed by NASA. The TRLs provide a way to discriminate between concepts and products that are in research phases, in development phases, or ready for deployment to broader audiences or makert. TRLs are  illustrated below (from [twi-global](https://www.twi-global.com/technical-knowledge)) and formally defined by the European Union:
+These tool-grade ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) (TRLs), as originally developed by NASA. The TRLs provide a way to discriminate between concepts and products that are in research phases, in development phases, or ready for deployment to broader audiences or makert. TRLs are  illustrated below (from [twi-global](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) and formally defined by the European Union:
 
 <div align="center">
 <a href=""><img src="{{ site.baseurl }}/assets/images/tools/TRL.png"></a></div>
