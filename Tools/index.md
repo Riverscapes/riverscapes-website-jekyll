@@ -23,7 +23,7 @@ Tools are designated as "*riverscapes-compliant*"  when they meet the following 
 - Code produces [riverscapes projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="{{ site.baseurl }}/assets/images/data/RiverscapesProject_24.png"> as output of all analyses
 - Project Type is registered with [`program.xml`]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/Program/) in [Program Repo](https://github.com/Riverscapes/RiverscapesXML)  
 - Source-Code is open-source and [FAIR](https://force11.org/info/the-fair-data-principles/)
-- Has been vetted by the RS Science Committee (i.e. has a "Report Card")
+- Has been vetted by the RS Science Committee (i.e. has a "[Report Card]({{ site.baseurl }}/Tools/reportcards.html) ")
 
 
 ## Riverscapes Compliant Tools
