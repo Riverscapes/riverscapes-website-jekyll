@@ -5,10 +5,9 @@ weight: 4
 
 # Tool Discrimination
 Discriminating tools helps potential users of the tool or users of its outputs make informed decision about whether the tool and/or its ouputs are fit for _their_ purposes. The following are helpful concepts  the RC uses for discriminating model types:
-
-Interface
-Tool-Grade (using adaptation of NASA's Technological Readiness Levels)
-Report Cards
+- [Interface](#interface)
+- [Tool-Grade](#tool-grade) (using adaptation of NASA's [Technological Readiness Levels](#technological-readiness-levels))
+- [Report Cards]({{ site.baseurlf }}/Tools/reportcards.html)
 
 ## Interface
 
@@ -26,20 +25,23 @@ Most tools have just one deployment interface, some have multiple.
 
 ## Tool Grade
 We classify the grade of our tools according to their growth from innovative research ideas, through to operational tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployablle professional tools that are robust and usable by any user in very diffferent settings.
+<div align="center">
+    <img src="{{ site.baseurl }}/assets/images/tools/grade/Tool_Badges_wText_All_700w.png">
+</div>
 
-Our [RC Techncial Committee]({{ site.baseurl }}\About\) ranks a **tool's grade** using the following criteria:
+Our [RC Techncial Committee]({{ site.baseurl }}\About\) ranks a **tool's grade** status using the following criteria:
 
 
 
-| Technology<br>Readiness Level | Tool Status |Badge | Vetted in <br>Peer-Reviewed <br>Literature | Source Code <br>Documentation | Open Source | User <br>Documentation | Easy User <br>Interface | Scalability |
+| [Technology<br>Readiness Level](#technological-readiness-levels) | Tool Status |Badge | Vetted in <br>Peer-Reviewed <br>Literature | Source Code <br>Documentation | Open Source | User <br>Documentation | Easy User <br>Interface | Scalability |
 |:-----------------------------:|------------------------|:------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| TR1 -TR2 |**Concept**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_1_32p.png"> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> |
-| TR3 |**Proof of Concept**| <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i><br>to<br><i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> |
-| TR4 |**Research Grade**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> <br>to<br> <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i><br>to<br> <i class="fa fa-battery-quarter" aria-hidden="true"></i> |
-| TR5-6 | **Operational Grade**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png">| <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> |
-| TR7-8 |**Professional Grade**| <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_5_32p.png"> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-half" aria-hidden="true"></i> |
-| TR8-9 |**Production Grade**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png">   | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> <br>to<br><i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> |
-| TR9 | **Commercial Grade**|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> |
+| TR1 -TR2 |[**Concept**](#concept)|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_1_32p.png"> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> |
+| TR3 |[**Proof of Concept**](#proof-of-concept)| <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i><br>to<br><i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i> |
+| TR4 |[**Research Grade**](#research-grade)|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> <br>to<br> <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-empty" aria-hidden="true"></i><br>to<br> <i class="fa fa-battery-quarter" aria-hidden="true"></i> |
+| TR5-6 | [**Operational Grade**](#operational-grade)|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png">| <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-half" aria-hidden="true"></i> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> |
+| TR7-8 |[**Professional Grade**](#professional-grade)| <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_5_32p.png"> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-half" aria-hidden="true"></i> |
+| TR8-9 |[**Production Grade**](#production-grade)|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png">   | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-quarter" aria-hidden="true"></i> <br>to<br><i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> |
+| TR9 | [**Commercial Grade**](#commercial-grade)|<img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_7_32p.png">  | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"></i> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> | <i class="fa fa-battery-full" aria-hidden="true"> |
 
 None or Not Applicable: <i class="fa fa-battery-empty" aria-hidden="true"></i> •
 Minimal or In Progress: <i class="fa fa-battery-quarter" aria-hidden="true"></i> •
@@ -48,9 +50,73 @@ Fully Developed: <i class="fa fa-battery-full" aria-hidden="true"></i>
 
 **NOTE** - The RC does not track concepts or proof of concept tools in its listing. 
 
-### 
+-------
+### Tool Grades Explained
+Below we elaborate definitions for each tool-grade.
 
-### Technological Readiness Levels
+-------
+#### Concept
+<img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_1_256w.png"> **Concept-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_1_32p.png"> *is the necessary pre-cursor stage to development of any tool, in which the ideas are articulated for what the tool does, what its inputs are, what its outputs are and who its audience might be.* 
+
+Research begins with ideas, and we formalize those ideas into hypotheses and concpets. Before we make an actual "tool", we might articulate a concept, sketch out how it might work (a concpetual model or diagram), or even write some psudo code. Concepts are typically what gets pitched or proposed for research proposals, and sometimes in agenda-setting or state-of-the-science papers.
+
+RC does not track "tools" before they exist, but the idea of a concept-grade is helpful and explit from NASA's original [technological readniess levels](#technological-readiness-levels).
+
+-------
+#### Proof-of-Concept
+<img class="float-right" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_256w.png"> 
+**Proof-of-Concept-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_32p.png"> *is a stage in which some preliminary form of a tool has been built, and the tool has been demonstrated to "work" by producing reasonalbe outputs for an example dataset.* 
+
+The vast majority of research papers published in the riverscape sciences that use a tool the author(s) developed are using proof-of-concept-grade tools. That is to say, the results produced are scientifically defensible, the methods described are also defensible, and the investigators executed those methods with tools (e.g. source code and scripts) or workflows that they authored and developed. However, another investigator wishing to repeat the work or apply the workflow to their own dataset would likely be unable to *use* the tool of the authors (even if it was OpenSource). 
+
+
+-------
+#### Research Grade
+<img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_256w.png"> 
+
+**Research-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_32p.png"> *is defined as.* 
+
+Some explanation.
+
+Research-grade tools straddle the "research" and "developement" [TRLs](#technological-readiness-levels), where some degree of validation of the outputs and its potential utility has been demonstrated. However, the tool's application or utility for users outside the developers research group is limited. 
+
+-------
+#### Operational-Grade
+<img class="float-right" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_256w.png"> 
+
+**Operational-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_4_32p.png"> *is defined as.* 
+
+Some explanation.
+
+Operational-grade tools are firmly in the "developement" [TRL](#technological-readiness-levels) realm and are based on validated and demosntrated techniques. 
+
+-------
+#### Professonal-Grade
+<img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_5_256w.png"> 
+
+**Professonal-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_5_32p.png"> *is defined as.* 
+
+Some explanation.
+
+-------
+#### Production-Grade
+<img class="float-right" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_256w.png"> 
+
+-------
+**Production-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_6_32p.png"> *is defined as.* 
+
+Some explanation.
+
+-------
+#### Commercial-Grade
+<img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_7_256w.png"> 
+
+**Commercial-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_7_32p.png"> *is defined as.* 
+
+Some explanation.
+
+-----
+## Technological Readiness Levels
 These tool-grade ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) (TRLs), as originally developed by NASA. The TRLs provide a way to discriminate between concepts and products that are in research phases, in development phases, or ready for deployment to broader audiences or makert. TRLs are  illustrated below (from [twi-global](https://www.twi-global.com/technical-knowledge)) and formally defined by the European Union:
 
 <div align="center">
@@ -59,12 +125,3 @@ These tool-grade ideas are based on the concept of [Technological Readiness Leve
 
 
 
-------
-# Why Bother? Why Go Beyond Research-Grade?
-If you've gotten to the bottom of this page, you presumably scrolled through or read a bunch of detail trying to encourage investment in making tools Riverscapes-Compliant and hopefully profossional, production or commercialized. The reason is simple. If we believe our science is good enough to inform management, inspire the public to conserve and restore riverscapes, then **we need to make the tools that represent that science scalable and accessible**. If our science is only relevant to other scientists, then we at least should meet a standard of practice of transparency and reproducability.
-
-Put another way, when we invest in scalability, and adhre to a shared set of common goals, bigger things can happen. One such example is, ironically, how Bezos led Amazon to operate. The video below is a recap of a point Philip Bailey made recently:
-
-<div class="responsive-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H_2AiyabDo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
