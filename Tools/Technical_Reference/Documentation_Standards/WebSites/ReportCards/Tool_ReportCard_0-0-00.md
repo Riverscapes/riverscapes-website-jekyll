@@ -5,6 +5,9 @@ weight: 1
 <!--- TEMPLATE  
 Replace the content sections as appropriate and copy in to your `About/Status` folder. 
 -->
+
+
+
 <img class="float-right" src="https://riverscapes.net/assets/images/tools/grade/TRL_3_128w.png" alt="TRL Grade - Needs to be updated to correct TRL grade 1-7">
 <img class="float-left" width="150" alt="Tool Logo" src=""> TOOL X  is _description/definition_.  This report card communicates TOOL X's compliance with the Riverscape Consortium's published [tool standards](https://riverscapes.net/Tools).
 
@@ -23,7 +26,7 @@ Replace the content sections as appropriate and copy in to your `About/Status` f
 
 # Report Card Details
 
-This tool's [discrimnation](https://riverscapes.net/Tools/discrimination#model-discrimination) evaluation by the [Riverscapes Consortium's](https://riverscapes.net) is:
+This tool's [discrimination](https://riverscapes.net/Tools/discrimination#model-discrimination) evaluation by the [Riverscapes Consortium's](https://riverscapes.net) is:
 
 **Evaluation Key:**
 None or Not Applicable: <i class="fa fa-battery-empty" aria-hidden="true"></i> •
