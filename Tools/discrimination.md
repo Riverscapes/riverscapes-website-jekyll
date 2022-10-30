@@ -4,7 +4,8 @@ weight: 4
 ---
 
 # Tool Discrimination
-<img class="float-right" src="{{ site.baseurl }}/assets/images/tools/DifferentTools.png"> Discriminating tools helps potential users of the tool or users of its outputs make informed decision about whether the tool and/or its ouputs are fit for _their_ purposes. The following are helpful concepts  the RC uses for discriminating model types:
+<img class="float-right" src="{{ site.baseurl }}/assets/images/tools/DifferentTools.png"> Discriminating tools helps potential users of the tool or users of its outputs make informed decision about whether the tool and/or its outputs are fit for _their_ purposes. The following are helpful concepts  the RC uses for discriminating model types:
+
 - [Interface](#interface)
 - [Tool-Grade](#tool-grade) (using adaptation of NASA's [Technological Readiness Levels](#technological-readiness-levels))
 - [Report Cards]({{ site.baseurlf }}/Tools/reportcards.html)
@@ -14,7 +15,7 @@ What exactly is the tool itself? Tools can be defined as<sup><a href="https://ww
 > 
 > b: an element of a computer program (such as a graphics application) that activates and controls a particular function. *a drawing tool*
 
-Here, we are referring to **tools** as a computer program  (similar to b), that takes input data, operates on it and produces output(s). We do not consider **tools** to be the many individual commands or functions within a specific tool (some might call such tools a toolset, or toolbox). However, we recognize that for many audiences and end-users, the output data alone is itself a "tool" to inform practice or decision making (e.g. [BRAT](http://brat.riverscapes.net)). However, in those instances the user might be more effectively consuming the ouptuts of a **tool** (or model, similar to definition a above) via something like the [Riverscapes Viewer](https://rave.riverscapes.net) or our [Riverscapes Warehouse]({{ site.baseurl }}/Data_Warehouses/) . 
+Here, we are referring to **tools** as a computer program  (similar to b), that takes input data, operates on it and produces output(s). We do not consider **tools** to be the many individual commands or functions within a specific tool (some might call such tools a toolset, or toolbox). However, we recognize that for many audiences and end-users, the output data alone is itself a "tool" to inform practice or decision making (e.g. [BRAT](http://brat.riverscapes.net)). However, in those instances the user might be more effectively consuming the outputs of a **tool** (or model, similar to definition a above) via something like the [Riverscapes Viewer](https://rave.riverscapes.net) or our [Riverscapes Warehouse]({{ site.baseurl }}/Data_Warehouses/) . 
 
 
 ## Interface
@@ -27,17 +28,17 @@ RC**tools** are deployed to users thorugh a variety of interfaces:
 * <i class="fa fa-desktop" aria-hidden="true"></i> : GUI = [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
 * <i class="fa fa-chrome" aria-hidden="true"></i>: Web = interactive web site
 * <img  src="{{ site.baseurl }}/assets/images/data/api_24.png"> : API = [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)
-* <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">:  PWA = [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_application)
+* <img src="{{ site.baseurl }}/assets/images/tools/PWA.png">:  App = [Mobile App](https://en.wikipedia.org/wiki/Mobile_app)
 
 Most tools have just one deployment interface, some have multiple. 
 
 ## Tool Grade
-We classify the grade of our tools according to their growth from innovative research ideas, through to operational tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployablle professional tools that are robust and usable by any user in very diffferent settings.
+We classify the grade of our tools according to their growth from innovative research ideas, through to operational tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployable professional tools that are robust and usable by any user in very different settings.
 <div align="center">
     <img src="{{ site.baseurl }}/assets/images/tools/grade/Tool_Badges_wText_All_700w.png">
 </div>
 
-Our [RC Techncial Committee]({{ site.baseurl }}\About\) ranks a **tool's grade** status using the following criteria:
+Our [RC Technical Committee]({{ site.baseurl }}\About\) ranks a **tool's grade** status using the following criteria:
 
 
 
@@ -66,7 +67,7 @@ Below we elaborate definitions for each tool-grade.
 #### Concept
 <img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_1_256w.png"> **Concept-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_1_32p.png"> *is the necessary pre-cursor stage to development of any tool, in which the ideas are articulated for what the tool does, what its inputs are, what its outputs are and who its audience might be.* 
 
-Research begins with ideas, and we formalize those ideas into hypotheses and concpets. Before we make an actual "tool", we might articulate a concept, sketch out how it might work (a concpetual model or diagram), or even write some psudo code. Concepts are typically what gets pitched or proposed for research proposals, and sometimes in agenda-setting or state-of-the-science papers.
+Research begins with ideas, and we formalize those ideas into hypotheses and concepts. Before we make an actual "tool", we might articulate a concept, sketch out how it might work (a conceptual model or diagram), or even write some pseudo code. Concepts are typically what gets pitched or proposed for research proposals, and sometimes in agenda-setting or state-of-the-science papers.
 
 RC does not track "tools" before they exist, but the idea of a concept-grade is helpful and explit from NASA's original [technological readniess levels](#technological-readiness-levels).
 
@@ -75,7 +76,7 @@ RC does not track "tools" before they exist, but the idea of a concept-grade is 
 <img class="float-right" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_256w.png"> 
 **Proof-of-Concept-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_2_32p.png"> *is a stage in which some preliminary form of a tool has been built, and the tool has been demonstrated to "work" by producing reasonalbe outputs for an example dataset.* 
 
-The vast majority of research papers published in the riverscape sciences that use a tool the author(s) developed are using proof-of-concept-grade tools. That is to say, the results produced are scientifically defensible, the methods described are also defensible, and the investigators executed those methods with tools (e.g. source code and scripts) or workflows that they authored and developed. However, another investigator wishing to repeat the work or apply the workflow to their own dataset would  be unlikely able to *use* the tool of the authors (even if it was OpenSource) without signficant refactoring or manipulation. 
+The vast majority of research papers published in the riverscape sciences that use a tool the author(s) developed are using proof-of-concept-grade tools. That is to say, the results produced are scientifically defensible, the methods described are also defensible, and the investigators executed those methods with tools (e.g. source code and scripts) or workflows that they authored and developed. However, another investigator wishing to repeat the work or apply the workflow to their own dataset would  be unlikely able to *use* the tool of the authors (even if it was OpenSource) without significant refactoring or manipulation. 
 
 
 -------
@@ -86,7 +87,7 @@ The vast majority of research papers published in the riverscape sciences that u
 
 Some explanation.
 
-Research-grade tools straddle the "research" and "developement" [TRLs](#technological-readiness-levels), where some degree of validation of the outputs and its potential utility has been demonstrated. However, the tool's application or utility for users outside the developers research group is limited. 
+Research-grade tools straddle the "research" and "development" [TRLs](#technological-readiness-levels), where some degree of validation of the outputs and its potential utility has been demonstrated. However, the tool's application or utility for users outside the developers research group is limited. 
 
 -------
 #### Operational-Grade
@@ -96,13 +97,13 @@ Research-grade tools straddle the "research" and "developement" [TRLs](#technolo
 
 Some explanation.
 
-Operational-grade tools are firmly in the "developement" [TRL](#technological-readiness-levels) realm and are based on validated and demosntrated techniques. 
+Operational-grade tools are firmly in the "development" [TRL](#technological-readiness-levels) realm and are based on validated and demonstrated techniques. 
 
 -------
-#### Professonal-Grade
+#### Professional-Grade
 <img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_5_256w.png"> 
 
-**Professonal-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_5_32p.png"> *is defined as.* 
+**Professional-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_5_32p.png"> *is defined as.* 
 
 Some explanation.
 
@@ -125,7 +126,7 @@ Some explanation.
 
 -----
 ## Technological Readiness Levels
-These tool-grade ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) (TRLs), as originally developed by NASA. The TRLs provide a way to discriminate between concepts and products that are in research phases, in development phases, or ready for deployment to broader audiences or makert. TRLs are  illustrated below (from [twi-global](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) and formally defined by the European Union:
+These tool-grade ideas are based on the concept of [Technological Readiness Level](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) (TRLs), as originally developed by NASA. The TRLs provide a way to discriminate between concepts and products that are in research phases, in development phases, or ready for deployment to broader audiences or market. TRLs are  illustrated below (from [TWI-global](https://www.twi-global.com/technical-knowledge/faqs/technology-readiness-levels) and formally defined by the European Union:
 
 <div align="center">
 <a href=""><img src="{{ site.baseurl }}/assets/images/tools/TRL.png"></a></div>
