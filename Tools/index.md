@@ -74,6 +74,7 @@ Tools are designated as "*pending riverscapes-compliance*" <img  src="{{ site.ba
 |[Fluvial Coridor Toolbox](https://github.com/EVS-GIS/Fluvial-Corridor-Toolbox-ArcGIS)|Cell|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/ArcPyToolbox.png"> , <img src="{{ site.baseurl }}/assets/images/tools/QGIS_bw_24.png">|Operational-Grade|
 |[MoRPHED - Model of Riverine Physical Habitat & Ecogeomorphic Dynamics](http://morphed.joewheaton.org/)|Cell|Reach|C++|<i class="fa fa-desktop" aria-hidden="true"></i> |Research-Grade|
 |[NREI - Net Rate of Energy Intake](https://github.com/Riverscapes/NREI)|Cell|Reach|R|<i class="fa fa-terminal" aria-hidden="true"></i>|Research-Grade|
+|[RIM - Riverscapes Inundation Mapper Tool](https://rim.riverscapes.net)|Cell|Reach|Python|<i class="fa fa-terminal" aria-hidden="true"></i>|[Research-Grade <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_32p.png">](https://rim.riverscapes.net/About/Status/Tool_ReportCard_0-1-00.html)|
 |[TAT - Topographic Analyis Toolkit](https://tat.riverscapes.net)|Cell|Reach|Python|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Operational-Grade|
 |[ToPCAT - Topographic Point Cloud Analysis Toolkit](http://tat.riverscapes.net/Help/Analysis/roughness-analysis-submenu/simple-topcat-roughness.html)|Cell|Reach|C++|<img src="{{ site.baseurl }}/assets/images/tools/esri_icon.png">|Research-Grade|
 |**Network Scale Tools**||||||
