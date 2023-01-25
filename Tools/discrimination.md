@@ -33,14 +33,14 @@ RC**tools** are deployed to users thorugh a variety of interfaces:
 Most tools have just one deployment interface, some have multiple. 
 
 ## Tool Grade
-We classify the grade of our tools according to their growth from innovative research ideas, through to operational tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployable professional tools that are robust and usable by any user in very different settings.
+We classify the grade of our tools along a continuum of growth from innovative research [ideas](#concept), through to [operational](#operational-grade) tools in development that (with a little love and patience) can be run by someone other than the developer, on through to more broadly deployable [professional](#professional-grade) tools that are robust and usable by any user in very different settings. Tools that have the potential to be efficiently run with greater repetition and/or across greater spatial extents or at greater resolution may be upgraded to [production-grade](#production-grade) tools whereas those that can then be deployed to much broader audiences in the most accessible platforms (e.g. Mobile Aps, Web Aps) and with ease of sharing maybe ultimately be launched as [commercial-grade](#commercial-grade) tools.
+
 <div align="center">
     <img src="{{ site.baseurl }}/assets/images/tools/grade/Tool_Badges_wText_All_700w.png">
 </div>
 
+
 Our [RC Technical Committee]({{ site.baseurl }}\About\) ranks a **tool's grade** status using the following criteria:
-
-
 
 | [Technology<br>Readiness Level](#technological-readiness-levels) | Tool Status |Badge | Vetted in <br>Peer-Reviewed <br>Literature | Source Code <br>Documentation | Open Source | User <br>Documentation | Easy User <br>Interface | Scalability |
 |:-----------------------------:|------------------------|:------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
@@ -80,12 +80,14 @@ The vast majority of research papers published in the riverscape sciences that u
 
 
 -------
-#### Research Grade
+#### Research-Grade
 <img class="float-left" src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_256w.png"> 
 
-**Research-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_32p.png"> *is defined as.* 
+**Research-Grade** <img src="{{ site.baseurl }}/assets/images/tools/grade/TRL_3_32p.png"> *tools are those that are supported by peer-reviewed science, have formally been packaged up, and maybe even made open-source, but it is a tool that has really only been applied and validated within the researcher's own lab and/or study-sites.* 
 
-Some explanation.
+**Research-Grade** tools are typically those that researchers have built to make their life easier, but the idea of the tool might be aluring to other potential users. Such tools might be associated with a methodological contribution, that other researchrs and users would like to apply or replicate, but for them to actually get the tool to work on their machine, with their data might be difficult to impossible.  These tools are sort of "buyer beware", in that they are not really made (yet) for other users (and in the case of open-source, the  "buyers" haven't paid anything... ["you get what you pay for"](https://www.merriam-webster.com/dictionary/you%20get%20what%20you%20pay%20for#:~:text=%E2%80%94used%20to%20say%20that%20a,get%20what%20you%20pay%20for.%22)).
+
+If the RC <img src="{{ site.baseurl }}/assets/images/RC/RC_28.png"> is successful, we will make it easier. They are  for more researchers to lift their tools from a [proof of concept](#proof-of-concept) to **research-grade**. Research-grade tools are the minimum level required to achieve some degree of [**F**-**A**-**I**-**R**](https://force11.org/info/the-fair-data-principles/)-ness. However, the outputs of such tools can reach broader audiences more effectively, if these tools are made to output Produces [Riverscapes Projects]({{ site.baseurl }}/Tools/Technical_Reference/Documentation_Standards/Riverscapes_Projects/) <img  src="https://riverscapes.net/assets/images/data/RiverscapesProject_24.png"> that can be easily consumed from a cloud-based [Warehouse]() and explored with the RiversCapes Viewer.. 
 
 Research-grade tools straddle the "research" and "development" [TRLs](#technological-readiness-levels), where some degree of validation of the outputs and its potential utility has been demonstrated. However, the tool's application or utility for users outside the developers research group is limited. 
 
@@ -131,6 +133,8 @@ These tool-grade ideas are based on the concept of [Technological Readiness Leve
 <div align="center">
 <a href=""><img src="{{ site.baseurl }}/assets/images/tools/TRL.png"></a></div>
 
+<!-----
+## What is FAIR anyway?  --->
 
 
 
