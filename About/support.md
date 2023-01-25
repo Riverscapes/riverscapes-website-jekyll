@@ -2,26 +2,33 @@
 title: Getting Support
 ---
 
-While all the riverscapes [tools](), [data]() and [science]() are freely available and documented, that doesn't necessarily mean you'll find everything you need to make it work for you or that what we have meets your needs. The consortium is not available for hire per se, but the [individuals behind the consortium]() can be contacted and/or contracted for help with specific problems, projects and inquiries. In general, despite most of these individuals being very busy and in high-demand, we are an altruistic bunch and are largely very generous with our time. That said, very few of these individuals have endless time or resources (i.e. staff) to get work done, and most of us work on soft-money (i.e. grants and contracts). As such, we try to provide as many resources as possible for free to help you 'do it yourself', as well as affordable workshops & courses to get you trained up economically. However, if you need more help, it is availble by contacting the right organizations and individuals listed below.
+While all the riverscapes [tools](), [data]() and [science]() are freely available and documented, that doesn't necessarily mean you'll find everything you need to make it work for you or that what we have meets your needs. The consortium is not available for hire per se, but the [contributing individuals behind the consortium]() can be contacted and/or contracted for help with specific problems, projects and inquiries. In general, despite most of these individuals being very busy and in high-demand, we are an altruistic bunch and are largely very generous with our time. That said, very few of these individuals have endless time or resources (i.e. staff) to get work done, and most of us work on soft-money (i.e. grants and contracts). As such, we try to provide as many resources as possible for free to help you 'do it yourself', as well as affordable workshops & courses to get you trained up economically. However, if you need more help, it is available by contacting the right organizations and individuals listed below.
 
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Organization|Analysis|R&D|Planning & Design|Construction|Monitoring|Training|Software|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Annabranch Solutions](http://www.anabranchsolutions.com)|&#x2713;|&#x2713;|&#x2713;|&#x2713;|&#x2713;|&#x2713;||
-|[Eco Logical Research](https://www.eco-logical-research.com)|&#x2713;|&#x2713;||||||
-|[North Arrow Research](http://norrtharrowresearch.com)|&#x2713;|&#x2713;|||||&#x2713;|
-|[South Fork Research](https://www.southforkresearch.org)|&#x2713;|&#x2713;|&#x2713;|||||
-|[USU Restoration Consortium](https://restoration.usu.edu)||||||&#x2713;||
-|[USU Wheaton Et Al Lab](http://etal.joewheaton.org)|&#x2713;|&#x2713;||||&#x2713;||
-|Watershed Solutions|&#x2713;||&#x2713;|&#x2713;|&#x2713;|||
+
+
+### Certified Riverscape Support Organization
+
+_NOTE: this list needs updating and this was only who was involved in the early days. Ideally, we would have a database of registered support specialist, and you can sort by regions and/or countries they work in, and the types of services they provide_
+
+|Organization|Analysis|R&D|Planning & Design|Construction|Monitoring|Training|Software Development|Application Support|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|-----|
+|[Annabranch Solutions](http://www.anabranchsolutions.com)|&#x2713;|&#x2713;|&#x2713;|&#x2713;|&#x2713;|&#x2713;|||
+|[Eco Logical Research](https://www.eco-logical-research.com)|&#x2713;|&#x2713;|||||||
+|[North Arrow Research](http://norrtharrowresearch.com)|&#x2713;|&#x2713;|||||&#x2713;||
+|[South Fork Research](https://www.southforkresearch.org)|&#x2713;|&#x2713;|||||||
+|[USU Restoration Consortium](https://restoration.usu.edu)||||||&#x2713;|||
+|[USU Wheaton Et Al Lab](http://etal.joewheaton.org)|&#x2713;|&#x2713;||||&#x2713;|&#x2713;|&#x2713;&#x2713;|
+|Watershed Solutions|&#x2713;||&#x2713;|&#x2713;|&#x2713;||||
+
+To become a Certified Riverscape Support Specialist, register an application for consideration here.  
 
 # Free Online Help for Tools and Data
 
-Each [riverscapes tool]({{ site.baseurl}}/Tools) is documented to varying degrees and you can find basic online help documentation as well as online issue boards (discussion forums) at each tool website.
+Each [riverscapes tool]({{ site.baseurl}}/Tools) is documented to varying degrees and you can find basic online help documentation as well as online issue boards (discussion forums) at each tool website. There is no single developer of Riverscapes-Compliant tools.  As such, questions about each riverscapes tool are best directed at the individual tool developers. Note that most open-source tools are developed based on funding tied to specific projects and/or grants, and not all tools are still actively funded or supported. 
 
 # Workshops and Courses
 
-Members of the consortium have been involved in delivering a large number of workshops and courses. Many of these trainings feature and/or focus on riverscapes tools. The most formal of these are taught through [Utah State University's Restoration Consortium](https://restoration.usu.edu/), and can be used to count towards a Graduate Restoration Certificate. 
+Members of the consortium have been involved in delivering a large number of workshops and courses. Many of these trainings feature and/or focus on riverscapes tools. The most formal of these are taught through [Utah State University's Restoration Consortium](https://restoration.usu.edu/), and can be used to count towards a Graduate Restoration Certificate as well as Professional Continuing Education Units. 
 
 # Analysis
 
